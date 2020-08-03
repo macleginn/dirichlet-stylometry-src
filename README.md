@@ -8,3 +8,5 @@ Data and scripts for a forthcoming paper:
     year    = "Forthcoming"
 }
 ```
+
+A preprint: https://www.academia.edu/43773962/Identifying_Latin_authors_through_maximum-likelihood_Dirichlet_inference_A_contribution_to_model-based_stylometry
