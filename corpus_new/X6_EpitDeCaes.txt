@@ -1,0 +1,1249 @@
+digiliblt biblioteca digitale di testi latini tardoantichi
+
+progetto diretto da raffaella tabacco responsabile della
+ricerca e maurizio lana
+
+
+
+epitome de caesaribus
+
+aurelius uictor ps
+
+correzione linguistica ualentina rinaldi
+
+codifica xml ualentina rinaldi
+
+
+
+libellus de uita et moribus imperatorum breuiatus ex libris sexti
+aurelii uictoris
+a caesare augusto usque ad theodosium
+  anno urbis conditae septingentesimo uicesimo secundo ab
+exactis uero regibus quadringentesimo octogesimoque mos romae
+repetitus uni prorsus parendi pro rege imperatori uel sanctiori
+nomine augusto appellato  octauianus igitur patre
+octauio senatore genitus maternum genus ab aenea per iuliam
+familiam sortitus adoptione uero gai caesaris maioris auunculi
+gaius caesar dictus deinde ob uictoriam augustus
+cognominatus est  iste in imperio positus tribuniciam
+potestatem per se exercuit  regionem aegypti inundatione nili
+accessu difficilem inuiamque paludibus in prouinciae formam
+redegit  quam ut annonae urbis copiosam efficeret fossas
+incuria uetustatis limo clausas labore militum patefecit 
+huius tempore ex aegypto urbi annua ducenties centena milia
+frumenti inferebantur  iste cantabros et aquitanos rhaetos
+uindelicos dalmatas prouinciarum numero populo romano coniunxit
+sueuos cattosque deleuit sigambros in galliam transtulit
+pannonios stipendiarios adiecit getarum populos basternasque
+lacessitos bellis ad concordiam compulit  huic persae obsides
+obtulerunt creandique reges arbitrium permiserunt  ad hunc
+indi scythae garamantes aethiopes legatos cum donis miserunt
+ adeo denique turbas bella simultates execratus est ut nisi
+iustis de causis numquam genti cuiquam bellum indixerit
+iactantisque esse ingenii et leuissimi dicebat ardore triumphandi
+et ob lauream coronam id est folia infructuosa in discrimen
+per incertos euentus certaminum securitatem ciuium praecipitare
+ neque imperatori bono quicquam minus quam temeritatem
+congruere satis celeriter fieri quicquid commode gereretur
+ armaque nisi maioris emolumenti spe nequaquam mouenda
+esse ne compendio tenui iactura graui petita uictoria similis
+sit hamo aureo piscantibus cuius abrupti amissique detrimentum
+nullo capturae lucro pensari potest  huius tempore trans
+rhenum uastatus est romanus exercitus atque tribuni et
+propraetor quod in tantum accidisse perdoluit ut cerebri ualido
+incursu parietem pulsaret ueste capilloque ac reliquis
+lugentium indiciis deformis  auunculi quoque inuentum
+uehementer arguebat qui milites commilitones nouo blandoque more
+appellans dum affectat carior fieri auctoritatem principis
+emolliuerat  denique erga ciues clementissime uersatus est
+ in amicos fidus extitit quorum praecipui erant ob
+taciturnitatem maecenas ob patientiam laboris modestiamque
+agrippa diligebat praeterea uirgilium rarus quidem ad
+recipiendas amicitias ad retinendas constantissimus 
+liberalibus studiis praesertim eloquentiae in tantum incumbens
+ut nullus ne in procinctu quidem laberetur dies quin legeret
+scriberet declamaret  leges alias nouas alias correctas
+protulit suo nomine auxit ornauitque romam aedificiis multis
+isto glorians dicto  urbem latericiam repperi relinquo
+marmoream  fuit mitis gratus ciuilis animi et lepidi
+corpore toto pulcher sed oculis magis quorum acies
+clarissimorum siderum modo uibrans libenter accipiebat cedi ab
+intendentibus tamquam solis radiis aspectu suo a cuius facie dum
+quidam miles oculos auerteret et interrogaretur ab eo cur ita
+faceret respondit quia fulmen oculorum tuorum ferre non
+possum
+
+ nec tamen uir tantus uitiis caruit fuit enim paululum
+impatiens leniter iracundus occulte inuidus palam factiosus
+porro autem dominandi supra quam aestimari potest cupidissimus
+studiosus aleae lusor  cumque esset cibi ac uini multum
+aliquatenus uero somni abstinens seruiebat tamen libidini usque
+ad probrum uulgaris famae nam inter duodecim catamitos
+totidemque puellas accubare solitus erat  abiecta quoque
+uxore scribonia amore alienae coniugis possessus liuiam quasi
+marito concedente sibi coniunxit cuius liuiae iam erant filii
+tiberius et drusus  cumque esset luxuriae seruiens erat
+tamen eiusdem uitii seuerissimus ultor more hominum qui in
+ulciscendis uitiis quibus ipsi uehementer indulgent acres sunt
+nam poetam ouidium qui et naso pro eo quod tres libellos
+amatoriae artis conscripsit exilio damnauit  quodque est
+laeti animi uel amoeni oblectabatur omni genere spectaculorum
+praecipue ferarum incognita specie et infinito numero
+
+ annos septem et septuaginta ingressus nolae morbo interiit
+ quamquam alii scribant dolo liuiae exstinctum metuentis ne
+quia priuignae filium agrippam quem odio nouercali in insulam
+relegauerat reduci compererat eo summam rerum adepto poenas
+daret  igitur mortuum seu necatum multis nouisque honoribus
+senatus censuit decorandum nam praeter id quod antea patrem
+patriae dixerat templa tam romae quam per urbes celeberrimas ei
+consecrauit cunctis uulgo iactantibus utinam aut non
+nasceretur aut non moreretur  alterum pessimi incepti
+exitus praeclari alterum nam et in adipiscendo principatu
+oppressor libertatis est habitus et in gerendo ciues sic amauit
+ut tridui frumento in horreis quondam uiso statuisset ueneno
+mori si e prouinciis classes interea non uenirent  quibus
+aduectis felicitati eius salus patriae est attributa imperauit
+annos quinquaginta et sex duodecim cum antonio quadraginta uero
+et quattuor solus  qui certe nunquam aut reipublicae ad se
+potentiam traxisset aut tamdiu ea potiretur nisi magnis naturae
+et studiorum bonis abundasset
+
+  claudius tiberius liuiae filius caesaris octauiani
+priuignus imperauit annos uiginti tres  iste quia claudius
+tiberius nero dicebatur eleganter a iocularibus caldius biberius
+mero ob uinolentiam nominatus est  satis prudens in armis
+satisque fortunatus ante sumptum imperium sub augusto fuit ut
+non immerito reipublicae dominatus ei committeretur  inerat
+ei scientia litterarum multa eloquio clarior sed ingenio
+pessimo truci auaro insidioso simulans ea se uelle quae nollet
+his quasi infensus quibus consultum cupiebat his uero quos
+oderat quasi beniuolus apparens  repentinis responsionibus
+aut consiliis melior quam meditatis  denique delatum a
+patribus principatum quod quidem astu fecerat ficte abnuere
+quid singuli dicerent uel sentirent atrociter explorans quae
+res bonos quosque pessumdedit  aestimantes enim ex animo eum
+longa oratione imperialis molestiae magnitudinem declinare cum
+sententias ad eius uoluntatem promunt incidere exitia postrema
+ iste cappadocas in prouinciam remoto archelao rege eorum
+redegit gaetulorum latrocinia repressit marobodum sueuorum
+regem callide circumuenit  cum immani furore insontes
+noxios suos pariter externosque puniret resolutis militiae
+artibus armenia per parthos moesia a dacis pannonia a sarmatis
+gallia a finitimis gentibus direptae sunt  ipse post
+octogesimum octauum annum et mensem quartum insidiis caligulae
+exstinctus est
+
+  caligula imperauit annos quattuor  iste filius
+fuit germanici et quia natus in exercitu fuerat cognomentum
+calciamenti militaris id est caligula sortitus est  ante
+principatum omnibus carus acceptusque fuit in principatu uero
+talis ut non inmerito uulgaretur atrociorem illo dominum non
+fuisse  denique tres sorores suas stupro maculauit 
+incedebat habitu deorum suorum iouem ob incestum e choro autem
+bacchanali liberum se asserebat  de quo nescio an decuerit
+memoriae prodi nisi forte quia iuuat de principibus nosse omnia
+ut improbi saltem famae metu talia declinent  in palatio
+matronas nobiles publicae libidini subiecit  primus diademate
+imposito dominum se iussit appellari  in spatio trium
+milium quod in sinu puteolano inter moles iacet duplici ordine
+naues contexens arenae aggestu ad terrae speciem uiam solidatam
+phalerato equo insignisque aenea corona quasi triumphans
+indutus aureo paludamento curru biiugo decucurrit  dehinc a
+militibus confossus interiit
+
+  claudius titus drusi tiberii fratris filius
+caligulae patruus imperauit annos quattuordecim  iste cum
+senatus censuisset gentem caesarum exterminari deformi latebra
+latere repertus a militibus quia uecors erat mitissimus
+uidebatur imprudentibus imperator effectus est  hic uentri
+uino libidini foede oboediens uecors et prope hebes ignauus ac
+pauidus libertorum et coniugis imperiis subiectus fuit  huius
+tempore scribonianus camillus intra dalmatias imperator creatus
+continuo occiditur mauri prouinciis accessere caesa
+musulamiorum manus est aqua claudia romae introducta  huius
+uxor messalina primo passim quasi iure adulteriis utebatur ex
+quo facto plures metu abstinentes exstincti sunt dehinc atrocius
+accensa nobiliores quasque nuptas et uirgines scortorum modo
+secum proposuerat coactique mares ut adessent quod si quis
+talia horruerat afficto crimine in ipsum omnemque familiam
+saeuiebatur ut magis uideretur sub imperatore uiro quam
+imperatori nupta esse  ita liberti eius potestatem summam
+adepti stupris exilio caede proscriptionibus omnia foedabant 
+ex quibus felicem legionibus iudaeae praefecit possidonio
+eunucho post triumphum britannicum inter militarium fortissimos
+arma insignia tamquam participi uictoriae dono dedit 
+polybium inter consules medium incedere fecit hos omnes anteibat
+narcissus ab epistulis dominum se gerens ipsius domini
+pallasque praetoriis ornamentis sublimatus adeo diuites ut
+causante eo inopiam fisci lepidissime famoso elogio uulgatum sit
+abunde ei pecuniam fore si a duobus libertis in societatem
+reciperetur  huius temporibus uisus est apud aegyptum
+phoenix quam uolucrem ferunt anno quingentesimo ex arabis
+memoratos locos aduolare atque in aegaeo mari repente insula
+emersit  hic agrippinam germanici fratris sui filiam
+uxorem duxit quae filio imperium procurans primo priuignos
+insidiis multiformibus dehinc ipsum coniugem ueneno interemit
+ uixit annos sexaginta quattuor cuius funus ut quondam in
+tarquinio prisco diu occultatum  dum arte muliebri corrupti
+custodes aegrum simulant nero priuignus eius imperii iura
+suscepit
+
+  domitius nero patre domitio ahenobarbo genitus matre
+agrippina imperauit annos tredecim  iste quinquennio
+tolerabilis uisus unde quidam prodidere traianum solitum dicere
+procul distare cunctos principes neronis quinquennio  hic in
+urbe amphitheatrum et lauacra construxit  pontum in ius
+prouinciae polemonis reguli permissu redegit a quo polemoniacus
+pontus appellatur itemque cottias alpes cottio rege mortuo 
+eo namque dedecore reliquum uitae egit ut pudeat memorare
+huiuscemodi quemquam eo progressus est ut neque suae neque
+aliorum pudicitiae parcens ad extremum amictus nubentium
+uirginum specie palam conuocato senatu dote dicta cunctis festa
+more frequentantibus nuberet pelle tectus ferae utrique sexui
+genitalia uultu contrectabat matrem etiam stupro contaminauit
+quam postmodum interemit octauiam et sabinam cognomento poppaeam
+in matrimonium duxit uiris earum trucidatis  tunc galba
+hispaniae proconsul et gaius iulius imperium corripuere  ubi
+aduentare nero galbam didicit senatusque sententia constitutum
+ut more maiorum collo in furcam coniecto uirgis ad necem
+caederetur desertus undique noctis medio egressus urbe
+sequentibus phaone epaphrodito neophytoque et spadone sporo quem
+quondam exsectum formare in mulierem temptauerat semet ictu
+gladii transegit adiuuante trepidantem manum impuro de quo
+diximus eunucho cum sane prius nullo reperto a quo feriretur
+exclamaret itane nec amicum habeo nec inimicum dedecorose
+uixi turpius peream  periit anno aetatis tricesimo secundo
+hunc persae in tantum dilexerant ut legatos mitterent orantes
+copiam construendi monumenti  ceterum adeo cunctae prouinciae
+omnisque roma interitu eius exultauit ut plebs induta pilleis
+manumissionum tamquam saeuo exempta domino triumpharet
+
+  galba nobili sulpiciorum gente progenitus imperauit
+menses septem diesque totidem  iste in adulescentes infamis
+ad uescendum intemperans fuit trium amicorum consilio id est
+uinii cornelii icelii cuncta disponens adeo ut intra palatinas
+aedes pariter habitarent et uulgo paedagogi dicerentur  hic
+ante sumptam dominationem multas prouincias egregie
+administrauit militem seuerissime tractans ita ut ingresso eo
+castra uulgaretur statim disce militare miles galba est non
+gaetulicus  cum septuagesimum tertium aetatis annum ageret
+dum factione othonis accensas legiones lorica tectus lenire
+contenderet ad lacum curtium caesus est
+
+  saluius otho splendidis ortus maioribus ex oppido
+ferentano imperauit menses tres uita omni turpis maxime
+adulescentia  hic a uitellio primum apud placentiam dehinc
+apud betriacum uictus semet gladio transfixit anno aetatis
+tricesimo septimo adeo amabilis militibus propriis ut plerique
+corpore eius uiso suis manibus interierint
+
+  uitellius ortus familia nobili patre lucio uitellio
+ter consule imperauit menses octo  iste tumens crudelis
+auarusque cum profusione fuit  huius tempore uespasianus in
+oriente principatum arripuit a cuius militibus certamine sub
+muris urbis habito superatus e palatio quo se abdiderat
+uitellius uinctis a tergo manibus productus circumducitur ad
+spectaculum uulgi  ac ne homo impudens in extremis saltem
+malorum quae gesserat rubore faciem demitteret subiecto in
+mentum gladio seminudus multis coeno fimoque et ceteris
+turpioribus dictu purgamentis uultum eius incessentibus per
+scalas gemonias trahitur ubi sabinum uespasiani fratrem necari
+permiserat  numerosis ictibus confossus interiit uixit
+annos quinquaginta septem  hi omnes quos paucis attigi
+praecipue caesarum gens adeo litteris culti atque eloquentia
+fuere ut ni cunctis uitiis absque augusto nimii forent
+profecto texissent modica flagitia
+
+  uespasianus imperauit annos decem  huius inter
+cetera bona illud singulare fuit inimicitias obliuisci adeo ut
+uitellii hostis filiam locupletissime dotatam splendidissimo
+coniungeret uiro  ferebat patienter amicorum motus
+contumeliis eorum ut erat facetissimus iocularibus respondens
+namque licinium mucianum quo adiutore ad imperium peruenerat
+fiducia meritorum insolentem lepide flectebat adhibito aliquo
+utrique familiari id unum dicens nosti me uirum esse  sed
+quid mirum in amicis cum etiam causidicorum obliqua dicta et
+philosophorum contumaciam contemneret  iste exsanguem diu
+fessumque terrarum orbem breui refecit namque primum satellites
+tyrannidis nisi qui forte atrocius longe processerant flectere
+potius maluit quam excruciatos delere prudentissime ratus
+nefaria ministeria a pluribus metu curari  praeterea legibus
+aequissimis monendoque quodque uehementius est uitae specie
+uitiorum plura aboleuerat  infirmus tamen uti quidam praue
+putant aduersus pecuniam cum satis constet aerarii inopia et
+clade urbium nouas eum neque postea habitas uectigalium pensiones
+exquisiuisse  hic romam deformem incendiis ueteribus ac
+ruinis permissa si domini deessent uolentibus aedificandi
+copia capitolium aedem pacis claudii monumenta reparauit
+multaque noua instituit  per omnes terras qua ius romanum
+est renouatae urbes cultu egregio uiae operibus maximis munitae
+sunt  tunc cauati montes per flaminiam sunt prono
+transgressui quae uulgariter pertunsa petra uocitatur 
+mille gentes compositae cum ducentas aegerrime repperisset
+extinctis saeuitia tyrannorum plerisque  rex parthorum
+uologeses metu solo in pacem coactus est  syria cui
+palaestina nomen est ciliciaque ac trachia et commagene quam
+hodie augustophratensem nominamus prouinciis accessere iudaei
+quoque additi sunt  hic monentibus amicis ut caueret a
+mettio pomposiano de quo sermo percrebuerat regnaturum fore
+consulem fecit alludens tali cauillo  quandoque memor erit
+tanti beneficii institutum uero uniforme omni imperio tenuit
+uigilare de nocte publicisque actibus absolutis caros admittere
+dum salutatur calciamenta sumens et regium uestitum post autem
+negotiis quaecunque aduenissent auditis exerceri uectatione
+deinde requiescere postremo ubi lauisset remissiore animo
+conuiuium curabat  plura dicere studium coegit imperatoris
+boni quem ab augusti morte post annos sex et quinquaginta romana
+respublica exsanguis saeuitia tyrannorum quasi fato quodam ne
+penitus rueret assecuta est  itaque annum agens uitae
+absque uno septuagesimum seriis ioca quibus delectabatur
+admiscens interiit  quippe primo cum crinitum sidus
+apparuisset istud inquit ad regem persarum pertinet cui
+capillus effusior deinde uentris eluuie fessus et assurgens
+stantem ait imperatorem excedere terris decet
+
+  titus uocabulo patris etiam uespasianus dictus
+matre liberta domitilla nomine genitus imperauit annos duos et
+menses duos diesque uiginti  iste a puero praeclaris studiis
+probitatis militiae litterarum instantissime deditus quo
+contenderit animi et corporis muneribus ostendit  hic ubi
+patriae curam suscepit incredibile est quantum quem
+imitabatur anteierit praecipue clementia liberalitate
+honorificentia ac pecuniae contemptu quae eo amplius grata
+fuere quod ex nonnullis a priuato adhuc patratis asperior
+luxuriaeque et auaritiae amans credebatur fore  namque
+praefecturam praetorianam patre imperante adeptus suspectum
+quemque et oppositum sibi immissis qui per theatra et castris
+inuidiosa iactantes ad poenam poscerent quasi criminis conuictos
+oppressit in quis caecinam consularem adhibitum coenae uixdum
+triclinio egressum ob suspicionem stupratae berenicis uxoris
+suae iugulari iussit  iurgia autem sub patre uenumdata
+rapinarum cupidum unde neronem cuncti opinantes uocantesque
+summam rerum nactum grauiter acceperant  sed haec in melius
+conuersa adeo ei immortalem gloriam contulere ut deliciae atque
+amor humani generis appellaretur  denique ut subiit pondus
+regium berenicen nuptias suas sperantem regredi domum et
+eneruatorum greges abire praecepit  quo facto quasi signum
+protulit mutatae intemperantiae dehinc cum donata concessaue a
+prioribus principibus firmare insequentes solerent simul
+imperium cepit talia possidentibus edicto sponte cauit 
+quadam etiam die recordans uesperi nihil se cuiquam praestitisse
+uenerando caelestique dicto amici ait perdidimus diem
+quod erat magnificae liberalitatis  clementiam uero usque eo
+perduxit ut amplissimi ordinis duo cum aduersus eum
+coniurauissent neque abnuere cogitatum scelus quirent monuerit
+primo post deductos in spectaculum se utrimque assidere iusserit
+petitoque ex industria mirmillonum quorum pugnae uisebantur
+gladio quasi ad explorandam aciem uni atque alteri commiserit
+quibus perculsis et constantiam mirantibus diceret uidetisne
+potestates fato dari frustraque temptari facinus potiundi spe uel
+amittendi metu  fratrem quoque domitianum parantem
+insidias militumque animos sollicitantem flens saepius obtestatus
+est ne parricidio assequi cuperet quod et se uolente esset
+obuenturum ei et iam haberet cum sit particeps potestatis 
+huius tempore mons uesubius in campania ardere coepit
+incendiumque romae sine nocturna requie per triduum fuit 
+lues quoque quanta uix umquam antea fuit  quibus tamen
+malis nullo uexato pecunia propria subuenit cunctis remediorum
+generibus nunc aegrotantes per semetipsum reficiens nunc
+consolans suorum mortibus afflictos  uixit annos quadraginta
+unum et in eodem quo pater apud sabinos agro febri interiit
+ huius mors credi uix potest quantum luctus urbi
+prouinciisque intulerit adeo ut eum delicias publicas sicut
+diximus appellantes quasi perpetuo custode orbatum terrarum
+orbem deflerent
+
+  domitianus uespasiani et domitillae libertae filius
+germanus titi imperauit annos quindecim  iste primo
+clementiam simulans neque adeo iners domi belloque tolerantior
+uidebatur idcircoque cattos germanosque deuicit  ius
+aequissime dixit romae multa aedificia uel coepta uel a
+fundamentis construxit  bibliothecas incendio consumptas
+petitis undique praesertim alexandria exemplis reparauit 
+sagittarum tam doctus fuit ut inter patentes digitos extentae
+manus uiri procul positi spicula transuolarent  dehinc atrox
+caedibus bonorum supplicia agere coepit ac more c caligulae
+dominum sese deumque dici coegit segnisque ridicule remotis
+omnibus muscarum agmina persequebatur  furens libidine cuius
+foedum exercitium graecorum lingua  uocabat 
+hinc percontanti cuidam quisquamne in palatio esset responsum
+ne musca quidem  his eius saeuitiis ac maxime iniuria
+uerborum qua scortum uocari dolebat accensus antonius curans
+germaniam superiorem imperium corripuit  quo per norbanum
+lappium acie strato domitianus longe tetrior in omne hominum
+genus etiam in suos ferarum more grassabatur  igitur metu
+crudelitatis et conscientiae suae coniurauere plerique
+impulsoribus parthenio procurante cubiculum et stephano et tum ob
+fraudem interceptae pecuniae supplicium suspectante clodiano
+ascita etiam in consilium tyranni uxore domitia ob amorem paridis
+histrionis a principe cruciatus formidante  domitianum
+multis uulneribus confodiunt post annum quintum et quadragesimum
+uitae  at senatus gladiatoris more funus efferri radendumque
+nomen decreuit  huius tempore saeculares ludi celebrati
+sunt
+
+ hactenus romae seu per italiam orti imperium rexere hinc
+aduenae unde compertum est urbem romam externorum uirtute
+creuisse quid enim nerua prudentius aut moderatius quid traiano
+diuinius quid praestantius hadriano
+
+  cocceius nerua oppido narniensi genitus imperauit
+menses sedecim dies decem  iste cum imperium suscepisset mox
+rumore orto uiuere atque affore domitianum perinde trepidauit
+ut colore mutato uerbis amissis uix consisteret sed a parthenio
+confirmatus recepta fiducia ad sollemne delenimentum conuersus
+est  qui cum in curiam a senatu gratanter exceptus esset
+solus ex omnibus arrius antoninus uir acer eique amicissimus
+condicionem imperantium prudenter exprimens amplexus eum
+gratulari se ait senatui et populo prouinciisque ipsi autem
+nequaquam cui satius fuerat malos semper principes eludere quam
+tanti oneris uim sustinentem haud molestiis modo et periculis
+subici sed famae etiam inimicorum pariter et amicorum qui cum
+se mereri omnia praesumant si quicquam non extorserint
+atrociores sunt ipsis quoque hostibus  iste quicquid antea
+poenae nomine tributis accesserat indulsit afflictas ciuitates
+releuauit puellas puerosque natos parentibus egestosis sumptu
+publico per italiae oppida ali iussit  hic ne accessu
+maliuolorum terreretur iunii maurici constantis uiri dicto ita
+admonetur qui conuiuio familiari adhibitus cum ueientonem
+consulari honore functum quidem apud domitianum tamen multos
+occultis criminationibus persecutum adesse uidisset inter
+colloquia mentione catulli facta calumniatoris praecipui
+dicente nerua quid nunc faceret si domitiano superuixisset
+nobiscum inquit mauricus cenaret hic iurgiorum disceptator
+et scientissimus et frequens fuit  calpurnium crassum
+promissis ingentibus animos militum pertemptantem detectum
+confessumque tarentum cum uxore remouit patribus lenitatem eius
+increpantibus cumque interfectores domitiani ad exitium
+poscerentur tantum est consternatus ut neque uomitum neque
+impetum uentris ualuerit differre  et tamen uehementer
+obstitit dictitans aequius esse mori quam auctoritatem imperii
+foedare proditis potentiae sumendae auctoribus  sed milites
+neglecto principe requisitos petronium uno ictu parthenium uero
+demptis prius genitalibus et in os coniectis iugulauere redempto
+magnis sumptibus casperio qui scelere tam truci insolentior
+neruam compulit referre apud populum gratias militibus quia
+pessimos nefandosque omnium mortalium peremissent  hic
+traianum in liberi locum inque partem imperii cooptauit cum quo
+tribus uixit mensibus  qui dum suggerente ira uoce quam
+maxima contra quendam regulum nomine inclamaret sudore correptus
+est  quo refrigescente horror corporis nimius initia febri
+praebuit nec multo post uitam finiuit anno aetatis sexagesimo
+tertio  cuius corpus a senatu ut quondam augusti honore
+delatum in sepulcro augusti sepultum est eo die quo interiit
+solis defectio facta est
+
+  ulpius traianus ex urbe tudertina ulpius ab auo
+dictus traianus a traio paterni generis auctore uel de nomine
+traiani patris sic appellatus imperauit annis uiginti  iste
+talem se reipublicae praebuit qualem uix aegreque exprimere
+ualuerint summorum scriptorum miranda ingenia  hic imperium
+apud agrippinam nobilem galliae coloniam suscepit habens
+diligentiam in re militari in ciuilibus lenitatem in
+subleuandis ciuitatibus largitionem  cumque duo sint quae ab
+egregiis principibus exspectentur sanctitas domi in armis
+fortitudo utrobique prudentia tantus erat in eo maximarum rerum
+modus ut quasi temperamento quodam uirtutes miscuisse
+uideretur nisi quod cibo uinoque paululum deditus erat 
+liberalis in amicos et tamquam uitae condicione par
+societatibus perfrui  hic ob honorem surae cuius studio
+imperium arripuerat lauacra condidit  de quo superuacaneum
+uidetur cuncta uelle nominatim promere cum satis sit excultum
+atque emendatum dixisse  fuit enim patiens laboris studiosus
+optimi cuiusque ac bellicosi magis simpliciora ingenia aut
+eruditissimos quamuis ipse parcae esset scientiae moderateque
+eloquens diligebat  iustitiae uero ac iuris humani diuinique
+tam repertor noui quam inueterati custos  quae omnia eo
+maiora uisebantur quo per multos atque atroces tyrannos perdito
+atque prostrato statu romano in remedium tantorum malorum
+diuinitus credebatur opportune datus usque eo ut adueniens
+imperium eius pleraque mirifica denuntiauerint in quis
+praecipuum cornicem e fastigio capitolii atticis sermonibus
+effatam esse    huius exusti corporis cineres
+relati romam humatique traiani foro sub eius columna et imago
+superposita sicut triumphantes solent in urbem inuecta senatu
+praeeunte et exercitu  eo tempore multo perniciosius quam
+sub nerua tiberis inundauit magna clade aedium proximarum et
+terrae motus grauis per prouincias multas atroxque pestilentia
+famesque et incendia facta sunt  quibus omnibus traianus per
+exquisita remedia plurimum opitulatus est statuens ne domorum
+altitudo sexaginta superaret pedes ob ruinas faciles et sumptus
+si quando talia contingerent exitiosos  unde merito pater
+patriae dictus est uixit annos sexaginta quattuor
+
+  aelius adrianus stirpis italae aelio adriano
+traiani principis consobrino adriae orto genitus quod oppidum
+agri piceni etiam mari adriatico nomen dedit imperauit annis
+uiginti duobus  hic graecis litteris impensius eruditus a
+plerisque graeculus appellatus est atheniensium studia moresque
+hausit potitus non sermone tantum sed et ceteris disciplinis
+canendi psallendi medendique scientia musicus geometra pictor
+fictorque ex aere uel marmore proxime polycletus et euphranoras
+proinde omnino ad ista et facetus ut elegantius umquam raro
+quicquam humanae res expertae uideantur  memor supra quam
+cuiquam credibile est locos negotia milites absentes quoque
+nominibus recensere  immensi laboris quippe qui prouincias
+omnes passibus circumierit agmen comitantium praeuertens cum
+oppida uniuersa restitueret augeret ordinibus  namque ad
+specimen legionum militarium fabros perpendiculatores architectos
+genusque cunctum exstruendorum moenium seu decorandorum in
+cohortes centuriauerat  uarius multiplex multiformis ad
+uitia atque uirtutes quasi arbiter genitus impetum mentis quodam
+artificio regens ingenium inuidum triste lasciuum et ad
+ostentationem sui insolens callide tegebat continentiam
+facilitatem clementiam simulans contraque dissimulans ardorem
+gloriae quo flagrabat  acer nimis ad lacessendum pariter et
+respondendum seriis ioco maledictis referre carmen carmini
+dictum dictui prorsus ut meditatum crederes aduersus omnia 
+huius uxor sabina dum prope seruilibus iniuriis afficitur ad
+mortem uoluntariam compulsa quae palam iactabat se quod immane
+ingenium probauisset elaborasse ne ex eo ad humani generis
+perniciem grauidaretur  hic morbo subcutaneo quem diu
+placide pertulerat uictus dolore ardens impatiensque plures e
+senatu exstinxit  a regibus multis pace occultius muneribus
+impetrata iactabat palam plus se otio adeptum quam armis
+ceteros  officia sane publica et palatina nec non militiae
+in eam formam statuit quae paucis per constantinum immutatis
+hodie perseuerat  uixit annos sexaginta duos dehinc
+miserabili exitu consumptus est cruciatu membrorum fere omnium
+confectus in tantum ut crebro sese interficiendum ministrorum
+fidissimis precans offerret ac ne in semetipsum saeuiret
+custodia carissimorum seruaretur
+
+  antoninus fuluius seu boionius dictus postea etiam
+pius cognominatus imperauit annos uiginti tres  iste ab
+hadriano in filium adoptatus cuius gener fuerat tantae
+bonitatis in principatu fuit ut haud dubie sine exemplo uixerit
+ quamuis eum numae contulerit aetas sua cum orbem terrae
+nullo bello per annos uiginti tres auctoritate sola rexerit adeo
+trementibus eum atque amantibus cunctis regibus nationibusque et
+populis ut parentem seu patronum magis quam dominum
+imperatoremue reputarent omnesque in morem caelestium propitium
+optantes de controuersiis inter se iudicem poscerent  quin
+etiam indi bactri hyrcani legatos misere iustitia tanti
+imperatoris comperta quam ornabat uultu serie pulchro procerus
+membra decenter ualidus  priusquam salutandus prodiret
+degustans panis aliquantulum ne frigescente circum praecordia
+per ieiunium sanguine uiribus exesis interciperetur eoque actui
+publicorum minime sufficeret quae incredibili diligentia ad
+speciem optimi patrisfamilias exsequebatur  appetentia
+gloriae carens et ostentatione adeo mansuetus ut instantibus
+patribus ad eos qui contra eum coniurauerant persequendos
+compresserit quaestionem praefatus necesse non esse sceleris in
+semetipsum cupidos pertinacius indagari ne si plures
+reperirentur quantis odio esset intellegeretur  igitur apud
+lorios uilla propria milibus passuum duodecim ab urbe febri
+paucorum dierum post tres atque uiginti annos imperii consumptus
+est  ob cuius honorem templa sacerdotes atque infinita alia
+decreta sunt  usque eo autem mitis fuit ut cum ob inopiae
+frumentariae suspicionem lapidibus a plebe romana
+perstringeretur maluerit ratione exposita placare quam ulcisci
+seditionem
+
+  marcus aurelius antoninus imperauit annos decem et
+octo  iste uirtutum omnium caelestisque ingenii exstitit
+aerumnisque publicis quasi defensor obiectus est etenim nisi ad
+illa tempora natus esset profecto quasi uno lapsu ruissent omnia
+status romani  quippe ab armis quies nusquam erat perque
+omnem orientem illyricum italiam galliamque bella feruebant
+terrae motus non sine interitu ciuitatum inundationes fluminum
+lues crebrae locustarum species agris infestae prorsus ut prope
+nihil quo summis angoribus atteri mortales solent dici seu
+cogitari queat quod non illo imperante saeuierit  credo
+diuinitus attributum ut dum mundi lex seu natura aliudue quid
+hominibus incognitum gignit rectorum consiliis tamquam medicinae
+remediis leniantur  is propinquum suum lucium annium uerum
+ad imperii partem nouo beniuolentiae genere asciuit qui uerus
+inter altinum atque concordiam iter faciens ictu sanguinis quem
+morbum graeci  uocant undecimo imperii anno
+exstinctus est  carminum maxime tragicorum studiosus
+ingenii asperi atque lasciui  post cuius obitum marcus
+antoninus rempublicam solus tenuit a principio uitae
+tranquillissimus adeo ut ab infantia uultum nec ex gaudio nec
+ex maerore mutauerit philosophiae studens litterarumque
+graecarum peritissimus  hic permisit uiris clarioribus ut
+conuiuia eodem cultu quo ipse et ministris similibus
+exhiberent  hic cum aerario exhausto largitiones quas
+militibus impenderet non haberet neque indicere prouincialibus
+aut senatui aliquid uellet instrumentum regii cultus facta in
+foro traiani sectione distraxit uasa aurea pocula crystallina
+et murrina uxoriam ac suam sericam et auream uestem multa
+ornamenta gemmarum ac per duos continuos menses uenditio habita
+est multumque auri redactum  post uictoriam tamen emptoribus
+pretia restituit qui reddere comparata uoluerunt molestus
+nulli fuit qui maluit semel empta retinere  huius tempore
+cassius tyrannidem arripiens exstinctus est  ipse uitae anno
+quinquagesimo nono apud bendobonam morbo consumptus est  de
+eius morte nuntio romam peruecto confusa luctu publico urbe
+senatus in curiam ueste tetra amictus lacrimans conuenit  et
+quod de romulo aegre creditum est omnes pari consensu
+praesumpserunt marcum caelo receptum esse ob cuius honorem
+templa columnae multaque alia decreta sunt
+
+  aurelius commodus antonini filius antoninus et ipse
+dictus imperauit annos tredecim hic qualis futurus esset in
+ipso primordio ostendit  nam cum in supremis moneretur a
+parente attritos iam barbaros ne permitteret uires recipere
+responderat ab incolumi quamuis paulatim negotia perfici posse a
+mortuo nihil  saeuior omnibus libidine atque auaritia
+crudelitate nulli fidus magisque in eos atrox quos amplissimis
+honoribus donisque ingentibus extulerat  in tantum
+deprauatus ut gladiatoriis armis saepissime in amphitheatro
+dimicauerit  huic marcia generis libertini forma tamen
+meretriciisque artibus pollens cum animum eius penitus
+deuinxisset egresso e balneo ueneni poculum obtulit  ad
+extremum ab immisso ualidissimo palaestrita compressis faucibus
+exspirauit anno uitae tricesimo secundoque
+
+  heluius pertinax imperauit dies octoginta quinque
+iste coactus imperium repugnansque suscipiens tale cognomentum
+sortitus est  origine ortus sordida praefecturam urbi agens
+imperator effectus scelere iuliani multis uulneribus obtruncatur
+annos natus septem atque sexaginta huius caput tota urbe
+circumuectum est  hoc exitu obiit uir ad humanae
+conuersationis exemplum per laboris genera uniuersa ad summos
+prouectus usque eo ut fortunae uocaretur pila  nam
+libertino genitus patre apud ligures in agro squalido lollii
+gentiani cuius in praefectura quoque clientem se esse
+libentissime fatebatur fuit doctor litterarum quae a
+grammaticis traduntur blandus magis quam beneficus unde eum
+graeco nomine  appellauere  numquam iniuria
+accepta ad ulciscendum ductus amabat simplicitatem communem se
+affatu conuiuio incessu praebebat  huic mortuo diui nomen
+decretum est ob cuius laudem ingeminatis ad uocis usque defectum
+plausibus acclamatum est pertinace imperante securi uiximus
+neminem timuimus patri pio patri senatus patri omnium
+bonorum
+
+  didius iulianus ortu mediolanensis imperauit
+mensibus septem uir nobilis iure peritissimus factiosus praeceps
+regni auidus  hoc tempore niger pescennius apud antiochiam
+in pannoniae sabaria septimius seuerus creantur augusti  ab
+hoc seuero iulianus in abditas palatii balneas ductus extenta
+damnatorum modo ceruice decollatur caputque eius in rostris
+ponitur
+
+  septimius seuerus imperauit annos decem et octo 
+hic pescennium interemit hominem omnium turpitudinum sub eo
+etiam albinus qui in gallia se caesarem fecerat apud lugdunum
+occiditur  hic seuerus filios suos successores reliquit
+bassianum et getam  hic in britannia uallum per triginta duo
+passuum milia a mari ad mare deduxit  fuit bellicosissimus
+omnium qui ante eum fuerunt acer ingenio ad omnia quae
+intendisset in finem perseuerans beniuolentia quo inclinasset
+mirabili ac perpetua ad quaerendum diligens ad largiendum
+liberalis  in amicos inimicosque pariter uehemens quippe qui
+lateranum cilonem anullinum bassum ceterosque alios ditaret
+aedibus quoque memoratu dignis quarum praecipuas uidemus
+parthorum quae dicuntur ac laterani  hic nulli in dominatu
+suo permisit honores uenumdari  latinis litteris sufficienter
+instructus graecis sermonibus eruditus punica eloquentia
+promptior quippe genitus apud leptim prouinciae africae is
+dum membrorum omnium maxime pedum dolorem pati nequiret ueneni
+uice quod ei negabatur cibum grauis ac plurimae carnis auidius
+inuasit quem cum conficere non posset cruditate pressus
+exspirauit  uixit annos sexaginta quinque
+
+  aurelius antoninus bassianus caracalla seueri
+filius lugduni genitus imperauit solus annos sex  hic
+bassianus ex aui materni nomine dictus est at cum e gallia
+uestem plurimam deuexisset talaresque caracallas fecisset
+coegissetque plebem ad se salutandum indutam talibus introire de
+nomine huiusce uestis caracalla cognominatus est  hic
+fratrem suum getam peremit ob quam causam furore poenas dedit
+dirarum insectatione quae non immerito ultrices uocantur a quo
+post furore conualuit  hic corpore alexandri macedonis
+conspecto magnum atque alexandrum se iussit appellari
+assentantium fallaciis eo perductus uti truci fronte et ad
+laeuum humerum conuersa ceruice quod in ore alexandri notauerat
+incedens fidem uultus simillimi persuaderet sibi  fuit
+impatientis libidinis quippe qui nouercam suam duxit uxorem
+cum carras iter faceret apud edessam secedens ad officia
+naturalia a milite qui quasi ad custodiam sequebatur
+interfectus est  uixit annos fere triginta corpus eius romam
+relatum est
+
+  macrinus cum diadumeno filio ab exercitu imperatores
+creati imperauerunt menses quattuordecim et ab eodem exercitu
+obtruncantur pro eo quod macrinus militarem luxuriam
+stipendiaque profusiora comprimeret
+
+  aurelius antoninus uarius idem heliogabalus
+dictus caracallae ex soemea consobrina occulte stuprata filius
+imperauit biennio et mensibus octo  huius matris soemeae auus
+bassianus nomine fuerat solis sacerdos quem phoenices unde
+erat heliogabalum nominabant a quo iste heliogabalus dictus
+est  is cum romam ingenti militum et senatus exspectatione
+uenisset probris se omnibus contaminauit cupiditatem stupri
+quam assequi naturae defectu nondum poterat in se conuertens
+muliebri nomine bassianam se pro bassiano iusserat appellari
+uestalem uirginem quasi matrimonio iungens suo abscisisque
+genitalibus matri se magnae sacrauit  hic marcellum qui post
+alexander dictus est consobrinum suum caesarem fecit  ipse
+tumultu militari interfectus est  huius corpus per urbis uias
+more canini cadaueris a militibus tractum est militari cauillo
+appellantium indomitae rabidaeque libidinis catulam nouissime
+cum angustum foramen cloacae corpus minime reciperet usque ad
+tiberim deductum adiecto pondere ne unquam emergeret in
+fluuium proiectum est  uixit annos sedecim atque ex re quae
+acciderat tiberinus tractitiusque appellatus est
+
+  seuerus alexander imperauit annos tredecim hic bonus
+reipublicae fuit aerumnosus sibi  sub hoc imperante
+taurinus augustus effectus ob timorem ipse se euphrate fluuio
+abiecit  tunc etiam maximinus regnum arripuit pluribus de
+exercitu corruptis  alexander uero cum deseri se ab
+stipatoribus uidisset matrem sibi causam fuisse mortis exclamans
+accurrenti percussori obuoluto capite ceruices ualide compressas
+praebuit anno uitae uicesimo sexto  huius mater mammaea eo
+filium coegerat ut illa ipsa permodica si mensae prandioque
+superessent quamuis semesa alteri conuiuio reponerentur
+
+  iulius maximinus thrax ex militaribus imperauit
+annos tres  is dum persequitur pecuniosos insontes pariter
+noxiosque apud aquileiam seditione militum discerptus est una
+cum filio conclamantibus cunctis militari ioco ex pessimo genere
+nec catulum habendum
+
+  huius imperio duo gordiani pater et filius
+principatum arripientes unus post unum interiere  pari etiam
+tenore pupienus et balbinus regnum inuadentes perempti sunt
+
+  gordianus nepos gordiani ex filia ortus romae
+clarissimo patre imperauit annos sex  apud ctesiphontem a
+philippo praefecto praetorio accensis in seditionem militibus
+occiditur anno uitae undeuicesimo  corpus eius prope fines
+romani persicique imperii positum nomen loco dedit sepulcrum
+gordiani
+
+  marcus iulius philippus imperauit annos quinque 
+ueronae ab exercitu interfectus est medio capite supra ordines
+dentium praeciso  filius autem eius gaius iulius saturninus
+quem potentiae sociauerat romae occiditur agens uitae annum
+duodecimum adeo seueri et tristis animi ut iam tum a
+quinquennii aetate nullo prorsus cuiusquam commento ad ridendum
+solui potuerit patremque ludis saecularibus petulantius
+cachinnantem quamquam adhuc tener uultu notauerit auersato 
+is philippus humillimo ortus loco fuit patre nobilissimo
+latronum ductore
+
+  decius e pannonia inferiore bubaliae natus
+imperauit menses triginta  hic decium filium suum caesarem
+fecit uir artibus cunctis uirtutibusque instructus placidus et
+communis domi in armis promptissimus  in solo barbarico
+inter confusas turbas gurgite paludis submersus est ita ut nec
+cadauer eius potuerit inueniri  filius uero eius bello
+exstinctus est uixit annos quinquaginta  huius temporibus
+ualens lucinianus imperator effectus est
+
+  uibius gallus cum uolusiano filio imperauerunt annos
+duos  horum temporibus hostilianus perpenna a senatu
+imperator creatus nec multo post pestilentia consumptus est
+
+  sub his etiam aemilianus in moesia imperator effectus
+est contra quem ambo profecti apud interamnam ab exercitu suo
+caeduntur anno aetatis pater septimo circiter et quadragesimo
+creati in insula meninge quae nunc girba dicitur  aemilianus
+uero mense quarto dominatus apud spoletium siue pontem quem ab
+eius caede sanguinarium accepisse nomen ferunt inter ocricolum
+narniamque spoletium et urbem romam regione media positum fuit
+autem maurus genere pugnax nec tamen praeceps  uixit annis
+tribus minus quinquaginta
+
+  licinius ualerianus cognomento colobius imperauit
+annos quindecim parentibus ortus splendissimis stolidus tamen
+et multum iners neque ad usum aliquem publici officii consilio
+seu gestis accommodatus  hic filium suum gallienum augustum
+fecit gallienique filium cornelium ualerianum caesarem  his
+imperantibus regillianus in moesia cassius latienus postumus in
+gallia gallieni filio interfecto imperatores effecti sunt 
+pari modo aelianus apud mogontiacum in aegypto aemilianus apud
+macedonas ualens mediolani aureolus dominatum inuasere 
+ualerianus uero in mesopotamia bellum gerens a sapore persarum
+rege superatus mox etiam captus apud parthos ignobili seruitute
+consenuit  nam quamdiu uixit rex eiusdem prouinciae
+incuruato eo pedem ceruicibus eius imponens equum conscendere
+solitus erat
+
+  gallienus quidem in loco cornelii filii sui
+salonianum alterum filium subrogauit amori diuerso pellicum
+deditus saloninae coniugis et concubinae quam per pactionem
+concessa parte superioris pannoniae a patre marcomannorum rege
+matrimonii specie susceperat pipam nomine  nouissime aduersus
+aureolum profectus est quem cum apud pontem qui ex eius nomine
+aureolus appellatur obtentum detrusumque mediolanum obsedit
+eiusdem aureoli commento a suis interiit  regnauit annos
+quindecim septem cum patre octo solus uixit annos
+quinquaginta
+
+  claudius imperauit anno uno mensibus nouem  hunc
+plerique putant gordiano satum dum adulescens a muliere matura
+institueretur ad uxorem hic claudius gallieni morientis
+sententia imperator designatur ad quem ticini positum per
+gallonium basilium indumenta regia direxerat exstinctoque a suis
+aureolo receptis legionibus aduersum gentem alamannorum haud
+procul a lacu benaco dimicans tantam multitudinem fudit ut aegre
+pars dimidia superfuerit  his diebus uictorinus regnum
+cepit claudius uero cum ex fatalibus libris quos inspici
+praeceperat cognouisset sententiae in senatu dicendae primi
+morte remedium desiderari pomponio basso qui tunc erat se
+offerente ipse uitam suam haud passus responsa frustrari dono
+reipublicae dedit praefatus neminem tanti ordinis primas habere
+quam imperatorem  ea res sicut erat cunctis grata non diui
+uocabulum modo sed ex auro statuam prope ipsum iouis simulacrum
+atque in curia imaginem auream proceres sacrauere  huic
+successit frater eius quintillus is paucis diebus imperium
+tenens interemptus est
+
+  aurelianus genitus patre mediocri et ut quidam
+ferunt aurelii clarissimi senatoris colono inter daciam et
+macedoniam imperauit annis quinque mensibus sex  iste haud
+dissimilis fuit magno alexandro seu caesari dictatori nam
+romanum orbem triennio ab inuasoribus receptauit cum alexander
+annis tredecim per uictorias ingentes ad indiam peruenerit et
+gaius caesar decennio subegerit gallos aduersum ciues
+quadriennio congressus iste in italia tribus proeliis uictor
+fuit apud placentiam iuxta amnem metaurum ac fanum fortunae
+postremo ticinensibus campis  huius tempore apud dalmatas
+septimius imperator effectus mox a suis obtruncatur  hoc
+tempore in urbe roma monetarii rebellarunt quos aurelianus
+uictos ultima crudelitate compescuit  iste primus apud
+romanos diadema capiti innexuit gemmisque et aurata omni ueste
+quod adhuc fere incognitum romanis moribus uisebatur usus est
+ hic muris ualidioribus et laxioribus urbem saepsit porcinae
+carnis usum populo instituit  hic tetricum qui imperator ab
+exercitu in galliis effectus fuerat correctorem lucaniae
+prouexit aspergens hominem eleganti ioco sublimius habendum
+regere aliquam italiae partem quam trans alpes regnare 
+nouissime fraude serui sui qui ad quosdam militares uiros
+amicos ipsius nomina pertulit annotata falso manum eius
+imitatus tamquam aurelianus ipsos pararet occidere ab iisdem
+interfectus est in itineris medio quod inter constantinopolim et
+heracleam est  fuit saeuus et sanguinarius et trux omni
+tempore etiam filii sororis interfector  hoc tempore septem
+mensibus interregni species euenit
+
+  tacitus post hunc suscepit imperium uir egregie
+moratus qui ducentesimo imperii die apud tarsum febri moritur
+ huic successit florianus sed cum magna pars exercitus
+equitium probum militiae peritum legisset florianus dierum
+sexaginta quasi per ludum imperio usus incisis a semetipso uenis
+effuso sanguine consumptus est
+
+  probus genitus patre agresti hortorum studioso
+dalmatio nomine imperauit annos sex  iste saturninum in
+oriente proculum et bonosum agrippinae imperatores effectos
+oppressit  uineas gallos et pannonios habere permisit opere
+militari almam montem apud sirmium et aureum apud moesiam
+superiorem uineis conseruit  hic sirmii in turri ferrata
+occiditur
+
+  carus narbonae natus imperauit annos duos  iste
+confestim carinum et numerianum caesares fecit  hic apud
+ctesiphonta ictu fulminis interiit  numerianus quoque filius
+eius cum oculorum dolore correptus in lecticula ueheretur
+impulsore apro qui socer eius erat per insidias occisus est
+ cum dolo occultaretur ipsius mors quousque aper inuadere
+posset imperium foetore cadaueris scelus est proditum  hinc
+sabinus iulianus inuadens imperium a carino in campis
+ueronensibus occiditur  hic carinus omnibus se sceleribus
+inquinauit plurimos innoxios fictis criminibus occidit
+matrimonia nobilium corrupit condiscipulis quoque qui eum in
+auditorio uerbi fatigatione taxauerunt perniciosus fuit  ad
+extremum trucidatur eius praecipue tribuni dextera cuius
+dicebatur coniugem polluisse
+
+  diocletianus dalmata anulini senatoris libertinus
+matre pariter atque oppido nomine dioclea quorum uocabulis
+donec imperium sumeret diocles appellatus ubi orbis romani
+potentiam cepit graium nomen in romanum morem conuertit
+imperauit annis uiginti quinque  is maximianum augustum
+effecit constantium et galerium maximianum cognomento
+armentarium caesares creauit tradens constantio theodoram
+herculii maximiani priuignam abiecta uxore priori  hoc
+tempore charausio in galliis achilleus apud aegyptum iulianus
+in italia imperatores effecti diuerso exitu periere  e quibus
+iulianus acto per costas pugione in ignem se abiecit
+
+ diocletianus uero apud nicomediam sponte imperiales fasces
+relinquens in propriis agris consenuit  qui dum ab herculio
+atque galerio ad recipiendum imperium rogaretur tamquam pestem
+aliquam detestans in hunc modum respondit utinam salonae
+possetis uisere olera nostris manibus instituta profecto numquam
+istud temptandum iudicaretis  uixit annos sexaginta octo
+ex quis communi habitu prope nouem egit morte consumptus est ut
+satis patuit per formidinem uoluntaria quippe cum a
+constantino atque licinio uocatus ad festa nuptiarum per
+senectam quo minus interesse ualeret excusauisset rescriptis
+minacibus acceptis quibus increpabatur maxentio fauisse ac
+maximino fauere suspectans necem dedecorosam uenenum dicitur
+hausisse
+
+  his diebus constantius constantini pater atque
+armentarius caesares augusti appellantur creatis
+caesaribus seuero per italiam maximino galerii sororis filio
+per orientem eodemque tempore constantinus caesar efficitur 
+maxentius imperator in uilla sex milibus ab urbe discreta
+itinere lauicano dehinc licinius augustus efficitur parique
+modo alexander apud carthaginem imperator fit similique modo
+ualens imperator creatur quorum exitus iste fuit
+
+ seuerus caesar ab herculio maximiano romae ad tres tabernas
+exstinguitur funusque eius gallieni sepulcro infertur quod ex
+urbe abest per appiam milibus nouem  galerius maximianus
+consumptis genitalibus defecit  maximianus herculius a
+constantino apud massiliam obsessus deinde captus poenas dedit
+mortis genere postremo fractis laqueo ceruicibus  alexander
+a constantini exercitu iugulatur  maxentius dum aduersus
+constantinum congreditur paulo superius a ponte muluio in pontem
+nauigiis compositum ab latere ingredi festinans lapsu equi in
+profundum demersus est uoratumque limo pondere thoracis corpus
+uix repertum  maximinus apud tarsum morte simplici periit
+ ualens a licinio morte multatur
+
+ fuerunt autem morum huiusmodi aurelius maximianus
+cognomento herculius ferus natura ardens libidine consiliis
+stolidus ortu agresti pannonioque nam etiam nunc haud longe
+sirmio eminet locus palatio ibidem constructo ubi parentes eius
+exercebant opera mercenaria  aetate interiit sexagenarius
+annorum uiginti imperator  genuit ex eutropia syra muliere
+maxentium et faustam coniugem constantini cuius patri
+constantio tradiderat theodoram priuignam  sed maxentium
+suppositum ferunt arte muliebri tenere mariti animum laborantis
+auspicio gratissimi partus coepti a puero  is maxentius
+carus nulli umquam fuit ne patri aut socero quidem galerio 
+galerius autem fuit licet inculta agrestique iustitia satis
+laudabilis pulcher corpore eximius et felix bellator ortus
+parentibus agrariis pastor armentorum unde ei cognomen
+armentarius fuit  ortus dacia ripensi ibique sepultus est
+quem locum romulianum ex uocabulo romulae matris appellarat 
+is insolenter affirmare ausus est matrem more olympiadis
+alexandri magni creatricis compressam dracone semet concepisse
+ galerius maximinus sorore armentarii progenitus ueroque
+nomine ante imperium daca dictus caesar quadriennio dehinc per
+orientem augustus triennio fuit ortu quidem atque instituto
+pastorali uerum sapientissimi cuiusque ac litteratorum cultor
+ingenio quieto uini auidior  quo ebrius quaedam corrupta
+mente aspera iubebat quod cum pigeret factum differri quae
+praecepisset in tempus sobrium ac matutinum statuit 
+alexander fuit phryx origine ingenio timidus inferior aduersus
+laborem uitio senectae aetatis
+
+  his omnibus absumptis imperii iura penes constantinum
+et licinium deuenere  constantinus constantii
+imperatoris et helenae filius imperauit annos triginta hic dum
+iuuenculus a galerio in urbe roma religionis specie obses
+teneretur fugam arripiens atque ad frustrandos insequentes
+publica iumenta quaqua iter egerat interfecit et ad patrem in
+britanniam peruenit et forte iisdem diebus ibidem constantium
+parentem fata ultima perurgebant  quo mortuo cunctis qui
+aderant annitentibus sed praecipue croco alamannorum rege
+auxilii gratia constantium comitato imperium capit  hic
+sororem suam constantiam licinio mediolanum accito coniungit
+filiumque suum crispum nomine ex mineruina concubina susceptum
+item constantinum iisdem diebus natum oppido arelatensi
+licinianumque licinii filium mensium fere uiginti caesares
+effecit  uerum enimuero ut imperia difficile concordiam
+custodiunt discidium inter licinium constantinumque exoritur
+primumque apud cibalas iuxta paludem hiulcam nomine constantino
+nocte castra licinii irrumpente licinius fugam petiit
+byzantiumque fuga uolucri peruenit  ibi martinianum
+officiorum magistrum caesarem creat  dehinc constantinus
+acie potior apud bithyniam adegit licinium pacta salute
+indumentum regium offerre per uxorem inde thessalonicam missum
+paulo post eum martinianumque iugulari iubet  hic licinius
+annum dominationis fere post quartumdecimum uitae proxime
+sexagesimum occidit auaritiae cupidine omnium pessimus neque
+alienus a luxu uenerio asper admodum haud mediocriter
+impatiens infestus litteris quas per inscitiam immodicam uirus
+ac pestem publicam nominabat praecipue forensem industriam 
+agraribus plane ac rusticantibus quod ab eo genere ortus
+altusque erat satis utilis ac militiae custos ad ueterum
+instituta seuerissimus  spadonum et aulicorum omnium
+uehemens domitor tineas soricesque palatii eos appellans
+
+ at constantinus obtento totius romani imperii mira bellorum
+felicitate regimine fausta coniuge ut putant suggerente crispum
+filium necari iubet  dehinc uxorem suam faustam in balneas
+ardentes coniectam interemit cum eum mater helena dolore nimio
+nepotis increparet  fuit uero ultra quam aestimari potest
+laudis auidus hic traianum herbam parietariam ob titulos multis
+aedibus inscriptos appellare solitus erat hic pontem in danubio
+construxit  habitum regium gemmis et caput exornans perpetuo
+diademate commodissimus tamen rebus multis fuit calumnias
+sedare legibus seuerissimis nutrire artes bonas praecipue
+studia litterarum legere ipse scribere meditari audire
+legationes et querimonias prouinciarum  cumque liberis
+filioque fratris delmatio caesaribus confirmatis tres et
+sexaginta annos uixisset ex quibus dimidios ita ut tredecim
+solus imperaret morbo consumptus est  irrisor potius quam
+blandus unde prouerbio uulgari trachala decem annis
+praestantissimus duodecim sequentibus latro decem nouissimis
+pupillus ob profusiones immodicas nominatus  corpus sepultum
+in byzantio constantinopoli dicta  quo mortuo delmatius
+militum ui necatur
+
+ ita ad tres orbis romani redacta dominatio est constantinum
+et constantium ac constantem filios constantini  hi
+singuli has partes regendas habuerunt constantinus iunior cuncta
+trans alpes constantius a freto propontidis asiam atque
+orientem constans illyricum italiamque et africam delmatius
+thraciam macedoniamque et achaiam annibalianus delmatii
+caesaris consanguineus armeniam nationesque circumsocias
+
+ interim ob italiae africaeque ius dissentire statim
+constantinus et constans constantinus latrocinii specie dum
+incautus foedeque temulentus in aliena irruit obtruncatus est
+proiectusque in fluuium cui nomen alsa est non longe ab
+aquileia  constans uero uenandi cupidine dum per siluas
+saltusque erraret conspirauere aliquanti militares in eius
+necem auctoribus chrestio et marcellino simulque magnentio qui
+ubi patrandi negotii dies placuit marcellinus natalem filii
+simulans plerosque ad cenam rogat itaque in multam noctem
+conuiuio celebrato magnentius quasi ad uentris solita secedens
+habitum uenerabilem capit  ea re cognita constans fugere
+conatus apud helenam oppidum pyrenaeo proximum a gaisone cum
+lectissimis misso interficitur anno tertio decimo augustae
+dominationis nam caesar triennio fuerat aeui septimo
+uicesimoque  hic fuit debilis pedibus manibusque articulorum
+dolore fortunatus caeli temperie fructuum prouentu nulla a
+barbaris formidine quae profecto maiora fierent si prouinciarum
+rectores non pretio sed iudicio prouexisset  huius morte
+cognita uetranio magister militum imperium in pannonia apud
+mursiam corripuit quem constantius non post multos dies regno
+exuit grandaeuae aetati non uitam modo sed etiam uoluptarium
+otium concedens fuit autem prope ad stultitiam simplicissimus
+
+  constantius gallum fratrem patruelem caesarem
+pronuntiat sororem constantinam illi coniungens  magnentius
+quoque decentium consanguineum suum trans alpes caesarem creauit
+ his diebus romae nepotianus eutropiae constantini sororis
+filius hortantibus perditis augusti nomen rapit eum octauo die
+uicesimoque magnentius oppressit  hoc tempore constantius cum
+magnentio apud mursiam dimicans uicit in quo bello paene
+nusquam amplius romanae consumptae sunt uires totiusque imperii
+fortuna pessumdata  dehinc cum se magnentius in italiam
+recepisset apud ticinum plures fudit incautius et ut in
+uictoria solet audacius persequentes  nec multo post apud
+lugdunum coangustatus gladio occulte prouiso ictum pulsu parietis
+iuuans transfosso latere ut erat uasti corporis uulnere
+naribusque et ore cruorem effundens mense imperii quadragesimo
+secundo aetatis anno prope quinquagesimo exspirauit  ortus
+parentibus barbaris qui galliam inhabitant legendi studio
+promptus sermonis acer animi tumidi et immodice timidus
+artifex tamen ad occultandam audaciae specie formidinem  eius
+morte audita decentius laqueo fascia composito uitam finiuit
+ hoc tempore gallus caesar a constantio occiditur imperauit
+annos quattuor  siluanus imperator effectus die imperii
+uicesimo octauo perimitur fuit ingenio blandissimus 
+quamquam barbaro patre genitus tamen institutione romana satis
+cultus et patiens
+
+ constantius claudium iulianum fratrem galli honore
+caesaris assumit annos natum fere tres atque uiginti  iste
+in campis argentoratensibus apud gallias cum paucis militibus
+infinitas hostium copias deleuit  stabant acerui montium
+similes fluebat cruor fluminum modo captus rex nobilis
+nodomarius fusi omnes optimates redditus limes romanae
+possessionis ac postmodum cum alamannis dimicans potentissimum
+eorum regem badomarium cepit  hic a militibus gallicanis
+augustus pronuntiatur  hinc constantius urgere legationibus
+in statum nomenque pristinum reuertatur iulianus mandatis
+mollioribus refert se sub nomine celsi imperii multo officiosius
+pariturum  his constantius magis magisque ardens dolore
+atque ut erat talium impatiens in radicibus tauri montis apud
+mopsocrenen febri acerrima quam indignatio nimia uigiliis
+augebat interiit anno aeui quarto et quadragesimo imperii nono
+atque tricesimo uerum augustus quarto uicesimoque octo solus
+cum fratribus atque magnentio sedecim quindecim caesar 
+felix bellis ciuilibus externis lacrimabilis mirus artifex in
+sagittis a cibo uinoque et somno multum temperans patiens
+laboris facundiae cupidus quam cum assequi tarditate ingenii
+non posset aliis inuidebat  spadonum aulicorumque amori
+deditus et uxorum quibus contentus nulla libidine transuersa aut
+iniusta polluebatur  sed ex coniugibus quas plurimas
+sortitus est praecipue eusebiam dilexit decoram quidem uerum
+per adamantias et gorgonias et alia importuna ministeria uexantem
+famam uiri contra quam feminis modestioribus mos est quarum
+saepe praecepta maritos iuuant namque ut ceteras omittam
+pompeia plotina incredibile dictu est quanto auxerit gloriam
+traiani cuius procuratores cum prouincias calumniis agitarent
+adeo ut unus ex his diceretur locupletium quemque ita conuenire
+quare habes alter unde habes tertius pone quod habes
+illa coniugem corripuit atque increpans quod laudis suae esset
+incuriosus talem reddidit ut postea exactiones improbas
+detestans fiscum lienem uocaret quod eo crescente artus reliqui
+tabescunt
+
+  igitur iulianus redacta ad unum se orbis romani
+curatione gloriae nimis cupidus in persas proficiscitur 
+illic a transfuga quodam in insidias deductus cum eum hinc inde
+parthi urgerent e castris iam positis arrepto tantum clipeo
+procurrit  cumque inconsulto ardore nititur ordines ad
+proelium componere ab uno ex hostibus et quidem fugiente conto
+percutitur  relatusque in tabernaculum rursusque ad hortandos
+suos egressus paulatim sanguine uacuatus circa noctis fere
+medium defecit praefatus consulto sese de imperio nihil mandare
+ne uti solet in multitudine discrepantibus studiis amico ex
+inuidia reipublicae discordia exercitus periculum pararet 
+fuerat in eo litterarum ac negotiorum ingens scientia aequauerat
+philosophos et graecorum sapientissimos  usu promptior
+corporis quo ualidus quidem sed breuis fuit  haec minuebat
+quarundam rerum neglectus modus cupido laudis immodica cultus
+numinum superstitiosus audax plus quam imperatorem decet cui
+salus propria cum semper ad securitatem omnium tum in bello
+maxime conseruanda est  ita illum cupido gloriae flagrantior
+peruicerat ut neque terrae motu neque plerisque praesagiis
+quibus uetabatur petere persidem adductus sit finem ponere
+ardori ac ne noctu quidem uisus ingens globus caelo labi ante
+diem belli cautum praestiterit
+
+  iouianus genitus patre uarroniano incola agri
+singidonensis prouinciae pannoniae imperauit menses octo 
+eius patri cum liberos crebros amitteret praeceptum somnio est
+eum qui iam instante uxoris partu edendus foret diceret
+iouianum  hic fuit insignis corpore laetus ingenio
+litterarum studiosus  hic a perside hieme aspera mediaque
+constantinopolim accelerans cruditate stomachi tectorio noui
+operis grauatus repente interiit annos gerens proxime
+quadraginta
+
+  ualentinianus imperauit annos duodecim minus diebus
+centum  huius pater gratianus mediocri stirpe ortus apud
+cibalas funarius appellatus est eo quod uenalicium funem
+portanti quinque milites nequirent extorquere  eo merito
+ascitus in militiam usque ad praefecturae praetorianae potentiam
+conscendit ob cuius apud milites commendationem ualentiniano
+imperium resistenti oggeritur  hic ualentem consanguineum
+suum sibi socium in imperio asciuit ac demum gratianum filium
+necdum plene puberem hortatu socrus et uxoris augustum creauit
+ hic ualentinianus fuit uultu decens sollers ingenio animo
+grauis sermone cultissimus quamquam esset ad loquendum parcus
+seuerus uehemens infectus uitiis maximeque auaritiae cuius
+cupitor ipse fuit acer et in his quae memoraturus sum hadriano
+proximus  pingere uenustissime meminisse noua arma
+meditari fingere cera seu limo simulacra prudenter uti locis
+temporibus sermone atque ut breuiter concludam si ei foedis
+hominibus quis sese quasi fidissimis prudentissimisque dederat
+carere aut probatis eruditisque monitoribus uti licuisset
+perfectus haud dubie princeps enituisset  huius tempore
+firmus apud mauritaniam regnum inuadens exstinguitur 
+ualentinianus apud bergentionem legationi quadorum respondens
+anno aeui quinto et quinquagesimo impetu sanguinis uoce amissa
+sensu integer exspirauit  quod quidem intemperantia cibi ac
+saturitate qua artus diffuderat accidisse plures retulere 
+itaque eo mortuo ualentinianus adhuc quadriennis auctore equitio
+ac merobaude e propinquo ubi cum matre fuerat allatus creatur
+imperator
+
+  ualens una cum ualentiniano germano suo de quo
+diximus regnauit annos tredecim menses quinque  hic ualens
+cum gothis lacrimabili bello commisso sagittis saucius in casa
+deportatur uilissima ubi superuenientibus gothis ignique
+supposito incendio concrematus est  in quo probanda haec
+fuere fuit possessoribus consultor bonus mutare iudices rarius
+in amicos fidus irasci sine noxa ac periculo cuiusquam sane
+ualde timidus  huius temporibus procopius tyrannidem inuadens
+exstinguitur
+
+  gratianus genitus sirmii imperauit cum patre
+ualentiniano annos octo dies octoginta quinque cum patruo et
+fratre tres cum eodem fratre ac theodosio quattuor et his
+omnibus accedente arcadio menses sex  hic apud argentariam
+oppidum galliae triginta alamannorum milia in bello exstinxit
+ hic cum animaduertisset thraciam daciamque tamquam genitales
+terras possidentibus gothis taifalisque atque omni pernicie
+atrocioribus hunnis et alanis extremum periculum instare nomini
+romano accito ab hispania theodosio cunctis fauentibus degenti
+annum a tricesimo tertium imperium committit  fuit autem
+gratianus litteris haud mediocriter institutus carmen facere
+ornate loqui explicare controuersias rhetorum more nihil aliud
+die noctuque agere quam spiculis meditari summaeque uoluptatis
+diuinaeque artis credere ferire destinata  parcus cibi
+somnique et uini ac libidinis uictor cunctisque esset plenus
+bonis si ad cognoscendam reipublicae regendae scientiam animum
+intendisset a qua prope alienus non modo uoluntate sed etiam
+exercitio fuit  nam dum exercitum negligeret et paucos ex
+alanis quos ingenti auro ad se transtulerat anteferret ueteri
+ac romano militi adeoque barbarorum comitatu et prope amicitia
+capi ut nonnumquam eodem habitu iter faceret odia contra
+se militum excitauit  hoc tempore cum maximus apud britanniam
+tyrannidem arripuisset et in galliam transmisisset ab infensis
+gratiano legionibus exceptus gratianum fugauit nec mora
+exstinxit qui uixit annos xxix
+
+  theodosius genitus patre honorio matre thermantia
+genere hispanus originem a traiano principe trahens a gratiano
+augusto apud sirmium imperator effectus regnauit annos decem et
+septem  huic ferunt nomen somnio parentes monitos sacrauisse
+ut latine intellegimus a deo datum  de hoc etiam oraculo in
+asia diuulgatum est eum ualenti successurum cuius nomen e 
+et  et  atque  graecis litteris initiaretur 
+qua cognatione principii deceptus theodorus cum sibi imperium
+deberi praesumeret scelestae cupidinis supplicia persoluerat
+ fuit autem theodosius propagator reipublicae atque defensor
+eximius nam hunnos et gothos qui eam sub ualente defatigassent
+diuersis proeliis uicit cum persis quoque petitus pacem
+pepigit  maximum autem tyrannum qui gratianum interfecerat
+et sibi gallias uindicabat apud aquileiam exstinxit uictoremque
+eius filium intra infantiae annos a maximo patre augustum
+factum necauit  eugenium quoque tyrannum atque arbogasten
+superauit deletis eorum decem milibus pugnatorum hic etenim
+eugenius confisus uiribus arbogastis postquam apud uiennam
+ualentinianum exstinxerat regnum inuasit sed mox simul cum uita
+imperium perdidit
+
+ fuit autem theodosius moribus et corpore traiano similis
+quantum scripta ueterum et picturae docent sic eminens status
+membra eadem par caesaries os absque eo quod illi aliquantum
+uellendo steriles genae neque tam ingentes oculi erant nescio an
+et tanta gratia tantusque flos in facie seu tanta dignitas in
+incessu  mens uero prorsus similis adeo ut nihil dici queat
+quod non ex libris in istum uideatur transferri clemens animus
+misericors communis solo habitu differre se ceteris putans in
+omnes homines honorificus uerum effusius in bonos simplicia
+ingenia aeque diligere erudita mirari sed innoxia largiri
+magno animo magna amare ciues uel priuato contubernio cognitos
+eosque honoribus pecunia beneficiis ceteris munerare praesertim
+quorum erga se uel patrem aspero casu officia probauerat 
+illa tamen quibus traianus aspersus est uinolentiam scilicet et
+cupidinem triumphandi usque eo detestatus ut bella non mouerit
+sed inuenerit prohibueritque lege ministeria lasciua
+psaltriasque comissationibus adhiberi tantum pudori tribuens et
+continentiae ut consobrinarum nuptias uetuerit tamquam sororum
+ litteris si nimium perfectos contemplemur mediocriter
+doctus sagax plane multumque diligens ad noscenda maiorum gesta
+ e quibus non desinebat exsecrari quorum facta superba
+crudelia libertatique infesta legerat ut cinnam marium syllamque
+atque uniuersos dominantium praecipue tamen perfidos et
+ingratos  irasci sane rebus indignis sed flecti cito unde
+modica dilatione emolliebantur aliquando seuera praecepta 
+habuitque a natura quod augustus a philosophiae doctore 
+qui cum uidisset eum facile commoueri ne asperum aliquid
+statueret monuit ubi irasci coepisset quattuor atque uiginti
+graecas litteras memoria recenseret ut illa concitatio quae
+momenti est mente alio traducta parui temporis interiectu
+languesceret
+
+ melior haud dubie quod est rarae uirtutis post auctam
+annis potentiam regalem multoque maxime post ciuilem uictoriam
+ nam et annonae curam sollicitius attendere et auri
+argentique grande pondus sublati atque expensi a tyranno multis e
+suo restituere cum benigni principum et quidem uix fundos
+solerent nudos ac deformata praedia concedere  iam illa
+minutiora et ut dicitur intra aulam quae quidem quia occulta
+sunt magis naturae hominum curiosae oculos auresque ad se
+trahunt patruum colere tamquam genitorem fratris mortui
+sororisque liberos habere pro suis cognatos affinesque parentis
+animo complecti elegans laetumque conuiuium dare non tamen
+sumptuosum miscere colloquia pro personis studia dignitatibus
+sermone cum grauitate iocundo blandus pater concors maritus
+ exercebatur neque ad illecebram neque ad lassitudinem
+ambulationibus magis cum esset otium reficiebat animum ac
+uescendi continentia ualetudinem regebat sicque in pace rebus
+humanis annum agens quinquagesimum apud mediolanum excessit
+utramque rempublicam utrisque filiis id est arcadio et honorio
+quietam relinquens  corpus eius eodem anno constantinopolim
+translatum atque sepultum est
+

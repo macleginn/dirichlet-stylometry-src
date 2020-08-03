@@ -1,0 +1,1734 @@
+
+
+ priorum analyticorum aristotelis liber primus  
+
+ primum dicere oportet circa quid et cuius est consideratio
+quoniam circa demonstrationem et de disciplina demonstratiua
+deinde determinare quid est propositio et quid terminus et quid
+syllogismus et quis perfectus et quis imperfectus post ea uero
+quid in toto esse uel non esse quid in quolibet et quid dicimus
+de omni aut nullo praedicari
+
+propositio  est oratio affirmatiua uel negatiua alicuius de
+aliquo haec autem aut uniuersalis aut particularis aut
+indefinita dico autem uniuersalem  quae omni aut nulli inest
+particularem uero quae alicui aut non alicui aut non omni inest
+indefinitam  quae inesse aut non inesse significat sine
+uniuersalitate aut particularitate uelut contrariorum esse
+eandem disciplinam uel uoluptatem non esse bonum differt autem
+demonstratiua propositio a dialectica quoniam demonstratiua
+quidem assumptio alterius partis contradictionis est non enim
+interrogat sed assumit qui demonstrat dialectica uero
+interrogatio contradictionis est nihil uero distabit ad
+formandum utriusque syllogismum et enim qui demonstrat et qui
+interrogat syllogizat sumens aliquid de aliquo aut inesse aut non
+inesse quare erit syllogistica quidem propositio simplex
+affirmatiua aut negatiua alicuius de aliquo secundum dictum
+modum demonstratiua uero si uera sit et ab initio per
+conditionem assumpta dialectica uero percunctanti quidem
+interrogatio contradictionis demonstranti uero assumptio
+apparentis et concessi quemadmodum in topicis dictum est quid
+autem est propositio et quid differt syllogistica et
+demonstratiua et dialectica subtiliter quidem in subsequentibus
+dicetur ad praesens uero  sufficienter nobis determinatum est 
+nunc
+
+terminum uero uoco in quem resoluitur propositio uelut
+praedicatum et de quo praedicatur siue adiuncto siue separato
+esse et non esse syllogismus uero est oratio in qua positis
+aliquibus aliud quid a positis ex necessitate consequitur ex
+ipsis esse dico autem ex ipsis esse per ipsa contingere
+per ipsa uero contingere nullius extrinsecus termini
+indigere ut fiat necessarium perfectum igitur dico syllogismum
+qui nullius alius indigeat praeter assumpta ut appareat
+necessarius imperfectum uero qui indigeat aut unius aut plurium
+quae sunt quidem necessaria per subiectos terminos non autem
+sumenda per propositiones in toto uero esse aliud in alio et de
+omni praedicari alterum de altero idem est dicimus autem de omni
+praedicari quando nihil sit sumendum subiecti de quo alterum non
+dicatur et de nullo similiter
+
+ quoniam autem omnis propositio est aut inesse aut necessario
+inesse aut contingenter inesse harum  hae quidem affirmatiuae
+hae uero negatiuae secundum  allocutiones rursus autem
+affirmatiuarum et negatiuarum aliae sunt uniuersales aliae
+particulares quaedam indefinitae uniuersalium priuatiuam quidem
+ necesse est uniuersaliter terminis conuerti ut si nec ulla
+uoluptas bonum nec bonum ullum erit uoluptas praedicatiuam
+autem conuerti  necessarium non est uniuersaliter sed in parte
+ut si omnis uoluptas bonum et bonum quoddam esse uoluptatem
+particularium autem affirmatiuam quidem conuerti necesse est
+particulariter nam si uoluptas quaedam bonum et bonum quoddam
+erit uoluptas priuatiuam autem non est necessarium non enim
+si homo non inest alicui animali et animal non inest alicui
+homini
+
+primum ergo sit priuatiua uniuersalis a b propositio si ergo
+nulli eorum quae sunt b inest a nec eorum quae sunt a
+ulli inerit b si enim alicui uelut c non uerum erit nullum
+b esse a nam c eorum quae sunt b aliquid est si uero
+omni b inest a et b alicui a inest si enim nulli nec
+a ulli b inerit sed dicebatur omni inesse similiter autem
+et si particularis est propositio nam si inest a alicui b
+et b alicui eorum quae sunt a necessario inerit si enim
+nulli nec a ulli b si autem a alicui eorum quae sunt b
+non inest non necessario et b alicui a non inerit ut si b
+quidem sit animal a uero homo homo enim non omni animali
+animal uero omni homini inest
+
+ eodem  modo habebitur et in necessariis propositionibus nam
+uniuersalis quidem priuatio uniuersaliter conuertitur
+affirmatiuarum autem utraque particulariter si enim necessario
+a nulli b inest necessario et b nulli a inerit si enim
+alicui contingit et a alicui b utique continget si autem ex
+necessitate a omni uel alicui b inest et b alicui a
+necessario inerit si autem non necessario nec a alicui b ex
+necessitate inest particularis uero priuatiua non conuertitur
+propter eandem causam propter quam et supra diximus
+
+in contingentibus uero quoniam multipliciter dicitur contingere
+et enim necessarium et non necessarium et possibile contingere
+dicimus in affirmatiuis quidem similiter habebitur secundum
+conuersionem in omnibus si enim a omni aut alicui b
+contingit et b alicui a utique continget si enim nulli nec
+a utique ulli b ostensum est enim hoc prius in negatiuis
+uero non similiter sed quaecumque quidem contingere dicuntur ex
+necessitate non inesse aut non ex necessitate inesse similiter
+ut si quis dicat hominem contingere non esse equum aut album
+nulli uesti inesse horum enim unum  ex necessitate non inest
+alterum uero non necesse est inesse et similiter conuertitur
+propositio si enim contingit nulli homini equum esse et hominem
+continget esse nulli equo et si album contingit nulli uesti et
+uestis continget nulli albo si enim alicui necessario et album
+uesti alicui erit ex necessitate hoc quoque ostensum est
+prius similiter autem et in particularibus negatiuis
+quaecumque uero ut in pluribus  nata  dicuntur contingere
+quemadmodum determinamus contingens non similiter se habebunt in
+priuatiuis conuersionibus sed uniuersalis quidem priuatiua non
+conuertitur propositio particularis uero conuertitur hoc autem
+erit manifestum quando de contingente dicemus nunc autem tantum
+nobis sit iuxta dicta manifestum quoniam quod contingit nulli
+aut alicui non inesse affirmatiuam habet figuram nam contingit
+et est similiter ordinatur hoc est  quibus utique
+adiacenter praedicatur affirmationem semper facit et omnino ut
+esse non bonum uel  non album uel simpliciter  non hoc
+ostendetur autem et hoc per consequentia et in conuersionibus
+autem similiter habebuntur aliis
+
+ his uero determinatis dicendum est iam de quibus et quando et
+quomodo fit omnis syllogismus postea uero dicemus de
+demonstratione prius uero de syllogismo dicendum est quam de
+demonstratione eo quod uniuersalior est syllogismus nam
+demonstratio syllogismus quidam est syllogismus uero non omnis
+demonstratio
+
+initium primae figurae
+quando igitur termini tres sic habentur ad inuicem ut et
+postremum in toto esse medio et medium in toto primo contingat
+uel esse uel non esse necesse est extremitatum esse syllogismum
+perfectum uoco autem medium  qui et idem in alio et alius in
+ipso est qui et positione fit medius extremitates uero quae et
+eadem in alio tantum et in qua alius est si enim a de omni b
+et b de omni c necesse est a de omni c praedicari
+prius enim dictum est quomodo de omni dicimus similiter autem et
+si a de nullo b b autem de omni c quoniam a nulli
+c inerit si autem primum  omni medio inest medium uero nulli
+extremo non erit syllogismus extremitatum nihil enim
+necessarium accidit ex his esse et enim omni et nulli contingit
+primum postremo inesse quare neque particularis neque
+uniuersalis fit necessarius cum autem nihil est necessarium per
+hoc non erit syllogismus termini ubi omni inest animal homo
+equus ubi nulli animal homo lapis similiter nec tunc erit
+syllogismus quando nec primum medio nec medium postremo ulli
+inest termini ubi inest scientia linea medicina ubi non
+inest scientia linea unitas cum igitur uniuersales sunt
+termini manifestum est in hac figura quando erit et quando non
+erit syllogismus et cum sit necessarium syllogismos habere
+terminos quoniam  si sic habeantur ut diximus erit
+syllogismus
+sin autem unus quidem terminorum sit uniuersalis alius uero
+particularis ad aliud quando uniuersalis quidem ponitur ad
+maiorem extremitatem uel praedicatiuus uel priuatiuus
+particularis uero ad minorem praedicatiuus necesse est
+syllogismum esse perfectum quando autem ad minorem uel 
+quolibet modo aliter se habeant termini impossibile dico autem
+maiorem quidem extremitatem in qua medium est minorem uero quae
+sub medio est insit enim a  omni b b uero alicui c
+ergo si de omni praedicatur quod in principio dictum est necesse
+est a alicui c inesse et si a quidem nulli b inest b
+uero alicui c et necesse est a alicui c non inesse
+manifestum est enim et de nullo quomodo dicimus quare erit
+syllogismus perfectus similiter autem et si indefinitum sit b
+c praedicatiuum nam idem erit syllogismus  indefinito et
+particulari sumpto sin autem ad minorem extremitatem uniuersalis
+ponatur uel praedicatiuus uel priuatiuus non erit syllogismus
+neque affirmatiuus neque negatiuus nec indefinitus neque
+particularis ut si a quidem alicui b inest uel non inest
+b autem omni c inest termini ubi inest bonum habitus
+prudentia ubi non inest bonum habitus indisciplina rursum
+si b quidem nulli c a uero alicui b inest uel non inest
+uel non omni inest nec sic erit syllogismus termini ubi inest
+album equus cygnus ubi non inest album equus coruus
+idem autem ipsum et si a b indefinitum sit nec quando unus
+quidem in maiore extremitate uniuersaliter fuerit uel
+praedicatiuus uel priuatiuus alius uero in minore priuatiuus
+particulariter non est syllogismus uel indefinito uel
+particulari sumpto uelut si a quidem omni b inest b autem
+alicui c non uel non omni inest cui enim utique alicui non
+inest medium hoc et omne et nullum sequetur primum subiaceant
+enim termini animal homo album deinde et de quibus non
+praedicatur album homo sumantur cygnus et nix ergo
+animal de uno quidem omni praedicatur de altero uero nullo
+quare non erit syllogismus rursum a quidem nulli b insit
+b autem alicui c non insit et sint termini inanimatum
+homo album deinde sumantur de quibus non praedicatur albus
+homo cygnus et nix nam inanimatum de uno quidem omni
+praedicatur de altero uero nullo amplius quoniam indefinitum
+est alicui eorum quae sunt c non inesse b uere affirmatur
+et si nulli inest et si non omni quoniam alicui non inest
+sumptis autem huiusmodi terminis ut et nulli inesse non fit
+syllogismus hoc enim dictum est prius manifestum est igitur
+quoniam sic se habentibus terminis non erit syllogismus esset
+enim utique et in his similiter autem apparebit quidem et si
+uniuersalis ponatur priuatiua siue ambae extremitates
+particulariter sint praedicatiue uel priuatiue seu alia quidem
+praedicatiua alia uero priuatiua dicitur uel una quidem
+indefinita alia uero definita uel ambae indefinitae nequaquam
+erit syllogismus termini uero communes omnium animal album
+homo animal album lapis
+
+manifestum est igitur ex iis quae dicta sunt ut si sit
+syllogismus in hac figura particularis necesse est terminos sic
+ habere ut diximus aliter enim  habentibus nequaquam fit
+palam autem est et quoniam omnes qui in hac sunt syllogismi
+perfecti sunt omnes enim perficiuntur per ab initio sumptos et
+quoniam omnia problemata ostenduntur in hac figura et enim omni
+et nulli et alicui et non alicui inesse uoco autem huiusmodi
+figuram primam
+
+ initium secundae figurae
+quando autem idem alteri quidem omni alteri uero nulli inest uel
+utrique omni uel nulli figuram quidem huiusmodi uoco secundam
+medium autem in hac dico quod praedicatur de utroque
+extremitates autem de quibus dicitur hoc maiorem uero
+extremitatem quae medio adiacet minorem quae longius sita est
+ponitur autem medium foras quidem extremitatum primum uero
+positione perfectus igitur nequaquam erit syllogismus in hac
+figura possibilis uero erit et uniuersalibus et non
+uniuersalibus existentibus terminis uniuersales igitur cum sint
+erit syllogismus quando medium huic quidem omni illi uero nulli
+inest si ad alterutrum sit priuatiua aliter autem nequaquam
+praedicetur enim m de n quidem nullo de x uero omni
+quoniam igitur conuertitur priuatiua nulli m inerit n at
+m de omni x dicebatur quare n de nullo x hoc enim
+ostensum est prius rursum si m omni quidem n inest x uero
+nulli nec x ulli n inerit si enim m nulli x nec x
+ulli m inerit at uero m omni n inerat igitur x nulli
+n inerit facta est enim rursum prima figura quoniam autem
+conuertitur priuatiua et n nulli x inerit quare erit idem
+syllogismus est autem ostendere hoc et ad impossibile ducere
+quoniam igitur fit syllogismus sic se habentibus terminis
+manifestum est sed non perfectus non enim solum ex iis quae ab
+initio sumpta sunt sed  ex aliis comprobatur necessarius si
+autem m de omni n et de x praedicetur non erit
+syllogismus termini inesse substantia animal homo non
+inesse substantia animal numerus medium substantia nec
+quando nec de n nec de x nullo praedicatur m termini
+inesse linea animal homo non inesse linea animal lapis
+manifestum est igitur quoniam si sit syllogismus ex
+uniuersalibus terminis necesse est terminos  habere ut in
+principio diximus aliter enim  habentibus non fit necessarius
+si autem ad alterum sit uniuersaliter medium quando ad maius
+quidem fuerit uniuersale uel praedicatiue uel priuatiue ad minus
+autem  particulare et oppositum uniuersali dico autem opposite
+si uniuersalis  priuatiua particulari affirmatiuae uel 
+uniuersalis praedicatiua particulari priuatiuae necesse 
+fieri syllogismum priuatiuum particulariter si enim m nulli
+quidem n et alicui x inest necesse est n alicui x non
+inesse quoniam enim conuertitur priuatiua nulli m inerit n
+m uero dicebatur alicui x inesse quare n alicui eorum
+quae sunt x non inerit fit enim syllogismus per primam
+figuram rursum si omni quidem n inest m x uero alicui
+non necesse est n alicui x non inesse si enim omni inest
+praedicatur autem et m de omni n necesse est m omni x
+inesse sed dicebatur alicui non inesse et si m omni quidem
+n inest x autem non omni erit syllogismus quoniam non omni
+x inest n demonstratio autem eadem si autem de x quidem
+omni de n uero non omni praedicatur non erit syllogismus
+termini animal substantia coruus animal album coruus
+nec quando de x quidem nullo de n uero aliquo termini
+inesse animal substantia unitas non inesse animal
+substantia scientia
+
+quando igitur oppositum sit uniuersale particulari dictum est
+quando erit et quando non erit syllogismus quando autem similis
+figurae fuerint propositiones ut ambae priuatiuae uel
+affirmatiuae nequaquam erit syllogismus sint enim prius
+priuatiuae et uniuersale positum sit ad maiorem extremitatem ut
+m nulli quidem n et x alicui non insit contingit nunc et
+omni et nulli x inesse n termini quidem nulli inesse
+nigrum nix animal omni uero inesse non est sumere eo quod
+m alicui quidem x inest alicui  non si enim omni x inest
+n et m nulli n etiam m nulli x inerit sed dicebatur
+alicui inesse non ergo sic conuenit sumere terminos ex
+indefinito autem ostendendum est quoniam enim uere affirmatur
+m non inesse alicui x etiam si nulli inest nulli uero cum
+insit non est syllogismus manifestum est quoniam nec nunc erit
+rursum sint praedicatiuae et uniuersale positum sit similiter
+ut m omni quidem n et x alicui insit contingit nunc n et
+omni et nulli x inesse termini nulli inesse album cygnus
+lapis omni  non erit sumere propter eandem causam quam et
+prius sed ex indefinito monstrandum est si autem uniuersale ad
+minorem extremitatem sit et m x quidem nulli n uero
+alicui non inest contingit n et omni et nulli x inesse
+termini inesse album animal coruus non inesse album lapis
+coruus similiter autem et si praedicatiuae fuerint
+propositiones termini non inesse album animal nix inesse
+album animal cygnus manifestum est ergo quoniam si similes
+fuerint propositiones siue uniuersales siue particulares
+nequaquam fit syllogismus sed nec si alicui utrique inest uel
+non inest uel huic quidem illi uero non uel neutro omni uel
+indefinite termini autem communes omnium album animal homo
+album animal inanimatum
+
+manifestum est igitur ex praedictis quoniam si sic se habeant
+termini ad inuicem ut dictum est fit syllogismus ex necessitate
+et si sit syllogismus necesse est terminos sic se habere palam
+autem et quoniam omnes imperfecti sunt qui  hac figura 
+syllogismi omnes enim perficiuntur assumptis quibusdam quae uel
+insunt terminis ex necessitate uel ponuntur ut conditiones uelut
+quando per impossibile ostendimus et quoniam non fit
+affirmatiuus syllogismus in hac figura sed omnes priuatiui et
+uniuersales et particulares
+
+ initium tertiae figurae
+si autem eidem hoc quidem omni illud uero nulli inest uel
+utrumque omni uel nulli figuram quidem huiusmodi uoco tertiam
+medium autem in hac dico de quo ambo praedicantur extremitates
+uero quae praedicantur maiorem autem extremitatem quae longius
+est medio minorem uero quae propius ponitur autem medium foras
+quidem extremitatum postremum uero positione perfectus igitur
+non fit syllogismus  in hac figura possibilis uero erit et
+uniuersaliter et non uniuersaliter terminis existentibus ad
+medium uniuersaliter quidem quando et p et r insunt omni
+s quoniam alicui r inerit p ex necessitate quoniam enim
+conuertitur praedicatiua inerit s alicui r quare quoniam
+p inest omni s et s alicui r necesse est p alicui r
+inesse fit enim syllogismus per primam figuram est autem et per
+impossibile et expositione facere demonstrationem si enim ambo
+omni s insunt si sumatur quid eorum quae sunt s ut n
+huic et p et r insunt  quare alicui r inest p et si
+r omni quidem s p autem nulli inest erit syllogismus
+quoniam p alicui r non inerit ex necessitate nam idem modus
+ demonstrationis conuersa r s propositione ostendetur
+utique et per impossibile quemadmodum in prioribus si autem 
+r s quidem nulli p uero omni non erit syllogismus
+termini inesse animal equus homo non inesse animal
+inanimatum homo nec quando ambo de nullo s dicuntur  erit
+syllogismus termini inesse animal equus inanimatum non
+inesse homo equus inanimatum medium inanimatum manifestum
+igitur et in hac figura quando erit et quando non erit
+syllogismus ex uniuersalibus terminis quando enim ambo termini
+sunt praedicatiui erit syllogismus quoniam alicui inest
+extremitas extremitati quando uero priuatiui non erit quando
+autem hic quidem priuatiuus ille uero affirmatiuus si maior
+quidem fuerit priuatiuus alter uero affirmatiuus erit
+syllogismus quoniam alicui non inest extremitas extremitati si
+uero uerso ordine non erit
+si autem unus quidem sit uniuersaliter ad medium alter uero
+particulariter si uterque sit praedicatiuus necesse est fieri
+syllogismum si alteruter sit uniuersalis terminus nam si r
+omni s insit p uero alicui necesse est  p alicui r
+inesse quoniam enim conuertitur affirmatiua inerit s alicui
+p quare quoniam r omni s inest s autem alicui p et
+r alicui p inerit quare et p alicui r rursum si r
+alicui p uero omni s insit necesse est p alicui r
+inesse nam idem modus demonstrationis est autem demonstrare et
+per impossibile et expositione quemadmodum  in prioribus
+
+si autem unus quidem sit praedicatiuus alius uero priuatiuus
+uniuersalis autem praedicatiuus quando minor  fuerit
+praedicatiuus erit syllogismus si enim r omni s p uero
+alicui non insit necesse est p alicui r non inesse si enim
+p omni r et r omni s et p omni s inerit sed non
+inerat monstratur autem et sine deductione si uero sumptum sit
+quid eorum quae sunt s cui p non inest quando  maior sit
+praedicatiuus non est syllogismus ut si p insit omni s r
+autem alicui s non insit termini omni inesse animatum homo
+animal nulli uero non est sumere terminos si r inest alicui
+ s alicui uero non si enim omni s inest p r autem
+alicui s et p inerit alicui r dicebatur autem nulli
+inesse sed quemadmodum in prioribus sumendum est ex indefinito
+autem cum sit alicui non inesse et quod nulli inest uerum est
+dicere alicui non inesse nulli uero cum insit non est
+syllogismus manifestum est igitur quoniam non erit syllogismus
+si autem priuatiuus sit uniuersalis terminus quando maior 
+fuerit priuatiuus minor uero praedicatiuus erit syllogismus si
+enim p nulli s r autem alicui inest s et p alicui r
+non inerit rursum  erit prima figura rs propositione
+conuersa cum autem minor fuerit priuatiuus non erit
+syllogismus termini inesse animal homo ferum non inesse
+animal scientia ferum medium in utroque ferum nec quando
+ambo priuatiui ponuntur sit autem unus quidem uniuersalis alter
+uero particularis termini quando minor sit uniuersalis ad medium
+animal homo ferum animal scientia ferum quando autem
+maior non inesse quidem coruus nix album inesse uero non
+est sumere si r alicui quidem inest s alicui autem non
+inest si enim p omni r insit r autem alicui s et p
+inerit alicui s at dictum est nulli sed ex indefinito
+monstrandum est nec si uterque alicui medio inest uel non inest
+uel unus quidem inest alter uero non inest uel hic quidem
+alicui ille uero non omni uel indefinite nullo modo erit
+syllogismus termini autem communes omnium animal homo album
+animal inanimatum album
+
+manifestum est igitur  in hac figura quando erit et quando non
+erit syllogismus et quoniam se habentibus terminis ut dictum
+est fit syllogismus ex necessitate et si sit syllogismus
+necesse est terminos sic  habere manifestum etiam quoniam omnes
+imperfecti sunt syllogismi in hac figura omnes enim
+perficiuntur quibusdam assumptis et quoniam syllogizare
+uniuersaliter per hanc figuram non erit neque priuatiue neque
+affirmatiue
+
+ palam autem et quoniam in omni figura quando non fit
+syllogismus siue praedicatiui siue priuatiui fuerint  termini
+uel etiam particulares nihil omnino fit necessarium ex
+praedicatiuo autem et priuatiuo  uniuersaliter sumpto priuatiuo
+semper fit syllogismus minoris extremitatis ad maiorem uelut si
+a quidem omni b uel alicui b autem nulli c conuersis
+enim propositionibus necesse est c alicui a non inesse
+similiter autem et in aliis figuris semper enim fit per
+conuersionem syllogismus patet etiam quoniam indefinitum pro
+praedicatiuo particulari positum eundem facit syllogismum in omni
+figura
+
+manifestum est autem et quoniam omnes imperfecti syllogismi
+finiuntur per primam figuram aut enim demonstratiue aut per
+impossibile resoluuntur omnes utrimque autem fit prima figura
+demonstratiue quidem perfectis quoniam per conuersionem
+perficiebantur omnes conuersio autem primam faciebat figuram
+per impossibile uero demonstratis quoniam posita fallacia
+syllogismus fit per primam figuram ut in postrema figura si a
+et b omni c insunt quoniam a alicui b inest nam si
+nulli b autem omni c nulli c inerit a sed erat omni
+similiter autem et in aliis
+
+est etiam reducere omnes syllogismos ad primae figurae
+uniuersales syllogismos nam qui sunt in secunda manifestum est
+quoniam per illos finiuntur uerum non similiter omnes sed
+uniuersales quidem priuatiua conuersa particularium autem
+uterque per  impossibile adductum est qui uero in prima sunt
+particulares quidem perficiuntur et per eosdem est autem et per
+secundam figuram ostendere ad impossibile ducentes ut si a
+insit omni b et b alicui c quoniam a alicui c inerit
+si enim nulli b autem omni nulli c inerit b hoc enim
+scimus per secundam figuram similiter  et in priuatiuo fit
+demonstratio si enim a nulli b et b alicui c inest et
+a alicui c non inerit si enim omni b autem nulli inest
+nulli c inerit b haec autem fuit media figura quare
+quoniam qui in media figura sunt syllogismi omnes reducuntur in
+primae figurae syllogismos uniuersales qui uero particulares in
+prima sunt ad eos qui sunt in media manifestum est quoniam et
+particulares reducentur ad eos qui in prima figura sunt
+uniuersales syllogismos qui uero sunt in tertia si uniuersales
+quidem fuerint termini statim perficiuntur per ipsos
+syllogismos si autem particulares sumuntur per particulares
+syllogismos primae figurae sed hi reducti sunt ad illos quare
+et tertiae figurae particulares manifestum est ergo quoniam
+omnes reducentur ad primae figurae uniuersales syllogismos
+
+igitur syllogismi inesse uel non inesse ostendentes dictum est
+quomodo se habeant et ad eos qui ex eadem sunt figura et ad
+alios qui ex aliis
+
+ initium secundae incisionis
+quoniam autem aliud est inesse et ex necessitate inesse et
+contingere inesse nam multa quidem insunt non tamen ex
+necessitate alia uero neque ex necessitate neque insunt omnino
+contingit autem inesse manifestum est quoniam et syllogismus
+utrisque horum alter erit et non similiter habentibus se
+terminis sed alius quidem ex necessariis alius uero ex iis quae
+simpliciter sunt alius uero ex contingentibus
+ergo in necessariis  fere similiter se habet et in iis quae
+insunt similiter enim positis terminis et in iis quae insunt et
+in iis quae ex necessitate insunt uel non insunt  erit et non
+erit syllogismus uerum differt quod adiacet terminis ex
+necessitate inesse uel non inesse nam  priuatiua similiter
+conuertitur et in iis quae in toto insunt et de omni similiter
+assignabimus ergo in aliis quidem eodem modo ostendetur per
+conuersionem  conclusio necessaria quemadmodum inesse in media
+autem figura quando erit uniuersalis affirmatiua particularis
+uero priuatiua et rursum in tertia quando uniuersalis quidem
+praedicatiua particularis uero priuatiua non similiter erit
+demonstratio sed necesse est exponentes cui alicui utrumque non
+inest  de hoc facere syllogismum nam erit necessarius in his
+si autem de exposito est necessarius  et de illo aliquo nam
+expositum  illud aliquid est fit autem uterque syllogismus in
+propria figura
+
+ initium permixtionis necessarii et inesse
+accidit autem quandoque et cum altera propositio sit necessaria
+necessarium fieri syllogismum uerum non utralibet sed quae ad
+maiorem extremitatem est ut si a quidem b ex necessitate
+sumptum est inesse uel non inesse b autem c inesse solum
+sic enim sumptis propositionibus ex necessitate a inerit c
+uel non inerit nam quoniam omni b ex necessitate inest uel
+non inest a c autem aliquid eorum quae sunt b est
+manifestum quoniam et c ex necessitate inerit alterum horum si
+autem a b  non est necessarium b c autem necessarium
+non erit conclusio necessaria si enim est accidet a alicui
+b inesse ex necessitate per primam et tertiam figuram hoc
+autem falsum est contingit enim tale esse b cui euenit a
+nulli inesse est  ex terminis manifestum quoniam non erit
+conclusio necessaria ut is a quidem sit motus b autem
+animal in quo  sit c homo namque homo animal est ex
+necessitate mouetur autem animal non ex necessitate nec homo
+similiter autem et si priuatiua sit a b nam eadem
+demonstratio in particularibus autem syllogismis si uniuersalis
+quidem est necessaria et conclusio necessaria erit si autem
+particularis non necessaria siue priuatiua siue praedicatiua
+fuerit uniuersalis propositio sit autem primum uniuersalis
+necessaria et a quidem omni b insit ex necessitate b
+autem alicui c insit solum necesse est  a alicui c inesse
+ex necessitate nam c sub b est b autem omni a inerat
+ex necessitate similiter autem et si priuatiuus sit syllogismus
+nam eadem erit demonstratio si autem particularis est
+necessaria non erit conclusio necessaria nihil enim impossibile
+accidit quemadmodum nec in uniuersalibus syllogismis
+similiter autem et in priuatiuis termini motus animal album
+  in secunda autem figura si priuatiua quidem propositio
+uniuersalis sit et necessaria et conclusio erit necessaria si
+autem praedicatiua non necessaria sit enim primum priuatiua
+necessaria et a nulli  b ex necessitate c autem insit
+tantum quoniam ergo conuertitur priuatiua et b nulli a
+inerit ex necessitate a autem omni c inest quare nulli c
+inerit b ex necessitate nam c sub a est similiter autem
+et si ad c ponatur priuatio nam si a nulli c contingit et
+c nulli a conueniet  a autem omni b inest quare nulli
+eorum quae sunt b contingit c fit enim prima figura rursum
+non igitur  b c conuertitur enim similiter
+
+si autem praedicatiua propositio est necessaria non erit
+conclusio necessaria insit enim a omni b ex necessitate c
+autem nulli insit solum conuersa igitur priuatiua fit prima
+figura ostensum est autem in prima quoniam cum non est
+necessaria quae ad maiorem est priuatiua nec conclusio erit
+necessaria quare nec in his erit ex necessitate amplius autem
+si conclusio est necessaria accidit c alicui a non inesse ex
+necessitate si enim b nulli c inest ex necessitate et c
+nulli b inerit ex necessitate b autem alicui a necesse est
+inesse siquidem et a omni b ex necessitate inerat quare
+c necesse est alicui a non inesse sed nihil prohibet a
+huiusmodi sumi cui omni c contingit inesse amplius et si
+terminos exponat ostendere quoniam conclusio non est necessaria
+ut si sit a animal b autem homo c autem album et
+hae propositiones similiter sumantur contingit enim animal nulli
+albo inesse nec homo ergo inerit ulli albo sed non ex
+necessitate contingit enim hominem fieri album non tamen donec
+animal nulli albo inest quare cum huiusmodi quidem fuerint
+necessaria erit conclusio simpliciter autem non necessaria
+
+similiter autem  habebit et in particularibus syllogismis
+quando priuatiua quidem propositio et uniuersalis fuerit et
+necessaria et conclusio erit necessaria quando autem
+praedicatiua uniuersalis priuatiua uero particularis non erit
+conclusio necessaria sit autem primum priuatiua et uniuersalis
+et necessaria et a b quidem nulli contingat inesse ex
+necessitate c autem alicui insit quoniam ergo conuertitur
+priuatiua et b nulli a utique continget ex necessitate
+inesse a autem alicui c inest quare ex necessitate alicui
+eorum quae sunt c non inerit b rursum sit praedicatiua et
+uniuersalis et necessaria et subiaceat ad b praedicatiuum si
+autem a omni b ex necessitate inest c autem alicui non
+inest quoniam non inerit b alicui c manifestum est sed non
+ex necessitate nam hi idem termini erunt ad demonstrationem qui
+in uniuersalibus syllogismis sed nec cum priuatiua necessaria
+est particulariter sumpta erit conclusio necessaria nam per
+eosdem terminos demonstratio
+
+  in postrema autem figura cum termini uniuersales quidem
+sunt  et praedicatiuae utraeque propositiones si alterutra sit
+necessaria et conclusio erit necessaria si autem una quidem sit
+priuatiua altera uero praedicatiua quando quidem priuatiua
+fuerit necessaria et conclusio erit necessaria quando autem
+praedicatiua non erit necessaria sint enim primum utraeque
+praedicatiuae propositiones et a et b omni c insint
+necessaria autem sit a c quoniam igitur b omni c inest
+et c alicui b inerit per conuersionem uniuersalis
+particulariter quare si a inest omni c ex necessitate et c
+alicui b et a alicui b necessarium est inesse nam b
+sub c est fit igitur prima figura similiter autem ostendetur
+et si bc est necessaria conuertitur enim et c alicui a
+quare si omni c inest b ex necessitate et a alicui inerit
+ex necessitate
+
+rursum sit a c quidem priuatiua b c uero affirmatiua
+necessaria autem sit priuatiua quoniam igitur conuertitur c
+alicui b a autem nulli c ex necessitate neque a alicui
+b inerit ex necessitate nam b sub c est si autem
+praedicatiua sit necessaria non erit conclusio necessaria sit
+enim b c praedicatiua et necessaria a c autem priuatiua
+et non necessaria quoniam igitur conuertitur affirmatiua inerit
+et c alicui b ex necessitate quare si a quidem nulli
+eorum quae sunt c inest c autem alicui eorum quae sunt b
+et a alicui eorum quae sunt b non inerit sed non ex
+necessitate ostensum est enim in prima figura quoniam cum est
+priuatiua propositio non necessaria nec conclusio erit
+necessaria amplius et si per terminos sit manifestum sit enim
+a  bonum in quo  b animal c autem equus igitur
+bonum  contingit nulli equo inesse animal uero necesse est omni
+inesse sed non necesse est aliquod animal non esse bonum
+siquidem contingit omne esse bonum uel si non hoc possibile sed
+uigilare uel dormire terminus est ponendus  omne enim
+animal susceptibile est horum
+
+si igitur termini uniuersaliter ad medium sint dictum est quando
+erit conclusio necessaria si autem alter quidem sit
+uniuersalis alter uero particularis praedicatiuus autem uterque
+quando uniuersalis fuerit necessarius et conclusio erit
+necessaria demonstratio autem eadem quae  prius conuertitur
+enim et particularis affirmatiua si igitur necesse est b omni
+c inesse a autem sub c est necesse est b alicui a
+inesse si autem b alicui a et a alicui b inesse necesse
+est conuertitur enim similiter autem et si ac sit
+uniuersalis necessaria nam b sub c est si autem particularis
+sit necessaria non erit conclusio necessaria sit enim b c
+particularis et necessaria a autem insit omni c non tamen
+ex necessitate conuersa igitur b c fit prima figura et
+uniuersalis  propositio non necessaria particularis autem
+necessaria quando autem sic se habent propositiones non est
+conclusio necessaria unde nec in his amplius autem et ex
+terminis manifestum est sit enim a quidem uigilare b
+autem bipes in quo sit c animal ergo b alicui c
+necesse est inesse a autem contingit c et a non necessario
+b non enim necesse est aliquem bipedem dormire uel uigilare
+similiter autem et per eosdem terminos ostendetur et si a c
+sit particularis et necessaria
+
+si autem unus quidem terminorum sit praedicatiuus alius uero
+priuatiuus quando uniuersalis quidem est priuatiuus et
+necessarius et conclusio erit necessaria si enim a nulli c
+contingit b autem alicui c inest necesse est a alicui b
+non inesse quando  affirmatiuus necessarius ponitur uel
+uniuersaliter uel particulariter priuatiuus uero particulariter
+non erit conclusio necessaria nam alia quidem omnia quae et in
+priori dicemus termini autem quando uniuersalis quidem
+affirmatiua sit necessaria uigilare animal homo medium
+homo quando uero particularis sit praedicatiuus et necessarius
+uigilare animal album animal enim necesse est alicui albo
+inesse uigilare autem contingit nulli et non necesse est alicui
+animali non inesse uigilare quando autem priuatiuus
+particularis sit necessarius bipes moueri animal
+
+ manifestum est igitur quoniam inesse quidem non est
+syllogismus si utraeque propositiones non sint in hoc quod
+inest necessarius uero est et cum altera solum sit necessaria
+in utrisque autem et affirmatiuis et priuatiuis existentibus
+syllogismis necesse est alteram propositionem similem esse
+conclusioni dico autem similem quae inest  si haec de inesse
+est uel necessaria si et haec necessariam quare et hoc palam
+quoniam non est conclusio neque necessaria neque est esse non
+sumpta uel necessaria uel quae inesse significet propositione
+igitur de necessario quomodo fit et quam differentiam habeat ad
+id quod inest sufficienter paene dictum est
+
+  de contingente autem post haec dicemus quando et quomodo
+et cur erit syllogismus dico autem contingere et contingens
+quod cum non sit necessarium ponatur autem esse non erit
+propter hoc impossibile nam necessarium aequiuoce contingere
+dicimus quoniam autem hoc est contingens manifestum est ex
+affirmationibus et negationibus oppositis nam non contingit
+esse et impossibile esse et necessarium non esse uel idem
+sunt uel sequuntur se ad inuicem quare et opposita his
+contingens esse et non impossibile esse et non necessarium
+non esse uel idem sunt uel sequuntur se ad inuicem de omni enim
+uel affirmatio uel negatio ergo erit contingens non necessarium
+et non necessarium contingens accidit autem omnes de
+contingenti propositiones conuerti ad inuicem dico autem non
+affirmatiuas negatiuis sed quaecumque affirmatiuam habent
+figuram secundum oppositionem ut  quae  contingit esse ei
+quae  contingit non esse et  quae  contingit omni ei quae
+ contingit nulli uel non omni et quae alicui ei quae
+non alicui eodem  modo et in aliis quoniam enim quod
+contingit non est necessarium quod autem non est necessarium
+accidit non esse manifestum est quoniam si contingit a inesse
+b continget et non inesse et si omni contingit inesse et
+omni continget non inesse similiter autem et in particularibus
+affirmationibus nam eadem demonstratio sunt autem huiusmodi
+propositiones praedicatiuae quod enim contingit alicui esse
+similiter ordinatur quemadmodum quae dicta sunt prius
+
+his autem determinatis rursum dicimus quoniam contingere duobus
+modis dicitur uno quidem ut quod in pluribus fit et diminutum a
+necessario ut canescere hominem uel augeri uel diminui
+uel omnino quicquid natum est inesse hoc enim non continuum
+quidem habet necessarium eo quod non semper est homo nam cum
+homo est aut ex necessitate aut ut in pluribus est alio autem
+infinitum quod et sic et non sic possibile ut animal ambulare
+uel ambulante fieri sonitum uel omnino quod a casu fit nihil
+enim magis sic natum est fieri uel e contrario conuertitur ergo
+et secundum oppositas propositiones utrumque contingens non tamen
+eodem modo sed quod natum est quidem esse ei quod est non ex
+necessitate esse sic enim contingit non canescere hominem
+infinitum autem ei quod nihil magis sic uel alio modo disciplina
+autem et syllogismus demonstratiuus ex infinitis  non est eo
+quod inordinatum est medium ex iis uero quae nata sunt est et
+paene orationes et considerationes fiunt in iis quae sic
+contingunt ex his autem euenit  fieri syllogismum non tamen
+consuetum est requirere
+
+haec ergo definientur magis in submanentibus nunc autem dicemus
+quando et quomodo et quis erit syllogismus ex contingentibus
+propositionibus
+
+ quoniam autem contingens hoc huic inesse dupliciter est
+assumere aut enim alicui inest hoc aut alicui dicitur idem
+inesse nam secundum quod b est a contingere horum alterum
+significat aut secundum quod dicitur b aut secundum quod
+contingit dici secundum autem quod b est a contingere aut
+omni b conuenire a nihil differt manifestum est igitur
+quoniam dupliciter dicetur a contingere omni b inesse primum
+igitur dicemus si secundum quod est c contingit b et
+secundum quod est b contingit a quis erit et qualis
+syllogismus sic enim utraeque propositiones sumuntur de
+contingenti quando autem secundum quod b inest contingit a
+haec quidem est inesse illa uero contingens quare a similiter
+figuris incipiendum est quemadmodum et in aliis
+
+ quando igitur a contingit omni b et b omni c
+syllogismus erit perfectus quoniam a contingit omni c  hoc
+autem manifestum ex definitione nam contingere omni inesse sic
+dicebamus similiter autem et si a  contingit nulli b b
+autem omni c quoniam a contingit nulli c nam secundum
+quod b contingit non a contingere hoc erat nullum dimittere
+de iis quae sub b contingunt quando autem a contingit omni
+b b autem contingit nulli c propter assumptas quidem
+propositiones nullus fit syllogismus conuersa autem b c
+secundum contingens fit idem qui et prius quoniam enim
+contingit b nulli c inesse continget et omni inesse hoc
+autem dictum est prius quare si b  omni c a uero omni
+b rursum idem fit syllogismus similiter autem et si ad
+utrasque propositiones negatio ponatur contingens dico autem ut
+si a contingit nulli b et b nulli c nam propter
+assumptas  propositiones nullus fit syllogismus ex conuersis
+autem rursus idem erit qui et prius manifestum  igitur quoniam
+negatione posita ad minorem extremitatem uel ad utrasque
+propositiones aut non fit syllogismus aut fit quidem sed non
+perfectus ex conuersione autem fit necessarius
+
+si autem altera quidem propositionum sit uniuersalis altera uero
+particularis  ad maiorem  extremitatem posito uniuersali
+syllogismus erit perfectus si enim a omni b contingit b
+autem alicui c continget a alicui c hoc autem manifestum
+ex definitione contingentis rursus si a contingit nulli b
+b autem contingat alicui c inesse necesse est a contingere
+alicui c non inesse demonstratio autem eadem si autem
+priuatiua ponatur particularis propositio uniuersalis autem
+affirmatiua positione autem similiter se habente uelut a 
+omni b contingat b autem alicui c contingat non inesse
+propter assumptas quidem propositiones non fit manifestus
+syllogismus conuersa autem particulari et posito b alicui c
+contingere inesse eadem erit conclusio quae et prius
+quemadmodum in his quae ab initio
+
+si autem  ad maiorem extremitatem  particularis ponatur  ad
+minorem autem uniuersalis siue utraeque affirmatiuae ponantur
+siue priuatiuae siue non eiusdem figurae siue utraeque
+indefinitae seu particulares nullo modo erit syllogismus nihil
+enim prohibet b transcendere a et non praedicari in aequali
+quo enim b transcendit a sumatur c huic enim neque omni
+neque nulli neque alicui neque non alicui contingit a inesse
+si quidem conuertuntur de contingenti propositiones et b
+pluribus contingit quam a inesse amplius autem et ex terminis
+manifestum nam sic se habentibus propositionibus continget
+primum postremo et nulli et omni ex necessitate inesse termini 
+communes omnium inesse quidem ex necessitate animal album
+homo non contingere uero animal album uestis manifestum
+est igitur quoniam hoc modo se habentibus terminis nullus fit
+syllogismus nam omnis syllogismus aut  inesse est aut
+necessarius aut contingens hic autem neque inesse neque
+necessarius manifestum quoniam non est nam affirmatiuus perimit
+priuatiuum et priuatiuus affirmatiuum relinquitur ergo 
+contingens esse hoc autem impossibile ostensum est enim quoniam
+sic se habentibus terminis et omni postremo primum ex
+necessitate  et nulli contingit inesse quare non erit 
+contingens syllogismus nam contingens non erat necessarium
+
+manifestum est etiam quoniam cum uniuersales sunt termini in
+contingentibus propositionibus semper fit syllogismus in prima
+figura siue sint praedicatiui siue priuatiui uerum ex
+praedicatiuis fit  perfectus ex priuatiuis autem imperfectus
+oportet autem contingens sumere non in necessariis sed secundum
+determinatam definitionem aliquotiens autem latet huiusmodi
+
+  si autem altera quidem inesse altera uero propositionum
+contingens sumatur quando quae ad maiorem  est extremitatem
+contingens significabit perfecti erunt omnes syllogismi et
+contingentis secundum dictam determinationem quando autem  ad
+minorem  imperfecti omnes et priuatiui syllogismi neque
+contingentis secundum determinationem sed aut nulli aut non omni
+ex necessitate inesse si enim nulli aut non omni ex
+necessitate contingere dicimus et nulli et non omni inesse
+contingat enim a omni b b autem omni c ponatur inesse
+quoniam igitur sub b est c a autem contingit omni b
+manifestum quoniam et c omni continget fit autem perfectus
+syllogismus similiter autem et cum priuatiua sit a b
+propositio b c autem affirmatiua et haec quidem contingens
+illa uero inesse sit assumpta perfectus erit syllogismus
+quoniam a contingit nulli c inesse
+
+quoniam igitur inesse posita ad minorem extremitatem perfecti
+fiunt syllogismi manifestum quoniam autem contrarie se habentes
+erunt syllogismi per impossibile est monstrandum simul autem
+erit manifestum quoniam et imperfecti nam ostensio non est ex
+assumptis propositionibus primum autem disputandum est quoniam
+si cum est a necesse sit esse b et cum sit possibile esse
+a possibile erit b esse ex necessitate sit enim ex sic 
+habentibus terminis in uno quidem sit a possibile in altero
+autem sit b impossibile si igitur unum quidem sit possibile
+quando possibile est fiet si autem alterum impossibile quando
+impossibile est utique non fiet simul autem si a possibile et
+b est impossibile continget a fieri praeter b autem
+fieri et esse nam quod fit quando factum est est oportet
+autem sumere non solum in generatione impossibile et possibile
+sed et in hoc quod uerum est et in hoc quod inest et quicquid
+quolibet modo aliter dicitur possibile in omnibus enim similiter
+ habebit amplius a quidem existente b esse non ut uno
+quolibet a posito b erit oportet concludere non enim est
+nihil ex necessitate uno aliquo existente sed duobus ad minus
+uelut quando propositiones sic se habent ut dictum est ad
+syllogismum nam si c de d d autem de e et c de e
+ex necessitate et si possibile utrumque et conclusio erit
+possibilis  ergo si aliquis ponat a quidem propositiones
+b autem conclusionem significat non solum posito a ex
+necessitate et b esse necessario sed  possibili possibile
+
+hoc autem ostenso manifestum est quoniam falso concesso et non
+impossibili et quod accidit per hypothesim falsum erit et non
+impossibile ut si a quidem falsum sit non tamen impossibile
+cum autem a est et b est igitur et b falsum quidem erit
+non tamen impossibile quod enim ostensum est quoniam si cum est
+a est b et cum sit possibile a possibile erit esse b
+sed subiacet a possibile esse et b erit possibile si enim
+impossibile simul idem erit possibile et impossibile
+
+determinatis autem his insit a omni b b autem omni c
+contingat necesse est igitur a contingere omni c inesse non
+enim contingat b autem omni c maneat ut inesse hoc autem
+falsum quidem non tamen impossibile si igitur a quidem non
+contingat c b autem omni inest c a non omni b
+contingit fit enim syllogismus per tertiam figuram sed
+permanebat omni contingere inesse necesse  igitur a omni c
+contingere falso enim posito et non impossibili quod accidit
+est impossibile est autem et per primam figuram facere
+syllogismum posito b inesse c nam si b omni c inest
+a autem omni b contingit et omni c contingit a sed
+manebat non omni inesse
+
+oportet autem accipere omni inesse non secundum tempus
+determinatum ut nunc aut in aliquo tempore sed simpliciter per
+huiusmodi  propositiones et syllogismos facimus quoniam
+secundum nunc sumpta propositione non est syllogismus nihil enim
+fortasse prohibet quandoque et omni mouenti hominem inesse ut
+si nihil aliud moueatur moueri autem contingit omni equo sed
+homo nulli equo continget amplius sit primum quidem animal
+medium autem moueri postremum uero homo  propositiones
+quidem similiter se habebunt conclusio igitur necessaria non
+contingens ex necessitate enim homo animal manifestum est
+igitur quoniam uniuersale sumendum est simpliciter et non
+tempore determinato
+
+rursum sit priuatiua propositio uniuersalis a b et
+assumatur a quidem nulli b inesse b autem contingat omni
+c inesse his igitur positis necesse est ut a contingat
+inesse nulli c non enim contingat b autem maneat inesse
+c sicuti prius necesse  igitur a alicui b inesse fit
+enim syllogismus per tertiam figuram hoc autem impossibile
+quare contingit a nulli c posito enim falso impossibile 
+quod accidit huiusmodi igitur syllogismus non est eius quod
+determinatum est contingens sed nulli inesse ex necessitate nam
+eadem est contradictio factae hypothesis posita enim est ex
+necessitate a alicui c inesse syllogismus autem per
+impossibile oppositae est contradictionis amplius autem et ex
+terminis manifestum quoniam non erit conclusio contingens sit
+enim a quidem coruus  b autem intelligens  c uero
+homo nulli autem b inest a nullum enim intelligens est
+coruus b autem contingit omni c omni enim homini inest
+intelligere sed a ex necessitate nulli c non igitur
+conclusio erit contingens sed nec necessaria semper sit enim
+a quidem mobile b autem scientia  c uero homo a
+igitur nulli b inerit b autem omni c continget et non
+erit conclusio necessaria non enim necesse est  moueri hominem
+sed non necesse est quemlibet manifestum est ergo quoniam
+conclusio est  nulli ex necessitate inesse sumendi sunt igitur
+melius termini
+
+si autem priuatiuum quidem ponatur ad minorem extremitatem
+contingere significans ex huiusmodi  sumptis propositionibus
+nullus erit syllogismus conuersa autem secundum contingens
+propositione erit quemadmodum in priori insit enim a omni
+b b autem contingat nulli c sic igitur habentibus se
+terminis non erit necessarium si autem conuertatur b c et
+sumatur b contingere omni c fiet syllogismus quemadmodum
+prius similiter enim habent se termini positione eodem autem
+modo et cum priuatiuae sunt utraeque propositiones si autem a
+b quidem non inesse b c autem non contingere significet
+propter huiusmodi quidem assumptiones nihil fit necessarium
+conuersa autem secundum contingens propositione erit syllogismus
+sumatur enim a quidem nulli b inesse b autem contingat
+nulli c per haec enim  nihil necessarium si autem sumatur
+b omni c contingere quod uerum est a b autem propositio
+similiter se habeat rursum idem erit syllogismus si autem non
+inesse ponatur b omni c et non contingere non inesse non
+erit syllogismus  siue sit priuatiua siue affirmatiua a b
+propositio termini autem communes ex necessitate quidem inesse
+album animal nix non contingere autem album animal pix
+
+manifestum est igitur quoniam cum uniuersales sunt termini et
+haec quidem propositionum inesse illa uero sumatur contingens
+quando  ad minorem  quidem extremitatem contingens sumitur
+propositio semper fit syllogismus uerum alius quidem ex eisdem
+alius uero conuersa propositione quando autem ex utrisque  et
+propter quam causam diximus
+
+si autem haec quidem propositionum sumatur uniuersalis illa uero
+particularis quando ad maiorem quidem extremitatem uniuersalis
+ponitur et contingens siue affirmatiue siue negatiue
+particularis autem affirmatiue et inesse erit syllogismus
+perfectus uelut et cum uniuersales sunt termini demonstratio
+autem eadem quae et prius quando autem uniuersalis quidem fuerit
+ad maiorem extremitatem inesse autem et non contingens altera
+uero particularis et contingens siue negatiuae siue affirmatiuae
+ponantur utraeque siue haec quidem negatiue illa uero
+affirmatiue semper erit syllogismus imperfectus uerum alii
+quidem per impossibile ostenduntur alii uero per conuersionem
+contingentis quemadmodum in prioribus erit autem syllogismus
+per conuersionem et quando haec quidem uniuersalis ad maiorem
+extremitatem posita significat inesse uel non inesse illa uero
+particularis  priuatiua significat contingere ut si a quidem
+omni b inest aut non inest b autem alicui c contingit non
+inesse conuersa enim b c secundum contingens fit
+syllogismus quando autem non inesse significat particularis 
+non erit syllogismus termini inesse  album animal nix non
+inesse autem album animal pix per infinita enim sumenda
+demonstratio si autem uniuersale quidem ponatur ad minorem
+extremitatem particulare autem ad maiorem siue priuatiue siue
+affirmatiue siue de contingenti siue inesse  nullo modo erit
+syllogismus
+
+nec cum particulares uel indefinitae ponuntur propositiones siue
+contingentis  siue earum quae sunt inesse seu permutatim nec
+sic erit syllogismus demonstratio autem eadem quae et in
+prioribus termini autem communes inesse quidem ex necessitate
+animal album homo non contingere uero animal album
+uestis manifestum igitur quoniam uniuersali quidem posito ad
+maiorem extremitatem semper fit syllogismus ad minorem autem
+numquam ullo modo
+
+  quando autem haec quidem propositionum ex necessitate
+inesse uel non inesse illa uero contingere significat
+syllogismus quidem erit hoc modo se habentibus terminis et
+perfectus quando ad minorem extremitatem ponitur necessarium
+conclusio autem si praedicatiui quidem sint termini contingentis
+et non inesse erit siue uniuersaliter siue non uniuersaliter
+ponantur si autem  alter quidem affirmatiuus alter uero
+priuatiuus quando affirmatiuus quidem fuerit necessarius
+contingentis et non eius quod  non inest quando autem
+priuatiuus et contingentis non inesse et non inesse siue
+uniuersales siue non uniuersales sint termini contingere autem
+in conclusione eodem modo accipiendum est quo et in prioribus 
+ex necessitate autem non inesse non erit syllogismus aliud enim
+est non ex necessitate inesse et ex necessitate non inesse
+
+quoniam igitur uniuersalibus existentibus terminis non fit
+conclusio necessaria manifestum est insit enim a omni b ex
+necessitate b autem contingat omni c erit igitur
+syllogismus imperfectus quoniam a contingit omni c inesse
+quoniam autem est imperfectus ex demonstratione palam est ad
+eundem enim modum ostendetur ad quem  in prioribus rursum a
+quidem contingat omni b inesse b autem omni c insit ex
+necessitate erit itaque syllogismus quoniam a contingit omni
+c inesse sed non quoniam inest et perfectus sed nec
+imperfectus statim enim perficitur per illas quae ab initio sunt
+propositiones
+
+si autem non similis figurae sint propositiones sit primum
+priuatiua necessaria et a quidem contingat nulli b ex
+necessitate b autem contingat omni c necesse est igitur a
+nulli c inesse ponatur enim inesse aut omni aut alicui
+dicebatur autem contingere nulli b quoniam igitur conuertitur
+priuatiua et b nulli a continget a autem permanet inesse
+c aut omni aut alicui quare nulli aut non omni c continget
+b inesse sed inerat omni ex principio manifestum igitur
+quoniam et contingentis non inesse fit syllogismus siquidem et
+non inesse rursum sit affirmatiua propositio necessaria et a
+quidem contingat nulli b inesse b autem insit omni c ex
+necessitate ergo erit syllogismus  perfectus sed non eius quod
+non inest sed  quod contingit non inesse nam  propositio sic
+posita est quae a maiore est extremitate et ad impossibile non
+est necessaria nam si ponatur a inesse nulli c manet autem
+et a nulli b contingere inesse nihil accidit propter hoc
+impossibile si autem ad minorem extremitatem ponatur priuatiua
+quando contingere quidem significat syllogismus erit per
+conuersionem quemadmodum in prioribus quando autem non
+contingere non erit nec quando utraque quidem ponitur
+priuatiua si non erit  contingens  ad minorem termini autem
+idem inesse quidem album animal nix non inesse autem
+album animal pix
+
+eodem autem modo se habebit et in particularibus syllogismis
+quando enim fuerit priuatiua necessaria et conclusio erit eius
+quod non inest ut si a quidem nulli b contingat inesse b
+autem alicui c contingat inesse necesse est a alicui eorum
+quae sunt c non inesse si enim omni inest contingit autem
+nulli b b nulli a contingit inesse quare si omni c
+inest a nulli c contingit b sed ponebatur alicui inesse
+quando autem particularis affirmatiua necessaria est  in
+priuatiuo syllogismo ut b c aut uniuersalis in affirmatiuo
+ut a b non erit inesse syllogismus demonstratio autem
+eadem quae et in prioribus si autem uniuersale  ponitur ad
+minorem extremitatem uel affirmatiuum uel priuatiuum contingens
+particulare autem necessarium non erit syllogismus termini
+autem inesse quidem ex necessitate animal album homo non
+contingentis autem animal album uestis quando autem
+uniuersale quidem sit necessarium particulare autem contingens
+cum priuatiuum quidem fuerit uniuersale inesse quidem termini
+animal album coruus non inesse autem animal album pix
+cum autem affirmatiuum inesse quidem animal album cygnus non
+contingere autem animal album nix nec quando indefinitae
+sumuntur propositiones aut utraeque particulares nec sic erit
+syllogismus termini  communes inesse quidem animal album
+homo non inesse autem animal album inanimatum et enim
+animal alicui albo album autem inanimato alicui et necessarium
+est inesse et non contingit inesse et in contingenti similiter
+quare ad omnia utiles sunt termini
+
+manifestum est igitur ex iis quae dicta sunt quoniam similiter
+habentibus se terminis et in hoc quod inest et in necessariis 
+fit et non fit syllogismus uerum secundum inesse quidem posita
+priuatiua propositione eius quod contingit erat syllogismus
+secundum necessarium autem priuatiua et contingentis et non
+inesse palam autem  quoniam omnes imperfecti sunt syllogismi et
+quoniam perficiuntur per praedictas figuras
+
+ ergo methodus quidem de omnibus eadem est et circa
+philosophiam et circa artem quamlibet et disciplinam oportet
+enim quae insunt et quibus insunt circa unumquodque colligere et
+his ut plurimis habundare et haec per tres terminos
+considerare destruentem quidem sic construentem uero sic et
+secundum ueritatem quidem ex his quae secundum ueritatem scripta
+sunt inesse ad dialecticos autem syllogismos ex propositionibus
+quae sunt secundum opinionem principia autem syllogismorum
+uniuersaliter quidem dicta sunt et quomodo se habeant et quomodo
+oportet inquirere ea quatenus non aspiciamus ad omnia quae
+dicuntur neque ad eadem construentes et destruentes neque
+construentes  de omni aut aliquo et destruentes ab omnibus aut
+aliquibus sed ad pauciora et determinata secundum singulum
+autem eorum quae sunt eligere ut de bono aut disciplina proprie
+autem in unaquaque sunt plures quare principia quidem quae sunt
+circa singula experimento est tradere dico autem ut
+astrologicam quidem experientiam astrologica disciplina sumptis
+enim sufficienter apparentibus sic inuentae sunt astrologicae
+demonstrationes similiter autem et circa aliam quamlibet se
+habet et artem et disciplinam quare si sumantur quae insunt
+circa singulum nostrum est iam demonstrationem prompte
+declarare si enim nihil secundum historiam omittatur eorum quae
+subtiliter et uere insunt rebus habebimus de omni cuius quidem
+est demonstratio hanc inuenire et demonstrare cuius autem non
+nata est demonstratio hoc facere manifestum
+
+uniuersaliter ergo quo oportet modo propositiones eligere paene
+dictum est studiose autem pertransiuimus in eo negotio quod
+circa dialecticam est
+
+ quoniam autem diuisio per genera parua quaedam particula est
+dictae methodi facile uidere est enim diuisio uelut infirmus
+syllogismus nam quod oportet quidem ostendere petit syllogizat
+uero semper aliquid superiorum primum autem idem hoc latuit
+omnes utentes ea et suadere conati sunt uelut esset possibile de
+substantia demonstrationem fieri et de eo quod est quid est
+quare neque quoniam contingebat syllogizare eos qui diuidunt
+intellexerunt neque quoniam sic contingebat quemadmodum diximus
+ergo in demonstrationibus quidem cum oportet quid syllogizare
+esse oportet medium per quod fit syllogismus et minus semper
+esse et  de tota priori extremitate diuisio autem e contrario
+fit nam uniuersalius sumit medium sit enim animal quidem in
+quo a mortale autem in quo b et immortale in quo c
+homo uero cuius terminum oportet sumere in quo d omne ergo
+animal accipit aut mortale aut immortale hoc autem est quicquid
+est a omne esse aut b aut c rursus hominem semper qui
+diuidit ponit animal esse quare de d sumit a esse ergo
+syllogismus quidem est quoniam d aut b aut c omne est
+quare hominem aut mortalem aut immortalem oportet sumere 
+mortale quidem aut immortale necessarium est esse animal mortale
+autem non necessarium esse sed petitur hoc autem erat quod
+oportebat syllogizare et rursum qui ponit a quidem animal
+mortale in quo autem b pedes habens in quo autem c non
+habens pedes hominem uero d similiter sumit a quidem aut
+in b aut in cesse omne enim animal mortale aut pedes habens
+aut non habens pedes est de d autem a nam hominem animal
+mortale sumpsit esse quare pedes habens aut non habens pedes
+esse animal necesse est hominem pedes habens autem non necesse
+sed sumit hoc autem erat quod oportebat rursum ostendere et ad
+hunc modum semper diuidentibus uniuersale quidem accidit eis
+medium sumere de quo  oportebat ostendere et differentias
+extremitates finem autem quoniam hoc est homo aut quicquid erit
+quod quaeritur nihil autem dicunt planum ut necessarium esse
+et enim aliam uiam faciunt omnem neque contingentes idoneitates
+opinantes inesse
+
+manifestum autem quoniam neque destruere hac uia est neque de
+accidente aliquid aut de proprio syllogizare neque de genere
+neque in quibus ignoratur utrum hoc modo aut illo se habeat ut
+putas ne diameter asymmeter aut symmeter est si enim sumat
+quoniam omnis longitudo uel symmeter est uel asymmeter diameter
+autem longitudo syllogizatum est quoniam uel asymmeter uel
+symmeter est diameter si autem sumat asymmeter quod oportebat
+syllogizare sumet non ergo est ostendere nam uia quidem haec
+per hanc autem non est ostendere symmetrum aut asymmetrum in quo
+a longitudo b aut symmeter aut asymmeter diameter
+c manifestum est igitur quoniam neque ad omnem considerationem
+congruit inquisitionis modus neque in quibus maxime uidetur
+conuenire in his est utilis ex quibus ergo demonstrationes
+fiunt et quomodo et ad quae perspiciendum secundum unamquamque
+propositionem manifestum ex praedictis
+
+ reduplicatum autem in propositionibus ad primam extremitatem
+ponendum non ad medium dico autem ut si fiat syllogismus
+quoniam iustitiae est disciplina quoniam bonum  in eo quod
+bonum ad primam extremitatem ponendum sit enim a disciplina
+quoniam bonum in quo autem b bonum in quo uero c
+iustitia ergo a uerum est de b praedicari nam boni est
+disciplina quoniam bonum sed et b de c nam iustitia quod
+bonum est sic ergo fit resolutio si autem ad b ponatur
+quoniam bonum non erit nam a quidem de b uerum erit b
+autem de c non erit uerum nam bonum quoniam bonum praedicare
+de iustitia falsum et non intelligibile similiter autem et si
+salubre ostendatur quoniam disciplinatum est in eo quod bonum
+aut hircoceruus in eo quod non existens aut homo corruptibile in
+eo quod sensibile in omnibus enim praedicatis ad extremum
+reduplicatio est ponenda
+
+non est autem eadem positio terminorum quando simpliciter quid
+syllogizatum fuerit et quando hoc aliquid aut quo aut quomodo
+dico autem ut quando bonum disciplinatum ostensum erit et quando
+disciplinatum quoniam bonum sed si simpliciter quidem
+disciplinatum ostensum est medium ponendum ens si autem
+quoniam bonum quid ens sit enim a quidem disciplina
+quoniam quid ens in quo autem b ens quid in quo autem c
+bonum uerum ergo a de b praedicare erat enim disciplina
+alicuius entis quoniam quid ens sed et b de c nam in quo
+c bonum quid quare et a de c erit ergo disciplina boni
+quoniam bonum erat enim quid ens propriae substantiae signum si
+autem ens medium positum sit et ad extremum ens simpliciter
+et non quid ens dictum sit non erit syllogismus quoniam est
+disciplina boni quoniam bonum sed quoniam ens ut si sit in quo
+a disciplina quoniam ens in quo b ens in quo c
+bonum manifestum ergo quoniam in particularibus syllogismis
+sic sumendi sunt termini
+
+ oportet autem et accipere quae idem ualent nomina pro
+nominibus et orationes pro orationibus et nomen et orationem et
+semper pro oratione nomen accipere facilior enim est terminorum
+expositio ut si nihil differt dicere suspicabile opinabilis non
+esse genus aut non esse idem quod suspicabile quid opinabile
+nam idem quod significatur pro oratione dicta suspicabile et
+opinabile termini ponendi sunt
+
+ quoniam uero non est idem esse uoluptatem bonum et esse
+uoluptatem quod bonum non similiter ponendum terminos sed si
+est syllogismus quoniam uoluptas bonum  terminum ponendum
+bonum si autem quoniam quod bonum quod bonum similiter
+autem et in aliis
+
+ non est autem idem neque esse neque dicere quoniam cui b
+inest huic quoque omni a inest et dicere cui omni b inest
+et a inest omni nihil enim prohibet b inesse c non omni
+autem ut sit b quidem pulchrum c autem album si igitur
+alicui albo inest pulchrum uerum est dicere quoniam albo inest
+pulchrum sed non omni fortasse si ergo a inest b non omni
+autem de quo b neque si omni c inest b neque si solum
+alicui necesse est a non quia non omni sed nec inesse c si
+autem de quocumque b dicitur uere huic omni a inest
+accidet a de quo omni b dicitur de eo omni dici si autem
+a dicatur de omni de quo b dicitur nihil prohibet  ei quod
+est c inesse b a autem non omni aut omnino non inesse in
+tribus igitur terminis manifestum quoniam de quo b omni et a
+dicitur hoc est de quocumque b dicitur de omnibus dicitur et
+a et si b quidem de omni et a similiter si autem non de
+omni non necesse est a de omni
+
+non oportet autem arbitrari propter expositionem aliquid accidere
+inconueniens non enim laboremus in eo quod hoc aliquid sit sed
+quemadmodum geometer pedalem et rectam hanc esse et sine
+latitudine dicit quae non est sed non sic utitur ut ex his
+syllogizans omnino enim quod non est ut totum ad partem et aliud
+ad hoc ut pars ad totum ex nullo talium ostendit demonstrator
+neque enim fit syllogismus expositione autem sic utimur  ut
+sentiat qui discit non enim sic ut sine his non possibile sit
+demonstrare quemadmodum ex quibus est syllogismus
+
+ non lateat autem nos quoniam in eodem syllogismo non omnes
+conclusiones per unam eandem figuram sunt sed haec quidem per
+hanc illa uero per aliam palam ergo quoniam et resolutiones ex
+his faciendae quoniam autem non omnis propositio in omni figura
+sed in unaquaque sunt dispositae manifestum ex conclusione in
+qua figura sit quaerendum
+
+ ad definitiones autem orationum quaecumque ad unum quid sunt
+redargutae eorum qui sunt in termino ad quod redargutum est
+terminum ponendum et non totam orationem minus enim continget
+conturbari propter longitudinem ut si aquam ostendit quoniam 
+humidus potus potum et aquam terminos ponendum
+
+ amplius autem ex hypothesi syllogismos non est temptandum
+reducere nam non est ex his quae posita sunt reducere non enim
+per syllogismos ostensi sunt sed ad placitum concessi omnes ut
+si quis ponat si una quaedam potestas non sit contrariorum
+neque disciplinam unam esse deinde disputet quoniam non est una
+potestas contrariorum ut  sanatiui et aegrotatiui simul enim
+erit idem sanatiuum et aegrotatiuum quoniam ergo non est una
+contrariorum omnium potestas ostensum est quoniam autem
+disciplina non est non est ostensum quamuis confiteri sit
+necesse at non ex syllogismo sed ex conditione hoc igitur non
+est reducere quoniam autem nec una potestas est sic enim
+fortasse et fuit syllogismus illud autem conditio
+
+similiter autem et in his quae per impossibile concluduntur nam
+neque hos est resoluere sed ad impossibile quidem deductionem
+est syllogismo enim monstratur alterum autem non est ex
+conditione enim concluditur differunt autem a praedictis quoniam
+in illis quidem oportet prius confiteri si debeant concedere
+ut si ostendatur una potestas contrariorum et disciplinam esse
+eandem hic autem et non prius confessi concedent eo quod
+manifestum sit falsum ut posito diametro symmetro eo quod
+imparia aequalia sint paribus
+
+plures autem et diuersi concluduntur ex conditione quos
+perspicere oportet et pernotare aperte quae ergo horum
+differentiae et quotiens fiunt qui sunt ex hypothesi postea
+dicemus nunc autem tantum sit nobis manifestum quoniam non est
+resoluere in figuras huiusmodi syllogismos et ob quam causam
+diximus
+
+ii  oportet autem scire quoniam contingit quidem sic
+opposita sumere quemadmodum diximus omnem disciplinam studiosam
+esse et rursum nullam aut aliquam non studiosam quod non solet
+latere erit autem per alias interrogationes syllogizare
+alterum aut quemadmodum in topicis dictum est sumere quoniam
+autem affirmationum oppositiones sunt tres sexies accidit
+opposita sumere aut omni et nulli aut omni et non omni aut
+alicui et nulli et hoc conuerti in terminis ut a omni b et
+nulli c aut omni c et nulli b aut huic quidem omni illi
+uero non omni et rursum hoc conuerti secundum terminos
+similiter autem et in tertia figura quare manifestum et quotiens
+et in quibus figuris contingit per oppositas propositiones fieri
+syllogismum
+
+manifestum etiam quoniam ex falsis quidem est uerum syllogizare
+quemadmodum dictum est prius ex oppositis autem non est semper
+enim contrarius syllogismus fit rei ut si est bonum non esse
+bonum aut si animal non animal eo quod ex contradictione est
+syllogismus et subiecti termini aut idem sunt aut hic quidem
+totum ille autem pars palam autem et quoniam in paralogismis
+nihil prohibet fieri hypotheseos contradictionem ut si est
+impar non esse impar nam ex oppositis propositionibus
+contrarius fuit syllogismus si ergo sumpserit huiusmodi erit
+hypotheseos contradictio oportet autem considerare quoniam sic
+quidem non est contraria concludere ex syllogismo uno ut sit
+conclusio quod non est bonum bonum aut aliud quid tale nisi
+statim propositio huiusmodi sumatur ut omne animal esse album et
+non album hominem autem animal sed assumere oportet
+contradictionem ut quoniam omnis disciplina opinio et non
+opinio deinde sumere quoniam medicina disciplina quidem est
+nulla autem opinio quemadmodum redargutiones fiunt ex duobus
+syllogismis quare esse quidem contraria secundum ueritatem quae
+sumpta sunt non est alio modo quam hoc quemadmodum dictum est
+prius
+
+ de eo quod est in principio petere
+in principio autem petere et accipere est quidem ut in genere
+sumere in eo quod non demonstratur propositum hoc autem accidit
+multipliciter nam et si omnino non syllogizatur et si per
+ignotiora aut similiter ignota et si per posteriora quod prius
+est demonstratio enim et ex notioribus et prioribus est horum
+ergo nihil est petere quod ex principio sed quia haec quidem per
+se nata sunt cognosci illa uero per alia nam principia quidem
+per se quae autem sunt sub principiis per alia quando quod
+non per se notum est per se aliquis conatur ostendere tunc petit
+quod ex principio hoc autem est sic quidem facere ut statim
+probet quod propositum est contingit autem et transgredientes ad
+alia eorum quae nata sunt per illud ostendi per haec demonstrare
+quod est ex principio ut si a ostendatur per b et b per
+c c autem natum sit ostendi per a accidit enim idem a
+per se monstrare eos qui sic syllogizant quod faciunt qui
+parallilas arbitrantur scribere latent enim idem se ipsos talia
+sumentes quae non ualent demonstrare cum non sint parallilae
+quare accidit sic syllogizantibus singulum esse dicere si est
+singulum sic autem omne erit per se notum quod est impossibile
+si ergo aliquis dubio quoniam a inest c similiter autem et
+quoniam b petat a inesse b nondum manifestum si quod in
+principio est petat sed quoniam non demonstrauit manifestum non
+enim est principium demonstrationis quod similiter est incertum
+si autem b ad c sic se habet ut idem sit aut palam quoniam
+conuertuntur aut inest alterum alteri quod in principio est
+petit nam et quoniam a inest b per illa monstrabit si
+conuertantur nunc autem hoc prohibet sed non modus si autem
+hoc faciat quod dictum est faciet et conuertetur per tres
+similiter autem et si b sumpserit inesse c cum similiter sit
+incertum uelut et si a nondum quod ex principio sed non
+demonstrat si autem idem sit a et b aut in eo quod
+conuertuntur aut in eo quod sequitur a ei quod est b quod
+est ex principio petit propter eandem causam nam ex principio
+quid ualet dictum est nobis quoniam per se monstratur quod non
+est per se manifestum
+
+si ergo est in principio petere per se monstrare quod non per se
+est manifestum hoc autem est non ostendere quando similiter
+dubia sunt quod monstratur et per quod monstratur uel in eo quod
+eadem eidem uel in eo quod idem eisdem inesse sumit in media
+quidem figura et tertia utrimque continget quod est in principio
+petere in praedicatiuo autem syllogismo et in tertia et in
+prima quando autem negatiue quando eadem ab eodem et non
+similiter utraeque propositiones similiter autem et in media eo
+quod non conuertuntur termini secundum negatiuos syllogismos
+est autem in principio petere in demonstrationibus quidem quae
+secundum ueritatem sic se habent in dialecticis autem quae
+secundum opinionem
+
+ de non propter hoc accidere falsum
+non propter hoc autem accidere falsum quod saepe in
+disputationibus solemus dicere primum quidem est in ad
+impossibile syllogismis quando ad contradictionem est huius quod
+demonstratum est ea quae est ad impossibile nam neque qui non
+contradicit dicet non propter hoc sed quoniam falsum aliquid
+positum est eorum quae prius neque in ea quae ostendit non enim
+ponit quod contradixit amplius autem quando interimitur aliquid
+ostensiue per a b c non est dicere quod non propter hoc
+quod positum est factus est syllogismus nam non propter hoc
+fieri tunc dicimus quando interempto hoc nihil minus concluditur
+syllogismus quod non est in ostensiuis interempta enim
+positione nec qui ad hanc est erit syllogismus manifestum
+igitur quoniam in his quae ad impossibile dicitur non propter
+hoc et quando sic se habet ad impossibile quae ex principio est
+hypothesis ut et cum sit et cum non sit haec nihil minus accidit
+impossibile
+ergo manifestissimus quidem modus est non propter positionem esse
+falsum quando ab hypothesi inconiunctus est a mediis ad
+impossibile syllogismus quod dictum est in topicis quod enim
+non est causa ut causam ponere hoc est ut si uolens ostendere
+quoniam asymmetrum est diametrum conetur zenonis rationem
+quoniam non est moueri et ad hoc inducat impossibile nullo enim
+modo nusquam continuum est falsum locutioni quae ex principio
+est alius autem modus si continuum quidem sit impossibile
+hypothesi non tamen propter illam accidat hoc enim possibile
+est fieri et in hoc quod superius et in hoc quod inferius sumenti
+continuum ut si a ponatur inesse b b autem c c uero
+d hoc autem sit falsum scilicet b inesse d nam si
+ablato a nihil minus inest b c et c d non erit falsum
+propter eam quae est ex principio hypothesim aut rursum si
+quis in superiori sumat continuum ut si a quidem b e
+autem a f uero e falsum autem sit f inesse a nam et
+sic nihil minus erit impossibile interempta quae est ex principio
+hypothesi sed oportet ad eos qui ex principio sunt terminos
+copulare impossibile sic enim erit propter hypothesim ut
+inferiori quidem sumenti continuum ad praedicatum terminorum nam
+si impossibile est a inesse d interempto a non amplius
+erit falsum in superiori autem de quo praedicatur nam si f
+non possibile est inesse b interempto b non erit amplius
+impossibile similiter autem et cum priuatiui sunt syllogismi
+
+manifestum ergo quoniam cum impossibile non ad eos qui sunt ex
+principio terminos est non propter positionem accidit falsum
+aut nec sic semper propter hypothesim erit falsum et enim si non
+ei quod est b sed k positum est inesse a k autem c et
+hoc d et sic erat impossibile et sic manet impossibile
+similiter autem et in sursum sumenti terminos quare quoniam
+et cum est et cum non est hoc accidit impossibile non erit
+propter positionem aut cum non est hoc nihil minus fieri falsum
+non sic sumendum ut alio posito accidere impossibile sed quando
+ablato hoc per reliquas propositiones idem clauditur
+impossibile eo quod idem falsum accidere per plures hypotheses
+nihil fortasse inconueniens ut parallilas accidere et si maior
+est quae interius ea quae exterius et si triangulus habet plures
+rectos duobus
+
+ de falsa oratione
+falsa autem oratio fit propter primum falsum aut enim ex duabus
+propositionibus aut ex pluribus omnis est syllogismus ergo si ex
+duabus quidem harum necesse est alteram aut etiam utrasque
+esse falsas nam ex ueris non erat falsus syllogismus si uero ex
+pluribus ut c quidem per a b haec autem per d e f
+g horum aliquid erit superiorum falsum et propter hoc oratio
+nam a et b per illa concluduntur quare propter illorum
+aliquid accidit conclusio et falsum
+ ut non ab aliquo katasyllogizetur
+ut autem non katasyllogizetur obseruandum quando sine
+conclusionibus interrogat orationem ne detur bis idem in
+propositionibus eo quod scimus quoniam sine medio syllogismus
+non fit medium autem est quod plerumque dicitur quomodo autem
+oportet ad unamquamque conclusionem obseruare medium manifestum
+est hoc quod scitur quale in unaquaque figura ostenditur hoc
+autem nos non latebit eo quod uidemus quomodo habemus orationem
+oportet autem quod custodire annunciamus respondentes eosdem
+conantes temptare latere hoc autem erit primum quidem si
+conclusiones non prius syllogizent sed sumptis necessariis non
+manifestae sint amplius autem si non propinqua interrogent sed
+quam maxime longe media ut sit oportunum concludere a de f
+media b c d e non oportet ergo inquirere si a b et
+rursum si b c sed si d e et deinde si b c et sic
+reliqua etsi per unum medium fit syllogismus a medio incipere
+maxime enim sic latebit respondentem
+
+ quoniam autem habemus quando et quomodo habentibus se
+terminis fit syllogismus manifestum et quando erit et quando non
+erit elenchus nam omnibus affirmatiuis uel commutatim positis
+responsionibus ut hac quidem negatiua illa uero affirmatiua
+contingit fieri elenchum erat enim syllogismus et sic et illo
+modo habentibus se terminis quare si id quod positum est sit
+contrarium conclusioni necesse est fieri elenchum nam elenchus
+contradictionis syllogismus si uero nihil sit concessum
+impossibile est fieri elenchum non enim erat syllogismus cum
+omnes termini sint priuatiui quare nec elenchus nam si 
+elenchus necesse est syllogismum esse cum autem est
+syllogismus non necesse est elenchum similiter autem et si
+nihil positum sit secundum responsionem uniuersaliter nam eadem
+erit definitio elenchi et syllogismi
+
+ de secundum opinionem fallacia
+accidit autem quandoque quemadmodum in positione terminorum
+fallebamur et secundum opinionem fieri fallaciam ut si
+contingit idem pluribus principaliter inesse et hoc quidem
+latere aliquem et putare nulli inesse illud autem scire insit
+enim a b et c per se et haec omni d similiter ergo si
+b quidem omni putat a inesse et hoc d c autem nulli a
+et hoc omni d eiusdem secundum idem habebit disciplinam et
+ignorantiam rursum si quis fallatur circa ea quae sunt ex eadem
+coniugatione ut si a inest b hoc autem c et c d
+opinetur autem a inesse omni b et rursum nulli c simul
+enim et sciet et non opinabitur inesse ergo nihil aliud probat
+ex his quam quod scit hoc non opinari scit enim aliquo modo
+quoniam a inest c per b ut si uniuersaliter hoc quod est
+particulare quare quod aliquo modo scit hoc omnino probat non
+opinari quod est impossibile
+in eo autem quod prius dictum est si non ex eadem coniugatione
+sit medium secundum utrumque quidem mediorum ambas propositiones
+non contingit opinari ut a b quidem omni c autem nulli
+haec autem utraque omni d accidit enim aut simpliciter aut in
+aliquo contrariam sumere primam propositionem si enim cui b
+inest omni a opinatur inesse b autem d nouit et quoniam
+a d nouit quare si rursum cui c nulli putat a inesse
+cui b alicui inest huic non putat a inesse quod autem omni
+putat cui b rursum alicui non putare cui b aut simpliciter
+aut in aliquo contrarium est
+
+sic ergo non contingit opinari secundum utrumque autem unam aut
+secundum alterum utrasque nihil prohibet ut a omni b et b
+d et rursum a nulli c nam similis huiusmodi fallacia et
+ut fallimur circa particulares ut si a omni b b autem
+omni c a omni c inerit si ergo aliquis nouit quoniam a
+cui b inest omni nouit et quoniam c sed nihil prohibet
+ignorare c quoniam est ut si a quidem duo recti in quo
+autem b triangulus in quo uero c sensibilis triangulus
+opinabitur enim aliquis non esse c sciens quoniam omnis
+triangulus habet duobus rectis quare simul sciet et ignorabit
+idem nam scire omnis triangulus quoniam duobus rectis non
+simplex est sed hoc quidem uniuersalem habet disciplinam illud
+uero singularem sic ergo ut uniuersali nouit c quoniam duo
+recti ut singulari autem non nouit quare non habebit
+contrarias similiter autem et quae in menone est oratio quoniam
+disciplina rememoratio numquam enim accidit praescire quod
+singulare est sed simul  inductione sumere particularium
+disciplinam uelut recognoscentes nam quaedam scientes statim
+scimus quoniam duobus rectis si scimus quoniam triangulus
+similiter autem et in aliis
+
+ergo uniuersali quidem speculamur particularia propria autem non
+scimus quare contingit et falli circa ea uerum non contrarie
+sed habere quidem uniuersali decipi autem particulari similiter
+ergo et in praedictis non enim contraria quae est secundum
+medium fallacia ei quae est secundum syllogismum disciplinae nec
+quae secundum alterum mediorum est opinio nihil enim prohibet
+scientem et quoniam a toti b inest et rursum hoc c putare
+non inesse a c ut quoniam omnis mula sterilis et haec mula
+putare in utero habere hanc non enim scit quoniam a c non
+uidens quod est secundum alterum quare manifestum quoniam et si
+hoc quidem nouit illud uero non nouit fallitur quod habent
+uniuersales ad particulares disciplinas nullum enim sensibilium
+cum extra sensum fit scimus nec si sentientes fuerimus nisi ut
+in uniuersali et in eo quod habet propriam disciplinam sed non
+ut in eo quod egit nam scire dicitur tripliciter aut ut
+uniuersali aut ut propria aut ut agere quare et decipi totidem
+modis nihil ergo prohibet et scire et deceptum esse circa eadem
+uerum non contraria quod accidit et ei qui secundum utramque
+scit propositionem et non pertractauit prius nam opinans in
+utero habere mulam non habet secundum actum disciplinam neque
+propter opinionem contrariam fallaciam disciplinae syllogismus
+enim  contraria fallacia uniuersali
+
+qui autem opinatur quod bonum est malum esse idem opinabitur
+bonum esse et malum sit enim bonum quidem esse in quo a malum
+autem esse in quo b rursum uero bonum esse in quo c
+quoniam ergo idem opinatur b et c et esse c b
+opinabitur et rursum b esse a similiter quare et c a
+nam quemadmodum si sit uerum de quo c b et de quo b
+a et de c a uerum erat sic et in opinari similiter autem
+et in eo quod est esse nam cum idem sit c et b et rursum
+b et a et c a idem erit quare et in opinari similiter
+ergo hoc quidem necessarium si quis det primum sed fortasse
+illud falsum opinari aliquem quod malum est bonum esse nisi
+secundum accidens multipliciter enim possibile est hoc opinari
+perspiciendum autem hoc melius
+
+ de conuersionibus
+quando autem conuertuntur extremitates necesse est et medium
+conuerti ad utramque si enim a de c per b est si
+conuertitur et inest cui a omni c et b a conuertitur
+et inest cui a omni b per medium c et c b
+conuertitur per medium a et in non inesse similiter ut si b
+inest c a uero non inest b neque a inerit c si ergo
+b conuertatur a et c a conuertetur sit enim b quod
+non inest a ergo neque c a omni enim c inerat b et
+si b conuertitur c et a conuertitur c nam de quo omni
+b et c et si c ad a conuertitur et b conuertitur ad
+a cui enim b inest c cui autem c a non inest et
+solum hoc a conclusione incipit alia autem non similiter ut in
+praedicatiuo syllogismo
+rursum si a et b conuertuntur et c et d similiter omni
+autem necesse est a aut c inesse et b et d sic se
+habebunt ut omni alterum insit quoniam enim cui a b et cui
+c d omni autem a aut c et non simul manifestum
+quoniam et b aut d omni et non simul ut si ingenitum
+incorruptibile et incorruptibile ingenitum necesse est quod
+factum est corruptibile et corruptibile factum esse duo enim
+syllogismi consiti sunt rursum si omni quidem a uel b et c
+uel d simul autem non insunt si conuertitur a et c et
+b et d conuertetur nam si alicui non inest b cui d
+palam quoniam a inest si autem a et c conuertetur enim
+quare simul c et d hoc autem impossibile
+
+quando autem a toti b et c inest et de nullo alio
+praedicatur inest autem et b omni c necesse est a et b
+conuerti quoniam enim de solis b c dicitur a praedicatur
+autem b et idem de se et de c manifestum quoniam de quibus
+a et b dicetur omnibus absque ipso a rursum quando a et
+b toti c inest conuertitur autem c b necesse est a
+omni b inesse quoniam enim omni c a c autem b eo quod
+conuertantur et a omni b inerit
+
+quando autem duo fuerint opposita ut a magis eligendum sit
+quam b et d et c similiter si magis eligenda sint a c
+quam b d a magis eligendum quam d similiter enim
+sequendum a et fugiendum b opposita enim et c ei quod est
+d nam et haec opponuntur si ergo a ei quod est d
+similiter eligendum et ei quod est c b fugiendum utrumque
+enim utrique similiter fugiendum sequendo quare et ambo a c
+et b d quando autem magis non possibile similiter nam et
+b d similiter erant si autem d magis eligendum quam a
+et b quam c quod minus est fugiendum nam minus minori
+opponitur magis autem eligendum est maius bonum et minus malum
+quam minus bonum et maius malum et uniuersum igitur b d
+magis eligendum quam a c nunc autem non est ergo a magis
+eligendum quam d et c igitur minus fugiendum quam b si
+ergo eligat omnis amans secundum amorem a sic se habere ut
+concedere et non concedere in quo c aut concedere in quo
+d et non tale esse ut concedere in quo b manifestum
+quoniam a huiusmodi esse magis eligendum est quam concedere
+ergo diligi quam coitum magis eligendum secundum amorem magis
+ergo amor est dilectionis quam eius quod est coire si autem
+maxime haec et finis haec ergo eius quod est coire aut non est
+omnino aut gratia diligendi nam et aliae concupiscentiae et
+artes sic fiunt
+
+ quomodo ergo se habent termini secundum conuersiones et in eo
+quod magis fugiendi uel magis eligendi sunt manifestum
+
+de rhetoricis orationibus
+quoniam autem non solum dialectici et demonstratiui syllogismi
+per praedictas fiunt figuras sed et rhetorici et simpliciter
+quaecumque fides et secundum quamque artem nunc erit dicendum
+omnia enim credimus aut per syllogismum aut ex inductione
+ ergo inductio quidem est  ex inductione syllogismus per
+alteram alteram extremitatem medio syllogizare ut si eorum quae
+sunt a c medium sit b per c ostendere a inesse b
+sic enim facimus inductiones ut sit a longaeuum in quo
+autem b coleram non habere in quo uero c singulare
+longaeuum ut homo et equus et mulus ergo toti c inest
+a orane enim quod sine colera est longaeuum sed et b non
+habere coleram omni inest c si ergo conuertatur c ei quod
+est b et non transcendat medium necesse est a inesse b
+ostensum est enim prius quoniam si duo aliqua eidem insunt et ad
+alterum eorum conuertatur extremum quoniam e conuertenti et
+alterum inerti praedicatorum oportet autem intelligere c ex
+omnibus singularibus compositum nam inductio per omnia
+
+est autem huiusmodi syllogismus primae et immediatae
+propositionis quarum enim est medium per medium est
+syllogismus quarum uero non est per inductionem et quodam modo
+opponitur inductio syllogismo nam hic quidem per medium
+extremum tertio ostendit illa autem per tertium extremum medio
+ergo natura quidem prior et euidentior per medium syllogismus
+nobis autem manifestior qui per inductionem
+
+ de exemplo
+exemplum autem est quando medio extremum inesse ostenditur per id
+quod est simile tertio oportet autem et medium tertio et primum
+simili euidentius inesse ut sit a malum b autem contra
+confines interimere bellum in quo autem c athenienses contra
+thebanos in quo uero d thebanos contra phocenses si ergo
+uolumus ostendere quoniam thebanis pugnare malum est sumendum
+quoniam contra confines pugnare malum huius autem fides ex
+similibus ut quoniam thebanis contra phocenses quoniam ergo
+contra confines malum contra thebanos autem contra confines est
+manifestum quoniam contra thebanos pugnare malum quoniam ergo
+b c et d inest manifestum utrumque enim contra confines
+interimere bellum et quoniam a d thebanis enim non
+conuenit contra phocenses bellum quoniam autem a inest b
+per d ostendetur eodem autem modo et si per plura simila fides
+fiat medii ad extremum manifestum igitur quoniam exemplum est
+neque ut pars ad totum neque ut totum ad partem sed ut pars ad
+partem quando ambo quidem insunt sub eodem euidens autem
+alterum et differt inductione quoniam haec quidem ex omnibus
+indiuiduis extremum ostendebat inesse medio et ad extremum non
+copulabat syllogismum hoc autem et copulat et non ex omnibus
+ostendit
+ de deductione
+deductio autem est quando medio quidem primum palam est inesse
+postremo autem medium dubium quidem similiter autem credibile
+uel magis conclusione amplius si pauciora sint media postremo et
+medio omnino enim propinquius esse accidit scientiae ut sit
+a docibile in quo b disciplina c iustitia ergo
+disciplina quoniam docibile manifestum uirtus autem si
+disciplina dubium si ergo similiter aut magis credibile sit b
+c quam a c deductio est propinquius enim scientiae eo
+quod assumpserint a c disciplinam prius non habentes aut
+rursum si pauciora media sint b c nam et sic propinquius est
+scientiae ut si d sit quadrangulari in quo autem e
+recta linea in quo f circulus si ergo eius quod est e
+f unum solum sit medium per lunares figuras aequalem fieri
+rectae linea circulum propius erit scientiae quando autem neque
+credibilius est b c quam a c neque pauca media non dico
+deductionem neque quando immediata est b c disciplina enim
+quod huiusmodi est
+ de instantia
+instantia autem est propositio propositioni contraria differt
+autem a propositione quoniam instantiam quidem contingit esse in
+parte propositionem autem aut omnino non contingit aut non in
+uniuersalibus syllogismis fertur autem instantia duobus modis et
+per duas figuras duobus modis quoniam aut uniuersalis aut
+particularis omnis instantia ex duabus autem figuris quoniam
+oppositae feruntur propositioni opposita autem in prima et
+tertia figura concluduntur solis nam quando probant omni inesse
+instamus quoniam nulli aut quoniam alicui non inest horum autem
+nulli quidem ex prima figura alicui autem non ex postrema ut
+sit a unam esse disciplinam in quo b contraria
+propositio igitur unam esse contrariorum disciplinam aut quoniam
+omnino non eadem est oppositorum instant contraria autem
+opposita quare fit prima figura aut quoniam noti et ignoti non
+una haec autem tertia nam secundum tertium notum et ignotum
+contraria quidem esse uerum unam autem eorum disciplinam esse
+falsum rursum in priuatiua propositione similiter probante enim
+non esse contrariorum unam disciplinam aut quoniam omnium
+oppositorum aut quoniam aliquorum contrariorum est eadem
+disciplina dicimus ut sanatiui et aegrotatiui ergo omnium
+quidem ex prima aliquorum uero ex tertia figura
+simpliciter enim in omnibus uniuersaliter quidem instantibus
+necesse est protendenti ad uniuersalis contradictionem dicere ut
+si non eandem probet contrariorum omnium dicere oppositorum
+unam sic autem necesse est primam esse figuram medium enim fit
+uniuersale ad hoc quod ex principio particulariter autem ad hoc
+quod est uniuersaliter dicitur propositio ut noti et ignoti non
+eandem nam contraria uniuersale ad haec et fit tertia figura
+medium enim particulariter sumptum ut notum et ignotum nam ex
+quibus est syllogizare contrarium ex his et instantias conamur
+dicere quare et ex his solis figuris ferimus nam in solis
+oppositi syllogismi per mediam enim non fuit affirmatiue
+amplius autem et si oratione indigeat plurima quae est per mediam
+figuram ut si non concedat a inesse b eo quod non sequitur
+hoc c hoc enim per alias propositiones manifestum non oportet
+autem instantiam ad alia conuerti sed statim manifestum habere
+alteram propositionem quapropter et signum ex sola hac figura
+non est
+
+perspiciendum autem et de aliis instantiis ut de iis quae sunt
+ex contrario et simili et secundum opinionem et si particularem
+ex prima uel priuatiuam ex media possibile sumere
+
+ de signo et ikote
+ikos autem et signum non idem est sed ikos quidem est propositio
+probabilis quod enim ut in pluribus sciunt sic factum uel non
+factum aut esse aut non esse hoc est ikos aut odire inuidentes
+uel diligere amantes signum autem uult esse propositio
+demonstratiua uel necessaria uel probabilis nam quo existente 
+uel quo facto prius uel posterius futuro facta est res signum
+est uel esse uel fuisse uel quoniam erit
+de enthymemate
+enthymema ergo est syllogismus ex ikotibus et signis accipitur
+autem signum tripliciter quotiens et medium in figuris aut enim
+ut in prima aut ut in media aut ut in tertia ut ostendere
+quidem parientem eo quod lac habeat ex prima figura medium enim
+lac habere in quo a parere b lac habere mulier in
+quo c quoniam autem sapientes studiosi nam pittacus
+studiosus per postremam in quo a studiosum in quo b
+sapientes in quo c pittacus uerum ergo et a et b de
+c praedicari sed hoc quidem non dicunt eo quod palam sit
+illud uero sumunt peperisse autem quoniam pallida per mediam
+figuram uult esse quoniam enim sequitur parientes pallor
+sequitur autem et hanc ostensum esse arbitrantur quoniam
+peperit pallor in quo a parere in quo b mulier in
+quo c
+ergo si una quidem dicatur propositio signum fit tantum si
+autem et altera assumatur syllogismus ut quoniam pittacus
+liberalis nam ambitiosi liberales pittacus autem ambitiosus
+aut rursum quoniam sapientes boni pittacus enim bonus sed et
+sapiens sic ergo fiunt syllogismi uerum qui per primam quidem
+figuram insolubilis si uerus sit uniuersalis enim est qui
+autem per postremam solubilis et si uera sit conclusio eo quod
+non est uniuersalis in tertia neque ad rem syllogismus non enim
+si pittacus studiosus propter hoc et alios necesse est
+sapientes esse qui uero per mediam figuram semper et omnino
+solubilis numquam enim fit syllogismus sic se habentibus
+terminis non enim si quae parit pallida pallida autem et haec
+parere necesse est hanc ergo uerum quidem in omnibus erit
+figuris differentias autem habent iam dictas
+
+sic diuidendum signum horum autem medium prodigium dicendum nam
+prodigium dicunt esse quod scire facit tale autem maxime
+medium aut quae quidem ex extremitatibus signa dicendum quod
+autem ex medio prodigium probabilissimum enim et maxime uerum
+quod est per primam figuram
+
+de naturam cognoscere
+naturas autem cognoscere possibile est si quis concedat simul
+transmutare corpus et animam quaecumque naturales sunt passiones
+discens enim aliquis fortasse musicam transmutauit  quid
+animam sed non eorum quae naturaliter nobis est haec passio sed
+ut irae et concupiscentiae naturalium motuum si ergo et hoc det
+et unum unius speciei signum esse et poterimus sumere propriam
+uniuscuiusque generis passionem et signum poterimus naturas
+cognoscere si enim est proprie alicui generi indiuiduo existens
+passio ut leonibus fortitudo necesse est et signum esse
+aliquod compati enim sibi inuicem positum est et sit hoc magnas
+summitates habere quod et aliis inest generibus non totis
+contingit nam signum sic proprium est quoniam totius generis
+propria est passio et non solius proprium sicut solemus dicere
+erit ergo et in alio genere hoc et erit fortis homo et aliud
+aliquod animal habebit ergo signum unum enim unius erat si
+ergo haec sunt et poterimus talia signa colligere in his
+animalibus quae tantum unam passionem habent aliquam propriam
+unumquodque autem habet signum quoniam unum habere necesse est
+poterimus naturas cognoscere si uero duo habet propria totum
+genus ut leo forte et communicatiuum quomodo cognoscemus utrum
+utrius sit signum eorum signorum quae specialiter sequuntur aut
+si alicui alii non toti ambo et in quibus non totis utrumque
+quando hoc quidem habet illud autem non nam si fortis quidem
+liberalis autem non habet autem duum hoc palam quoniam et in
+leone hoc signum fortitudinis
+est ergo naturas cognoscere in prima quidem figura medium priori
+extremitati conuerti in tertia autem transcendere et non
+conuerti ut sit fortitudo a summitates magnas in quo b
+c autem leo ergo cui c b omni sed et aliis cui autem
+b a omni et non pluribus sed conuertitur si autem non
+non erit unum unius signum
+priorum analyticorum aristotelis liber secundus explicit

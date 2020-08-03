@@ -1,0 +1,2398 @@
+digiliblt biblioteca digitale di testi latini tardoantichi
+
+
+ liber primus  
+
+  cum in omnibus philosophiae disciplinis ediscendis atque
+tractandis summum in uita positum solamen existimem tum
+iocundius et ueluti cum quodam fructu etiam laboris arripio quae
+tecum communicanda compono nam et si ipsa speculatio ueritatis
+sua quadam specie sectanda est fit tamen amabilior cum in
+commune deducitur nullum enim bonum est quod non pulchrius
+elucescat si plurimorum notitia comprobetur namque alias
+taciturnitate compressum et iam iamque silentio periturum latius
+efflorescit et ab obliuionis interitu scientium participatione
+defenditur  fit quoque iocundior disciplina cum inter
+eiusdem sapientiae conscios iubet esse sapientem quod si
+accedat ut tecum mihi nunc res est ea quae sponte iocunda sunt
+in amicitiae participationem deduci necesse est studii
+suauitatem quodam ueluti dulcissimo caritatis sapore condiri nam
+cum id in se optineat amicitia proprium munus ut nolit habere
+solitarias cogitationes tunc quod honeste quisque cogitat nulli
+promptius nisi quem diligit confitetur quo factum est ut
+etiam si immensus labor coepto operi uiam negabat animus tamen
+ad efficiendum quod aggressus fuerat tui contemplatione
+sufficeret  quid enim magnum studiosus tui amor efficeret si
+intra facilitatis terminos constitisset quod igitur apud
+scriptores quidem graecos perquam rarissimos strictim atque
+confuse apud latinos uero nullos repperi id tuae scientiae
+dedicatum noster etsi diuturnus coepti tamen efficax labor
+excoluit nam cum categoricorum syllogismorum plenissime notitiam
+percepissesde hypotheticis syllogismis saepe quaerebas in
+quibus nihil est ab aristotele conscriptum theophrastus uero
+uir omnis doctrinae capax rerum tantum summas exsequitur
+eudemus latiorem docendi graditur uiam sed ita ut ueluti quaedam
+seminaria sparsisse nullum tamen frugis uideatur extulisse
+prouentum  nos igitur quantum ingenii uiribus et amicitiae
+tuae studio sufficimus quae ab illis uel dicta breuiter uel
+funditus omissa sunt elucidanda diligenter et subtiliter
+persequenda suscepimus in qua re superatae difficultatis
+praemium fero si tibi munus implesse uidear amicitiae etsi non
+uidear satisfecisse doctrinae uale
+
+omnis syllogismus certis et conuenienter positis propositionibus
+continetur propositio uero omnis aut categorica est quae
+praedicatiua dicitur aut hypothetica quae conditionalis
+uocatur  praedicatiua est in qua aliquid de alio praedicatur
+hoc modo homo animal est hic enim animal de homine
+praedicatum est hypothetica est quae cum quadam conditione
+denuntiat esse aliquid si fuerit aliud ueluti cum ita dicimus
+si dies est lux est hypotheticae autem propositiones ex
+categoricis constant ut paulo posterius apparebit quo fit ut
+syllogismus quidem qui ex categoricis propositionibus iunctus
+estcategoricus appelletur id est praedicatiuus qui uero ex
+hypotheticis propositionibus constat dicatur hypotheticus id
+est conditionalis ut igitur horum syllogismorum differentia
+peruideatur spectanda prius est eorum in propositionum natura
+discretio  uidetur enim in aliquibus propositionibus nihil
+differre praedicatiua propositio a conditionali nisi tantum
+quidem orationis modo uelut si quis ita proponat homo animal
+estid si ita rursus enuntiet si homo est animal est hae
+propositiones orationis quidem modo diuersae sunt rem uero non
+uidentur significasse diuersam primum igitur dicendum est quod
+praedicatiua propositio uim suam non in conditione sed in sola
+praedicatione constituit in conditionali uero consequentiae
+ratio ex conditione suscipitur rursus praedicatiua simplex est
+propositio conditionalis uero esse non poterit nisi ex
+praedicatiuis propositionibus coniungatur ut cum dicimus si
+dies est lux est dies est atque lux est duae sunt
+praedicatiuae id est simplices propositiones  ad hoc illud
+est quo maxime declaratur utrarumque proprietas quod
+praedicatiua quidem propositio habet unum terminum subiectum
+alterum praedicatum et id quod in praedicatiua propositione
+subicitur illius suscipere nomen uidetur quod in eadem
+propositione praedicatur hoc modo ut cum dicimus homo animal
+est homo subiectum est animal praedicatum et homo
+animalis suscipit nomen cum ipse homo animal esse proponitur
+
+ at in his propositionibus quae conditionales dicuntur non
+est idem praedicationis modus neque enim omnino alterum de
+altero praedicatur sed id tantum dicitur esse alterum si
+alterum fuerit ueluti cum dicimus si peperit cum uiro
+concubuit non enim tunc dicitur ipsum peperisse id esse quod
+est cum uiro concumbere sed id tantum proponitur quod partus
+numquam esse potuisset nisi fuisset cum uiro concubitus quod si
+quando in una eademque propositionum proprietas incurrerit tunc
+secundum modum enuntiatae propositionis intelligendi ratio
+uariabitur hoc modo nam cum dicimus homo animal est
+propositionem facimus praedicatiuam at si ita proponamus si
+homo est animal est in conditionalem uertitur enuntiationem
+ in praedicatiua igitur id spectabimus quod ipse homo animal
+sit id est nomen in se suscipiat animalis in conditionali uero
+illud intellegimus quod si fuerit aliqua res quae homo esse
+dicatur necesse sit aliquam rem esse quae animal nuncupetur
+itaque praedicatiua propositio rem quam subicit praedicatae rei
+suscipere nomen declarat conditionalis uero propositionis haec
+sententia est ut ita demum sit aliquid si fuerit alterum
+etiamsi neutrum alterius nomen excipiat ita igitur
+propositionibus disgregatis ex enuntiationum proprietate
+syllogismi quoque uocabulum perceperunt ut alii dicantur
+praedicatiuae alii conditionales  nam in quibus propositiones
+praedicatiuae sunt eos praedicatiuos syllogismos uocamus in
+quibus uero hypothetica propositio prima est potest namque et
+assumptio et conclusio esse praedicatiua hi tantum per unius
+hypotheticae propositionis naturam hypothetici et conditionales
+dicuntur at de simplicibus quidem id est praedicatiuis
+syllogismis duobus libellis explicuimus quos de eorum
+institutione confecimus post simplicium uero syllogismorum
+disputationem ordo est ut de non simplicibus disseramus non
+simplices autem syllogismi sunt qui hypothetici dicuntur quos
+latino nomine conditionales uocamus  non simplices uero
+dicuntur quoniam ex simplicibus constant atque in eosdem ultimos
+resoluuntur cum praesertim primae eorum propositiones uim
+propriae consequentiae ex categoricis id est simplicibus
+capiant syllogismis namque prima propositio hypothetici
+syllogismi si dubitetur an uera sit praedicatiua conclusione
+demonstrabitur assumptio uero in pluribus modis talium
+syllogismorum praedicatiua esse perspicituritemque conclusio
+uelut cum dicimus  si dies est lucet atqui dies est haec
+assumptio praedicatiua est et si quaeraturpraedicatiuo
+probabitur syllogismo lucet igitur consecuta rursus est
+praedicatiua conclusio  super haec omnis conditionalis
+propositio ex praedicatiuis ut dictum est iungitur quod si ex
+his et fidem capiunt et ordinem partium sortiuntur necesse est
+categoricos syllogismos hypotheticis uim conclusionis ministrare
+sed quoniam de hypotheticis loquimur quid significet hypothesis
+praedicendum est hypothesis namque unde hypothetici syllogismi
+accepere uocabulum duobus ut eudemo placet dicitur modis aut
+enim tale adquiescitur aliquid per quamdam inter se
+consentientium conditionem quod fieri nullo modo possit ut ad
+suum terminum ratio perducatur aut in conditione posita
+consequentia ui coniunctionis uel disiunctionis ostenditur 
+ac prioris quidem propositionis exemplum est ueluti cum res
+omnes corporales materiae formaeque concursu subsistere
+demonstramus tunc enim quod per rerum naturam fieri non potest
+ponimus id est omnem formae naturam a subiecta materia si non
+re saltem cogitatione separamus et quoniam nihil ex rebus
+corporeis reliquum fit demonstratum atque ostensum putamus
+eisdem conuenientibus corporalium rerum substantiam confici
+quibus a se disiunctis ac discedentibus interimatur in hoc
+igitur exemplo posita consentiendi conditione ut id paulisper
+fieri intelligatur quod fieri non potest id est ut formae a
+materia separentur quid consequatur intendimus perire scilicet
+corpora ut eadem ex iisdem consistere comprobemus  nam
+quoniam interitus corporalium rerum consequitur iure dicimus res
+omnes corporeas forma materiaque constaresed hae quidem
+huiusmodi propositiones quae ex consentientium conditione
+proueniunt nihil his differunt quas simplices categoricae
+institutionis primi libri tractatus ostendit quae uero a
+simplicibus differunt illae sunt quando aliquid dicitur esse uel
+non esse si quid uel fuerit uel non fuerit
+
+  hae semper cum coniunctionibus proponuntur ut cum
+dicimus si homo est animal est si ternarius est impar
+estuel caetera huius modi haec enim ita proponuntur ut si
+quodlibet illud fuerit aliud consequatur uel cum dicimus  si
+homo est equus non est rursus haec eodem modo proponitur in
+negatione quo superior in affirmatione proponebatur hic enim
+dicitur si hoc est illud non est et ad hunc modum caeterae
+possunt autem aliquando etiam hoc enuntiari modocum hoc sit
+illud est ueluti cum dicimus  cum homo estanimal est uel
+cum homo est equus non est quae enuntiatio propositionis
+eiusdem potestatis est cuius ea quae hoc modo proponitur si
+homo est animal est si homo est equus non est  fiunt
+uero propositiones hypotheticae etiam per disiunctionem ita aut
+hoc aut illud est nec eadem uideri debet haec propositio quae
+superior quae sic enuntiatursi hoc est illud non est haec
+enim non est per disiunctionem sed per negationem negatio uero
+omnis infinita est atque ideo et in contrariis et in
+contrariorum medietatibus et in disparatis fieri potest
+disparata autem uoco quae tantum a se diuersa sunt nulla
+contrarietate pugnantia ueluti terra ignis uestis et
+caetera  nam si album est nigrum non est si album est
+rubrum non est si disciplina est homo non est at in ea quae
+disiunctione fit alteram semper poni necesse est hoc modo aut
+dies est aut nox est quod si cuncta ea quae per negationem
+dici conuenit ad disiunctionem transferamus ratio non procedit
+quid enim si quis dicat aut album est aut nigrum aut album
+est aut rubrum aut disciplina est aut homo fieri enim
+potest ut nihil horum sit igitur quoniam per disiunctionem
+propositio in certis tantum rebus in quibus alterum eorum euenire
+necesse est ponitur haec autem per negationem separatio in
+omnibus etiam his quae suam inuicem naturam non perimunt poni
+potest aperta ratione discreta est  omnis igitur hypothetica
+propositio uel per conexionem fit per conexionem uero illum
+quoque modum qui per negationem fit esse pronuntio uel per
+disiunctionem uterque enim modus ex simplicibus propositionibus
+comparatur simplices autem propositiones sunt quas praedicatiuas
+primo institutionis categoricae libro diximus haec uero sunt
+cum aliquid de aliquo praedicatur uel affirmando uel negando
+ut dies est lux est at si his media conditio interueniat
+fiet si dies est lux est fitque una hypothetica propositio
+ex duabus categoricis iuncta  sed quoniam omnis simplex
+propositio uel affirmatiua est uel negatiua quatuor modis per
+conexionem fieri hypotheticae propositiones possunt aut enim ex
+duabus affirmatiuis aut ex duabus negatiuis aut ex affirmatiua
+et negatiua aut ex negatiua et affirmatiua harum omnium exempla
+subdenda sunt quo id quod dicimus clarius innotescat ex duabus
+affirmatiuis si dies est lux est ex duabus negatiuis si
+non est animal non est homo ex affirmatiua et negatiua si
+dies est nox non est ex negatiua et affirmatiua si dies non
+est nox est  sed quoniam dictum est idem significare si
+coniunctionem et cum quando in hypotheticis propositionibus
+ponitur duobus modis conditionales fieri possunt uno secundum
+accidens altero ut habeant aliquam naturae consequentiam
+secundum accidens hoc modo ut cum dicimus cum ignis calidus
+sit coelum rotundum est non enim quia ignis calidus est
+coelum rotundum est sed id haec propositio designat quia quo
+tempore ignis calidus est eodem tempore coelum quoque rotundum
+est sunt autem aliae quae habent ad se consequentiam naturae
+harum quoque duplex modus est unus cum necesse est consequi ea
+tamen ipsa consequentia non per terminorum positionem fit alius
+uero cura fit consequentia per terminorum positionem ac prioris
+quidem modi exemplum est ut ita dicamus cum homo sit animal
+est  non enim idcirco animal est quia homo est sed fortasse a
+genere principium ducitur magisque essentiae causa ex
+uniuersalibus trahi potest ut idcirco sit homo quia animal est
+causa enim speciei genus est at qui dicit cum homo sit animal
+est rectam ac necessariam consequentiam facit per terminorum
+uero positionem talis consequentia non procedit sunt autem aliae
+hypotheticae propositiones in quibus et consequentia necessaria
+reperitur et ipsius consequentiae causare terminorum positio
+facit hoc modo si terrae fuerit obiectus defectio lunae
+consequitur hic enim consequentia rata est et idcirco defectio
+lunae consequitur quia terrae interuenit obiectus istae igitur
+sunt propositiones certae atque utiles ad demonstrationem
+
+  partimur autem propositiones hypotheticas in suas ac
+simplices propositiones et primam quidem cui coniunctio
+praeponitur praecedentem dicimus secundam uero consequentem ut
+in hac si dies est lux est praecedentem dicimus eam quae
+dicit si dies est consequentem uero partem lux est in
+disiunctiuis uero propositionibus ordo enuntiandi praecedentem
+uel consequentem facit ut aut dies est aut nox est nam quae
+prima proponitur praecedens quae posterior consequens
+appellatur ac de partibus quidem hypotheticarum propositionum
+ista sufficiunt illud nunc expediendum uidetur quod etiam ab
+aristotele dicitur  idem cum sit et non sit non necesse est
+idem esse ueluti cum sit a si idcirco necesse est esse b idem
+a si non sit non necesse est esse b idcirca quoniam non est a
+ad huiusmodi uero rei demonstrationem impossibilitatis diffinitio
+praemittenda est quae est huiusmodi impossibile est quo posito
+aliquid falsum atque impossibile comitatur eo nomine quod
+impossibile primitus propositum fuit sit igitur positum cum sit
+a esse b id est hanc inter a atque b esse consequentiam ut si
+concessum fuerit esse a necesse sit concedere esse b itaque
+proponatur si a est b est dico quia si a non fuerit non
+necesse est esse b  ac primum quae sit propositionum
+consequentia consideremus si enim fuerit tale coniunctum ut si
+sit a etiam b esse necesse sit si b non fuerit a non esse
+necesse est quod tali demonstratione cognoscitur si sit a
+necesse sit esse b dico quia si b non sit a non erit ponatur
+enim non esse b et sit si fieri potest a sed dictum est si sit
+a necessario concedi esse b cum igitur sit b non erit b nam
+quia ponimus non esse b non erit b quia uero ponimus esse a
+erit b erit igitur b ac non erit quod fieri non potest 
+impossibile est igitur non esse b et esse et demonstratione
+quidem firma sic utimur  exemplo uero id clarius innotescet
+nam si homo est animal est si non est animal non est homo non
+uero si homo non fuerit animal non est multa enim sunt animalia
+quae homines non sunt itaque in consequentia propositionis
+coniunctae si est primum secundum esse necesse est si secundum
+non fuerit non erit primum at uero si primum non fuerit non
+necesse est ut non sit secundum nec uero necesse est ut sit id
+enim demonstrandum esse dudum nobis propositum fuit sit enim a
+idque cum sit necesse sit esse b dico quia si non fuerit a non
+necesse est esse b nec id dico quoniam si non fuerit a necesse
+est non esse b sed tantum non necesse est esse b  nam quia
+paulo ante demonstratum est si b non fuerit necessario non esse
+a si eundem b terminum non esse contingerit non erit a sed si
+cum non sit a necesse est esse b idem b ex necessitate erit
+ac non erit nam quia b terminum non esse contingit non erit
+quia uero si a non fuerit b esse necesse est erit idem igitur
+b terminus erit ac non erit quod est impossibile ex his igitur
+demonstratum esse arbitror in coniuncta hypothetica
+propositione si sit primum consequi ut sit secundum si non sit
+secundum consequi ut non sit primum si uero non sit primum non
+consequi ut sit uel non sit secundum  nam et illud apparet
+si sit secundum non consequi ut sit uel non sit primum ut in ea
+propositione quae est si homo est animal est si animal sit
+non consequitur ut sit homo uel non sit quod sit primum non sit
+non consequitur ut necessario sit uel non sit secundum uelut in
+eadem propositione si homo non fuerit non necesse est ut aut
+sit animal aut non sit ex omnibus igitur solae duae
+consequentiae stabiles sunt et immutabiliter constant si sit
+primum ut consequatur ut sit secundum si secundum non fuerit
+necessario consequi ut non sit primum  his ita determinatis
+illud adiungam quoniam cum omnis hypothetica propositio simplex
+non sit atque ex aliis propositionibus coniungatur sunt tamen
+quaedam hypotheticae quae si reliquis conditionalibus
+comparentur simplices existimentur omnis enim conditionalis
+propositio aut conexa est aut disiuncta haec uero quoniam ex
+praedicatiuis copulantur in conexis propositionibus quatuor
+fieri necesse est huius copulationis modos
+
+  namque hypothetica propositio aut ex duabus simplicibus
+coniuncta est et uocatur simplex hypothetica ut haec si a
+est b est ueluti cum dicimus si est homo animal est homo
+est enim et animal est duae sunt simplices propositiones
+aut ex duabus hypotheticis copulatur et dicitur composita
+ueluti cum dicimus si cum a est b est cum sit c est d
+ueluti cum tali propositione enuntiamus si cum homo est animal
+est cum sit corpus erit substantia etenim si cum homo est
+animal est una est hypothetica alia uero cum sit corpus
+substantia est ex quibus coniungitur una propositio quae
+composita nuncupatur  aut ex una simplici et ex una
+hypothetica copulatur uelut haec si a est cum sit b est c
+ueluti cum dicimus si homo est cum sit animal est
+substantia namque homo est simplex est propositio cum sit
+animal esse substantiam hypothetica ex ipsa consequentia
+conditionis ostenditur aut ex priore hypothetica et simplici
+posteriore committitur ut cum dicimus si cum sit a est b
+erit et c ueluti hoc modo si cum sit homo animal est est et
+corpus hypothetica namque est prior ea quae proponit si cum
+sit homo animal est simplex posterior quae hanc hypotheticam
+propositionem sequitur id est corpus esse haec quoque quoniam
+non ex simplicibus copulatae sunt compositae dicuntur  sed
+priores quidem quae ex simplicibus propositionibus constant et
+simplices hypotheticae nuncupantur in duobus terminis
+constitutae sunt terminos autem nunc partes propositionis
+simplices quibus iunguntur appello quae uero compositae
+hypotheticae sunt illae quidem quae ex duabus hypotheticis
+constant quatuor terminis copulatae sunt illae uero quae ex
+hypothetica et simplici uel simplici atque hypothetica
+coniunctae sunt ex tribus terminis coniunctae sunt harum igitur
+quae sunt hypotheticae simplices uel compositae differentiae
+similitudinesque dicendae sunt  nam quae ex simplicibus
+copulantur si ad eas quae ex hypotheticis duabus iunctae sunt
+comparentur consequentia quidem eadem est et proportio manet
+tantum termini duplicantur nam quem locum in his propositionibus
+hypotheticis quae ex simplicibus constant ipsae simplices
+propositiones tenent eundem in his propositionibus quae sunt
+hypotheticae ex hypotheticis constantes illae conditiones tenent
+quibus illae propositiones inter se iunctae et copulatae esse
+dicuntur  nam in hac propositione quae dicitsi est a est
+b et in ea quae dicit si cum sit a est b cum sit c est d
+quem locum in ea propositione quae ex duabus simplicibus
+continetur tenet ea quae prior est si est a eundem locum
+tenet in ea propositione quae ex duabus hypotheticis
+propositionibus copulatur ea quae prior est si cum est a est
+b hic namque duarum inter se propositionum coniunctionis
+conditione facta est consequentia itemque quam uim optinet ex
+utrisque propositionibus copulatae hypotheticae portio quae
+infertur id est esse b eandem uim optinet in propositione ex
+hypotheticis iuncta ea quae sequitur id est cum sit c esse d
+atque id tantum differt quia cum in prima propositione ex
+simplicibus iuncta propositio propositionem sequatur in secunda
+propositione ex hypotheticis iuncta conditio consequentiae
+conditionis consequentiam comitatur  nihil est enim aliud
+dicere si est a est b quam ei propositioni per quam dicimus
+esse a illam esse comitem per quam b esse praedicamus at in ea
+propositione quae ex hypotheticis iuncta est cum dicimus si cum
+sit a est b cum sit c esse d illud dicitur ei consequentiae
+quae inter a et b est eam esse consequentiam comitem quae est
+inter c et d ita ut si consequitur posito a esse b consequatur
+sine dubio c posito esse d at in his propositionibus quae ex
+simplici et hypothetica consistunt illa ratio est ut uel
+propositionem conditio consequentiae consequatur uel conditionem
+consequentiae propositio comitetur  nam cum dicimus si a
+est cum sit b esse c id intellegi uolumus ei propositioni
+per quam dicimus est a consequi eam conditionem per quam
+dicimus cum sit b esse c id est ut si est a necesse sit b
+termino comitem esse c terminum cum uero dicimus si cum a
+est b est esse c nihil aliud intellegi uolumus nisi duarum
+inter se consequentium propositionum alterius propositionis
+consequi ueritatem ut si habeant inter se consequentiam a atque
+b necesse sit hanc conditionem consequentiae propositionis eius
+per quam dicimus esse c consequi ueritatem id est si necesse
+est a posito esse b necesse est etiam c esse
+
+  similes igitur syllogismi fient earum propositionum quae
+ex simplicibus et earum quae ex non simplicibus utrisque
+iunguntur earum uero quae ex una simplici et ex altera
+hypothetica copulantur diuersi quidem a superioribus ipsi tamen
+inter se similes fiunt nec interest utrum prima hypothetica
+secunda sit simplex an e conuerso ad syllogismorum modos nisi
+forsitan ad ipsius tantum ordinis permutationem cum igitur
+demonstrata fuerit earum propositionum quae ex simplicibus
+constant syllogismorum ratio demonstrata quoque uidetur earum
+propositionum esse quae ex hypotheticis committuntur et cum
+quarumlibet earum propositionum quae ex simplici et hypothetica
+constant syllogismorum natura perspecta sit etiam conuersi
+ordinis propositionum natura quales faciat syllogismos
+ostenditur  est etiam species alia propositionum in conexione
+positarum quae media quodammodo sit earum propositionum quae ex
+hypotheticis simplicibusque iunguntur et earum quae duabus
+hypotheticis copulantur nam si ad numerum respicias
+propositionum quasi ex tribus terminis constant quod si ad
+conditionales animum referas quasi ex duabus conditionalibus
+uidentur esse compositae quae medietas idcirco euenit quoniam
+unus in his terminus communis utrisque conditionalibus inuenitur
+proponuntur uero hae uel per primam figuram uel per secundam
+uel per tertiam  per primam hoc modosi est a est b et si
+est b est c igitur b in utrisque numeratur et sunt tres
+quidem termini hi est a est b est c duae uero
+conditionales hoc modo si est a est b si est b est c
+namque b utrisque communis est atque ideo inter eas
+propositiones quae ex tribus terminis et eas quae ex quatuor
+componuntur mediae sunt huiusmodi propositiones per secundam
+uero figuram proponitur hoc modo si est a est b si non est a
+est c per tertiam uero figuram sic si est b est a si est
+c non est a ac de conexis quidem ista sufficiunt disiunctiuae
+uero propositiones semper ex contrariis constant ut haec aut
+a est aut b est  altero enim posito alterum tollitur et
+interempto altero ponitur alterum nam si est a non est b si
+non est a est b eodem modo etiam si sit b non erit a si non
+sit b erit a his igitur expeditis ad conexas reuertamur in
+illis enim uel propositio propositionem uel conditio
+conditionem uel propositio conditionem uel conditio sequitur
+propositionem dicendum igitur est quae propositiones quarum
+propositionum consequentes esse uideantur et quae contrarietatis
+modo quam longissime a se differant quae uero oppositionis
+contradictione dissentiant  simplicium namque id est
+praedicatiuarum propositionum aliae praeter modum proponuntur
+aliae cum modo praeter modum sunt quaecumque purum esse
+significant hoc modo dies est socrates philosophus est et
+quae similiter proponuntur quae uero cum modo sunt ita
+proponuntur socrates uere philosophus est hoc enim uere
+modus est propositionis sed maximas syllogismorum faciunt
+differentias haec propositiones cum modo enuntiatae quibus
+necessitatis aut possibilitatis nomen adiungitur necessitatis
+hoc modo cum dicimus  ignem necesse est calere
+possibilitatis ut cum ita proponimus possibile est a graecis
+superari troianos  quo fit ut omnis propositio aut inesse
+significet aut necessario inesse aut cum non sit aliquid
+tamen enuntiet posse contingere quarum quidem ea quae inesse
+significat simplex est neque in nullas partes alias diduci
+potest ea uero quae ex necessitate aliquid inesse designat
+tribus dicitur modis uno quidem quo ei consimilis est
+propositioni quae inesse significat ut cum dicimus necesse
+esse socratem sedere dum sedet haec enim eandem uim optinet ei
+quae dicit socrates sedet alia uero necessitatis
+significatio est cum hoc modo proponimus hominem necesse est
+habere cor dum est atque uiuit hoc enim significare uidetur
+haec dictio non quoniam tandiu eum necesse sit habere quandiu
+habet sed tandiu eum necesse est habere quandiu fuerit ille qui
+habeat  alia uero necessitatis significatio est uniuersalis
+et propria quae absolute praedicat necessitatem ut cum dicimus
+necesse est deum esse immortalem nulla conditione
+determinationis apposita possibile autem idem quoque tribus
+dicitur modis  aut enim quod inest possibile esse dicitur
+utpossibile est socratem sedere dum sedet aut quod omni
+tempore contingere potest dum ea res permanet cui aliquid
+contingere posse proponitur ut possibile est socratem legere
+quandiu enim socrates est legere potest item possibile est
+quod absolute omni tempore contingere potest ut auem uolare
+
+  ex his igitur apparuit alias propositiones esse inesse
+significantes alias necessarias alias contingentes atque
+possibiles quarum necessariarum et contingentium cum sit trina
+partitio singulae ex iisdem partitionibus ad eas quae inesse
+significant referuntur restant igitur duae necessariae et duae
+contingentes quae cum ea quae inesse significat numeratae
+quinque omnes propositionum faciunt differentias omnium uero
+harum propositionum aliae sunt affirmatiuae aliae negatiuae
+affirmatiua inesse significans est quae dicit est socrates
+negatiua quae proponit non est socrates  necessariarum
+uero propositionum affirmatiuarum duae uidentur esse negationes
+una contraria altera uero opposita eius namque quae dicit
+necesse est esse a quolibet modo ex utrisque qui dicti sunt
+aut ea est negatio quae dicit  necesse est non esse a aut ea
+quae dicit non necesse est esse a quarum quidem ea quae
+dicitnecesse est non esse a contraria est ei quae dicit
+necesse est esse a utraeque enim falsae poterunt inueniri
+ueluti si dicimus necesse est socratem legere necesse est
+socratem non legere utraque mentitur nam et cum legit non ex
+necessitate legit et cum non legit nulla ne legat necessitate
+costringitur sed est utrumque possibile  at uero ea quae
+dicitnon necesse est esse opposita est ei quae proponit
+necesse est esse una enim semper uera est semper falsa altera
+reperitur in contingentibus uero atque possibilibus eadem ratio
+est huic enim quae dicit contingit esse a tum ea uidetur
+obiecta quae dicit contingit non esse a tum ea quae
+proponitnon contingit esse a atque ea quidem quae dicit
+contingit non esse a contingens negatio nuncupatur ueraque
+esse potest cum ea affirmatione quae dicit contingit esse a
+ueluti cum dicimuscontingit sedere socratem contingit non
+sedere socratem  et haec quidem non dicuntur esse
+contrariae quoniam simul uerae esse possunt at uero opposita
+sunt quotiens ipsum contingens negatur ut si aduersus eam quae
+dicit contingit esse a ea proponatur quae dicit non
+contingit esse a id enim ista significat omnino non posse
+contingere quae cum ita sint cumque inesse significantes
+propositiones praeter ullum dicuntur modum his ad esse iuncto
+aduerbio negatiuo negatio piena perficitur quae uero cum modo
+proponuntur si necessariae sint et ad esse negatio coniungatur
+ut ea quae dicit necesse est non esse fit necessaria negatio
+ si uero ipsi necessario negatio praeponatur fit negatio
+necessarii uehementer affirmationi opposita ut ea quae dicit
+non necesse est esse item in contingentibus si ad esse negatio
+ponatur fit contingens negatio ut ea quae dicit contingit
+non esse si uero ipsi contingenti negatio iungatur fit
+contingentis negatio contingenti affirmationi uehementer
+opposita ut ea quae dicit non contingit esse  sed quoniam
+omnis propositio aut uniuersalis aut particularis aut indefinita
+aut singularis proponitur  uniuersalis hoc modo omnis homo
+legit particularis sic quidam homo legit indefinita sic
+homo legit singularis sic socrates legit  necesse est ut
+sicut in categoricorum syllogismorum institutione monstratum est
+illae sibi maxime uideantur oppositae quaecumque uel uniuersale
+affirmant si particulariter denegetur uel uniuersale denegant
+si particulariter affirmetur et quae singulares sunt si illa
+quidem in affirmatione sit posita illa uero in negatione quae
+cum ita sint si haec eadem ratio ad contingentes et necessarias
+referatur idem in necessariis et contingentibus inuenitur ut si
+quis dicat omnem a terminum esse necesse est aliusque neget
+dicens non necesse est omnem a terminum esse fecit oppositam
+negationem  et si dicat aliquis contingit omnem a terminum
+esse itaque aliquis neget non contingit omnem a terminum
+esse fecerit oppositam negationem in utrisque enim negatio et
+modum remouet et significationem uniuersalitatis exstinguit
+atque hoc quidem in simplicibus et categoricis propositionibus
+euenire necesse est de quarum natura diligentius persecuti sumus
+in his uoluminibus quae secundae editionis expositionum in
+aristotelis   inscripsimus si quis igitur
+propositionum omnium conditionalium numerum quaerat ex
+categoricis poterit inuenire ac primum in conexis ex duabus
+simplicibus inquirendus est hoc modo
+
+  nam quoniam propositio simplex hypothetica ex categoricis
+duabus iungitur una earum uel inesse significabit uel
+contingere esse dupliciter uel necesse esse dupliciter quod si
+sint affirmatiuae quinquies affirmatiua enuntiatione
+proponentur sed quoniam omnis affirmatio habet oppositam
+negationem rursus quinquies negatiua enuntiatione poterunt
+pronuntiari  erunt igitur in prima propositione quae una
+pars est hypotheticae propositionis in negatione et affirmatione
+constitutae modorum propositiones decem secunda etiam
+propositio quae pars est hypotheticae totidem affirmationibus
+et negationibus proponi potest erunt igitur eius quoque
+enuntiationes decem sed cum prima propositio secundae
+propositioni quadam consequentia copuletur ut una hypothetica
+fiat omnes decem affirmatiuae ac negatiuae propositiones omnibus
+decem affirmatiuis negatiuisque propositionibus applicabuntur
+ itaque complexae centum omnes efficiunt propositiones haec
+quae conexae ex simplicibus coniunguntur secundum hunc uero
+modum potest propositionum numerus inueniri etiam in his
+propositionibus quae ex categorica et hypothetica copulantur uel
+quae ex duabus conditionalibus fiunt nam quae ex categorica et
+conditionali constant uel e diuerso haec tribus categoricis
+iunctae sunt  quod si duarum inter se praedicatiuarum in
+affirmatione uel negatione complexio secundum esse uel
+necessario uel contingenter esse quinque modos centum efficit
+complexiones quoniam tertia proposito uel affirmatiua erit uel
+negatiua et si affirmatiua quinque modis uel inesse significans
+uel necessario inesse dupliciter uel contingenter inesse
+dupliciter itemque totidem negabitur modis simul non amplius
+quam decies proponetur  quo fit ut tertia propositio cum
+duabus superioribus centum inter se modis copulatis atque
+complexis iuncta atque commissa mille omnes faciat
+complexiones centum namque duarum propositionum modi cum decem
+modis tertiae propositionis complicati mille perficiunt decies
+enim centum mille sunt rursus quoniam ex duabus hypotheticis
+iuncta conditionalis quatuor categoricis copulatur et duae inter
+se primae categoricae centum complexionibus iungebantur necesse
+est ut posteriores quoque duae centum complexionibus
+conectantur quod si centum superiorum propositionum
+categoricarum modi centum posteriorum categoricarum modis
+complicentur fient decem milia complexiones  in illis autem
+propositionibus quae tribus uariantur figuris siquidem medius
+terminus similiter et in prima et in secunda hypothetica
+proponatur mille erunt complexiones ad earum similitudinem quae
+ex tribus categoricis conectuntur tunc enim unus atque idem
+terminus in utrisque tres neque amplius faciet enuntiationes
+similiter uero in utrisque proponitur hoc modo si est a est b
+si est b est c hic enim b terminus et ad a terminum et ad c
+positus est esse significans  idem in necessariis et
+contingentibus intelligendum est at si ita proponatur si est
+a est b et si necesse est esse b est uel non est c duae
+propositiones conditionales id est quatuor praedicatiuae fiunt
+quo fit ut secundum eas quae ex quatuor praedicatiuis
+conectuntur decem milia faciunt complexiones atque hi numeri
+tam in prima quam in secunda uel tertia figura sunt inspiciendi
+et nos quidem quantus esse propositionum numerus posset
+ascripsimus
+
+  numquam tamen dissimiliter medius terminus enuntiatur
+namque ut fiat extremorum conclusio medius terminus intercedit
+cuius communitas extrema coniungit quod si medius diuersis modis
+in utraque propositione dicatur nec conectuntur extrema atque
+ideo ne syllogismus quidem ullus fieri potest cum praesertim ne
+una quidem propositio dici possit in qua medius terminus
+dissimiliter enuntiatur  longe autem multiplex propositionum
+numerus existeret si inesse significantes et necessarias et
+contingentes affirmatiuas negatiuasque propositiones per
+uniuersales ac particulares uel oppositas ac subalternas
+uariaremus sed id non conuenit quia conditionalium termini
+propositionum indefinito maxime enuntiantur modo  atque ideo
+superuacuum iudicaui determinatarum secundum quantitatem
+propositionum quaerere multitudinem cum determinatae
+conditionales proponi non soleant fere autem hypotheticae
+propositiones ne per necessitatem quidem uel per contingens
+enuntiantur sed illae maximae in usum collocutionis deducuntur
+quae inesse significant omnes uero necessariam tenere
+consequentiam uolunt et quae inesse significant et quibus
+necessitas additur et quibus praedicatio possibilitatis aptatur
+haec enim terminis applicatur  necessitas uero hypotheticae
+propositionis et ratio earum propositionum ex quibus iunguntur
+inter se conexiones consequentiam quaerit ut cum dico si
+socrates sedet et uiuit neque sedere eum neque uiuere necesse
+est sed si sedet uiuere necesse est item cum dicimus si
+sol mouetur necessario ueniet ad occasum tantumdem significat
+quantum si sol mouetur ueniet ad occasum necessitas enim
+propositionis in consequentiae immutabilitate consistit  item
+cum dicimus  si possibile est legi librum possibile est ad
+uersum tertium perueniri rursus necessitas consequentiae
+conseruata est nam si possibile est legi librum necesse est
+etiam id esse possibile ut ad uersum tertium perueniatur
+opponuntur autem hypotheticis propositionibus illae solae quae
+earum substantiam perimunt substantia uero propositionum
+hypotheticarum in eo est ut earum consequentiae necessitas
+ualeat permanere  si quis igitur recte conditionali
+propositioni repugnabit id efficiet ut earum destruat
+consequentiam ueluti cum ita dicimus  si a est b est non in
+eo pugnabit si monstret aut non esse a aut non esse b sed si
+posito quidem a ostendit non statim consequi esse b sed posse
+esse a etiamsi b terminus non sit uel si negatiua sit
+conditionalis eodem destruetur modo ut cum dicimus si a est
+b non est non ostendendum est aut non esse a aut b esse sed
+cum a sit posse esse b terminum  sunt autem hypotheticae
+propositiones aliae quidem affirmatiuae aliae negatiuae sed de
+his nunc loquor quae in consequentia positae in conexione esse
+dicuntur affirmatiuae quidem ut cum dicimus si est a est b
+si a non est b est negatiuae uero si a est b non est
+si non est a non est b ad sequentem enim propositionem
+respiciendum est ut an affirmatiua uel negatiua sit propositio
+iudicetur idem de compositis syllogismis conditionalibus
+intellegi oportebit de his autem propositionibus quae in
+disiunctione sunt positae cum de earum syllogismis tractauero
+commodius atque uberius dicam
+
+ liber secundus  
+
+  hypotheticos syllogismos quos latine conditionales
+uocamus alii quinque tribus alii constare partibus arbitrantur
+quorum mox controuersiam diiudicabo si prius quibus nominibus
+talium syllogismorum partes appellentur ostendero quoniam enim
+omnis syllogismus ex propositionibus texitur prima uel
+propositio uel sumptum uocatur secunda uero dicitur assumptio
+his quae infertur conclusio nuncupatur cum enim ita dicimus
+si homo est animal est homo autem est animal igitur est ea
+quidem enuntiatio per quam diximus si homo est esse animal
+propositio uel sumptum uocatur ea uero quam huic adiunximus
+est autem homo assumptio dicitur tertia conclusio nominatur
+per quam ostendimus animal esse qui fuerit homo  sedquoniam
+saepe euenit ut propositionis enuntiatae consequentia non sit
+uerisimilis propositioni saepe adiungitur approbatio per quam
+id quod est propositum uerum esse monstretur assumptio saepe ad
+fidem per se non uidetur idonea huic quoque iuuamen probationis
+adiungitur ut uera esse uideatur quo fit ut saepe quinque
+partes saepe quatuor interdum tres hypotheticos syllogismos
+habere contingat nam quinque constabit partibus si et propositio
+et assumptio probationibus indigebunt quod siue propositio
+siue assumptio probatione indigent quadripartitus est
+syllogismus quod si neutra est approbanda tripartitus esse
+relinquitur  in hac uero sententia etiam marcus tullius esse
+deprehenditur in rhetoricis enim syllogismos quosdam
+quinquepartitos quadripartitos alios esse confirmat quibus uero
+non placet talium syllogismorum partes ultra ternarium numerum
+propagati hi probationes propositionum atque assumptionum non
+putant in syllogismi partibus esse ponendas neque enim
+propositionem esse de qua syllogismus possit existere cui non
+consentit auditor quod si per se dubia est ea probatio quae
+propositioni dubiae iungitur fidem faciens eidem cui coniungitur
+propositioni faciat ut sit idonea syllogismo  ac per hoc
+tunc incipit esse propositio syllogismi cum talis per
+probationem redditur ut ex ea colligi aliquid possit tunc uero
+colligi ex se aliquid potest cum probationis auxilio poterit ab
+auditore concedi quocirca membrum quoddam et quasi fulcimentum
+dubiae propositionis uel assumptionis probatio esse uidetur non
+pars etiam syllogismi sed nostra sententia his potius accedit
+qui tribus eum partibus constare pronuntiant etenim quaelibet
+probatio quae uel propositioni uel assumptioni copulatur
+propositionis esse uel assumptionis probatio dicitur  cum
+igitur non ad syllogismum sed ad propositionem uel assumptionem
+cuius est probatio referatur non oportet eam syllogismi proprie
+partem uideri nam illud quod obici potest nullus ignorat quin
+partium partes etiam totius partes esse dicantur sed plurimum
+refert utrum ipsae sint primitus partes totius an in secundarum
+partium postremitate ponantur amplius si sit per se nota ac
+probabilis propositio totus syllogismus probatione non indiget
+quod si per se propositionis nulla fides est necesse est ut ea
+propositio quodam ueluti testimonio probationis indigeat  non
+igitur syllogismus probatione in eo quod syllogismus est
+indigebit sed propositio si fide propria fuerit destituta idem
+etiam de assumptione dici potest quare manifestum est eorum
+esse sententiam praeponendam qui syllogismum putant tribus
+partibus constare praeterea si qua propositio probationis
+indigeat ut eam ueri fides sequatur aliquo demonstrabitur
+syllogismo quocirca qui fieri potest ut recte syllogismus pars
+syllogismi simplicis esse dicatur ipsam enim probationem
+propositionis syllogismum uel ex syllogismo esse necesse est
+ his itaque determinatis de his protinus syllogismis quorum
+propositiones in conexione positae duobus terminis constant
+explicandum uidetur horum autem duplex forma est quatuor enim
+fiunt per praecedentis positionem qui sunt primi hypothetici
+atque perfecti quatuor uero per sequentis negationem qui cum
+demonstratione egeant non uidentur esse perfecti prioris uero
+negatione uel sequentis positione nullus omnino syllogismus
+efficitur omnium igitur talium propositionum primum numerus
+explicetur ut qui fiant ex his syllogismi facilis acquiratur
+agnitio sunt autem quatuor si est a est b si est a non
+est b si non est a est b si non est a non est b ac de
+prioribus quidem syllogismis atque perfectis primo loco dicendum
+est
+
+  horum enim primus modus est hic ueniens a prima
+propositione si a est b est atqui est a est igitur b cum
+enim prima propositio eam conditionem proponat ut si sit a
+necesse sit consequi essentiam b termini idem assumptio quod
+praecedit assumit ac ponit dicitque at est a consequitur
+igitur ut sit b si enim ex consequentia primae propositionis id
+quod secundum est assumendo ponamus nullus efficitur
+syllogismus  age enim sit huiusmodi consequentia ut si sit
+a sit b assumaturque quod sequitur hoc modo at est b non
+consequitur ut sit uel non sit a id uero clarius fiet exemplo
+sit enim propositio si homo est animal est assumaturque esse
+animal scilicet quod consequitur non necesse erit esse hominem
+uel non esse potest enim cum sit animal homo uel esse uel non
+esse secundus uero modus est eorum in quibus prior
+propositionis pars in assumptione repetitur uenit autem ex
+secunda propositione superius digesta hoc modo si est a non
+est b atqui est a non est igitur b id enim propositum fuerat
+si esset a non esset b sumpto igitur praecedente consequentis
+est fatta conclusio quod si consequens sumas nullus uidetur
+fieri syllogismus quia nec consequitur ulla necessitas hoc
+modo si est a non est b atqui non est b non necesse est
+esse a uel non esse  age enim ita sit propositio si est
+nigrum album non est et id quod sequitur assumatur atqui non
+est album non necesse erit esse nigrum uel non esse quia cum
+non sit album potest aliquid esse medium tertius uero modus est
+talium syllogismorum qui uenit ex tertia propositione quorum in
+assumptione id ponitur quod praecedit hoc modo si non est a
+est b atqui non est a est igitur b haec igitur conclusio
+rursus ex conditione propositionis euenit id enim fuerat
+propositum ut si non esset a esset b quod si conuertas et sumas
+esse b id est quod sequitur non necesse erit uel esse uel non
+esse id quod praecedit  sed huius exemplum non potest
+inueniri eo quod si ita proponitur ut cum non sit a sit b
+nihil esse medium uideatur inter a atque b sed in his si alterum
+non fuerit statim necesse est esse alterum et si alterum
+fuerit statim alterum non esse necesse est uidetur ergo
+quodammodo et sequenti posito in his fieri syllogismus sed
+quantum ad rerum naturam ita est quantum uero ad propositionis
+ipsius pertinet conditionem minime consequitur quod quidem ex
+his patet quae superius dicta sunt in utrisque enim superioribus
+modis sequenti posito nihil ex necessitate collectum est hic
+uero tertius modus quantum ad complexionem propositionum
+pertinet in quo ponendo si id quod consequebatur assumitur
+nullum efficit syllogismum  quantum uero ad rerum naturam in
+quibus solis hae propositiones enuntiari possunt uidetur esse
+necessaria consequentia hoc modo ut si dies non est nox sit
+si nox sit dies non sit ex necessitate consequitur similesque
+sunt hi syllogismi his qui in disiunctione sunt constituti de
+quibus paulo posterius commemorabo quorumque ad illos et
+differentias et similitudines dabo quartus uero modus est ex
+quarta propositione cum ita proponitur si a non est b non
+est atqui non est a non est igitur b rursus enim id quoque
+consequi ex propositione monstratur quae proposuit non fore b
+si a prior terminus non fuisset  at si id quod consequitur
+assumamus nulla uidetur fieri posse necessitas ueluti si ita
+dicamus non est autem b non necesse erit uel esse uel non
+esse a age enim proponatur si animal non est non esse
+hominem assumaturque at non est homo non necesse est ut uel
+sit animal uel non sit demonstratum igitur est in huiusmodi
+syllogismis si id quidem quod praecedit ponendo assumatur
+perfectos atque ex ipsis propositionibus probabiles et
+necessarios fieri syllogismos  si uero id quod sequitur
+ponendo assumatur nullam fieri necessitatem praeter in tertio
+modo qui cum sit similis his syllogismis qui secundum
+disiunctionem propositis enuntiationibus fiunt uidetur in rebus
+de quibus proponi possit seruare necessitatem cum in complexione
+non seruet quod ex caeteris tribus modis arguitur primo
+secundo atque quarto in quibus assumpta ponendo sequente
+propositionis parte nihil ex necessitate conficitur ac de his
+quidem syllogismis qui duobus terminis coniunguntur quorum
+prima pars propositionis ponendo assumitur quantum ad
+institutionis pertinet modum sufficienter expressimus
+
+  nunc uero de his dicendum est quorum consequens
+propositionis pars ita assumitur ut perimatur ex his quoque
+quatuor fiunt modi cum prior propositionis pars in assumptione
+non possit interimi ut ulla syllogismi necessitas consequatur
+est igitur primus modus talium syllogismorum a prima ueniens
+propositione sic si est a est b atqui non est b non est
+igitur a hic igitur b terminus qui in prima propositione
+consequens fuerat in assumptione est interemptusut a terminus
+qui propositionis prima pars fuerat interimeretur eaque
+necessitas tali ratione probabitur  positum namque est si a
+sit b esse et assumptio facta est ut consequens pars
+propositionis interimeretur id est non esse b dico quia
+consequitur non esse a nam si potest esse a ut non sit b
+frustra erit prior propositio quae ait si a sit b esse atqui
+ea propositio ualet cum igitur a sit est b quod si cum non sit
+b sit a quod scilicet ex assumptione proponitur idem b erit
+et non erit non erit quidem quia b non esse proponit assumptio
+erit autem quia si est a erit b quod fieri non potest non
+igitur si b non fuerit erit a hic est igitur primus modus
+talium syllogismorum qui ex interempta parte consequenti
+propositionis fiunt qui non sunt perfecti neque ex se cogniti
+sed indigent uel eius quam superius proposui uel cuiuslibet
+alterius probationis ut ueri esse monstrentur  quod si prima
+pars interimatur non erit syllogismus age enim ita dicamus
+si est a est b atqui non est a non consequitur ut sit uel
+non sit b ut exemplo etiam demonstratur sit enim propositio
+si est homo animal est sed homo non est non necesse erit uel
+esse animal uel non esse secundus modus per contradictionem
+assumptionis qui a secunda propositione descendit ille est cum
+ita proponimus si a est b non est atqui est b igitur a non
+est hic enim rursus secunda pars propositionis est interempta
+nam cum secunda pars propositionis b non esse diceret si a
+fuisset assumptio b esse pronuntiat  affirmatio autem
+perimit negationem quam assumptionem consequitur ut a non sit
+hoc modo sit enim propositio si a est b non est et sit b
+dico quia a non erit nam si erit a cum sit b idem b erit et
+non erit  non erit quidem ex prima propositione quae dicit si
+a est b non est  erit autem per assumptionem qua dicimus esse
+b at si praecedens propositionis pars auferatur non fiet ulla
+necessitas age enim in huiusmodi propositione si a est b non
+est ita dicamus atqui non est a non consequitur ut b sit
+aut non sit id uero tali arguitur exemplo  dicamus enim si
+nigrum est album non est assumamusque non esse nigrum non
+statim consequitur ut uel album sit uel non sit potest enim
+aliquid esse mediorum tertius modus ille est ex tertia
+propositione deductus cum ita proponimus si a non est b est
+b autem non est a igitur est hic quoque consequens pars
+propositionis assumpta est et cum in propositione affirmaretur
+in assumptione negata est et est rata consequentia et
+perficiens syllogismum hoc modo nam si uerum est cum non sit a
+esse b dico quia si b non sit esse a  nam si poterit cum b
+non sit non esse a frustra est prima propositio quae dicit
+cum non sit a esse b eritque b ac non erit non erit quidem ex
+ea assumptione quae proponit non esse b erit autem quia si
+a terminus esse negabitur posito non esse b termino cum non sit
+a erit b quod est impossibile  non igitur potest fieri ut
+cum non sit b non sit a consequitur igitur ut cum non sit b
+sit a quod si prior pars propositionis quae praecedens est
+auferatur nullus est syllogismus hoc modo cum enim dicimus
+si a non est esse b si assumamus  atqui est a nihil
+euenit necessarium ut uel sit b uel non sit secundum ipsius
+complexionis naturam nam hic quoque ut in his in quibus in
+assumptione secundus terminus ponebatur dicendum est secundum
+quidem ipsius complexionis figuram nullum fieri syllogismum
+secundum terminos uero in quibus solis dici potest necesse esse
+si a fuerit b non esse in contrariis enim tantum et in his
+immediatis id est medium non habentibus haec sola propositio
+uere poterit praedicari ueluti cum dicimus si dies non est
+nox est siue non fuerit dies nox erit siue nox non fuerit
+dies erit siue dies fuerit nox non erit siue nox fuerit dies
+non erit  quartus modus est horum syllogismorum ex quarta
+propositione descendens cuius haec prima est propositio si a
+non est non est b est autem b erit igitur a hic quoque
+secunda pars propositionis assumpta est et quoniam eadem in
+negatione fuerat posita affirmatione est interempta affirmatio
+enim uim negationis interimit hic quoque eodem modo syllogismi
+necessitas continetur nam si posito cum non sit a non esse
+b sumatur esse b dico quia consequens est etiam a esse nam si
+potest cum sit b non esse a frustra est prima propositio
+quae cum a non sit b non esse pronuntiat fiet igitur rursus ut
+idem b sit ac non sit  ex assumptione namque erit b ita
+enim dicitur atqui est b si uero hoc posito possit non esse
+a rursus b non erit quia prima propositio ait si non sit a
+non est b quod est impossibile quod si ea portio propositionis
+quae praecedens est auferatur nihil euenit necessarium age
+enim ita dicamus si non est a non est b assumamusque atqui
+est a non consequitur ut b uel esse uel non esse necessario
+concludatur ut in hoc syllogismo si non est animal non est
+homo atqui est animal non necesse est uel esse hominem uel non
+esse hi igitur quatuor syllogismi imperfecti dicuntur idcirco
+quoniam per se non habent apertam atque perspicuam consequentiae
+necessitatem eaque illis ex probatione conficitur
+
+  ut igitur breuiter concludendum sit in hypotheticis
+simplicibus syllogismis conexas habentibus propositiones quoquo
+modo factis si quidem prima pars propositionis assumitur sic a
+ponatur fient quatuor syllogismi per se cogniti atque perfecti
+si uero id quod consequitur assumatur nulla est syllogismo
+necessitas nisi in tertio tantum modo qui non propter
+complexionis naturam sed propter terminorum contrarietatem in
+quibus solis dici potest uidetur conclusionis necessitatem
+tenere  itaque si quid in assumptione ex his quae in
+propositione sunt prolata ponatur quatuor uel quinque fieri
+necesse est syllogismos perfectos quatuor ubi prima pars
+propositionis quintum uero ubi secunda pars propositionis
+ponendo assumitur si non ad complexionis naturam sed ad
+terminos aspiciamus si quid uero ex his quae in assumptione
+prima propositio enuntiat auferatur si quidem consequens pars
+propositionis auferatur fient imperfecti et probatione
+indigentes quatuor syllogismi si uero prior propositionis pars
+auferatur nulla erit necessitas syllogismi nisi in tertio
+tantum modo ubi non facit necessitatem complexionis sed
+terminorum natura  quocirca hi quoque quatuor uel quinque
+sunt syllogismi quatuor quidem si secunda propositionis pars
+fuerit interempta quintus uero si eum non complexionis natura
+sed terminorum proprietate metiamur quocirca si ex duobus
+terminis propositio prima consistat octo sunt uel decem nec
+amplius syllogismi ac de his quidem conditionalibus syllogismis
+quorum propositiones conexae sunt et ex duabus praedicatiuis
+simplicibus constant sufficienter expeditum est nunc de his
+syllogismis dicendum est qui uel ex praedicatiua et hypothetica
+uel ex hypothetica praedicatiuaque nectuntur horum autem facile
+complexiones omnium syllogismorum apparebunt si prius earum
+numerus exponatur  sunt igitur priores quidem quae ex
+praedicatiua atque hypothetica conectuntur hae
+
+si sit a cum sit b est c
+
+si est a cum sit b non est c
+
+si est a cum non sit b est c
+
+si est a cum non sit b non est c
+
+si non est a cum sit b est c
+
+si non est a cum sit b non est c
+
+si non est a cum non sit b est c
+
+si non est a cum non sit b non est c
+
+ ac primum quae sit earum natura uidetur esse tractandum
+neque enim quoquo modo conditio ponatur conditionalis propositio
+fiet sed si illa consequentia propter positam euenit
+conditionem nam si quis ita dicat si homo est cum sit animal
+animatum est non uidetur facere apposita conditio
+consequentiae necessitatem nam etiam si non sit homo
+nihilominus tamen cum sit animal animatum est at si ita
+ponatur si homo est cum sit animatum animal est uidetur
+consequentiae ratio in conditione consistere neque enim necesse
+est cum animatum sit esse animal nisi homo uel tale aliquid
+fuerit quod animatum esse proponitur tunc enim quod animatum
+est animal esse necesse est homo namque uel quodlibet aliud
+tale animal est per singulas igitur propositiones eundum est et
+spectanda est earum singularis natura hoc modo  prima
+propositio per quam enuntiatur si est a cum sit b esse c
+talis esse debet ut b quidem possit esse etiam praeter a si
+tamen a fuerit b non esse non possit rursus idem b terminus
+possit esse etiam cum non est c nec sit necesse ut b posito sit
+etiam c sed tunc tantum necesse sit esse c quando b terminus a
+terminum sequitur ut si sit a homo b animatum c animal
+animatum enim et praeter hominem et praeter animal esse potest
+si uero sit homo animatum esse necesse est et cum animatum
+hominis essentiam consequatur consequitur ut idipsum animatum
+sit animal  item secundam propositionem quae ait si est a
+cum sit b non esse c huiusmodi esse oportebit ut b quidem
+praeter a esse possit sed cum fuerit a necesse sit esse etiam
+b at uero c tale sit ut simul quidem cum a esse non possit cum
+b uero esse possit sed tunc tantum cum b esse non possit quando
+b terminus a terminum sequitur ut si sit a homo b animatum c
+insensibile namque animatum praeter hominem esse potest at si
+homo sit ut sit animatum necesse est insensibile uero potest
+esse animatum sed tunc insensibile et animatum non conueniunt
+cum idcirco est animatum quia homo esse praedictus est
+
+  tertia uero propositio a quidem terminum debet habere qui
+numquam simul esse possit cum b termino c uero terminum talem
+esse oportebit ut possit quidem non esse si non fuerit b sed
+tunc tantum necesse sit si b terminus non sit esse c terminum
+si idcirco non est b quoniam terminus a esse praedietus est ut
+si sit a homo b inanimatum c sensibile nam si est homo non
+est inanimatum sensibile uero potest simul non esse cum
+inanimatopossunt enim esse quaedam quae nec inanimata sint nec
+sensibilia ut arbores idem tamen sensibile necesse est esse
+cum non sit inanimatum si idcirco inanimatum non est quia homo
+esse praedictus est  rursus quarta propositio huius debet
+esse proprietatis ut b quidem terminus nullo modo esse possit
+si fuerit a at uero c possit esse si non fuerit b sed tunc
+tantum c cum non fuerit b non esse necesse sit si b terminus
+non sit quia prius a terminus esse positus est ut si sit a homo
+b inanimatum c insensibile inanimatum enim non erit si fuerit
+homo insensibile uero potest esse et non esse si non sit
+inanimatum tunc tamen insensibile non esse necesse est cum
+inanimantum non sit cum idcirco inanimantum non est quia homo
+esse praedicuts est  quinta quoque propositio tales habere
+terminos debet ut a quidem si non sit necesse sit esse b si b
+terminus sit c et esse possit et possit non esse  tunc tantum c
+esse necesse sit cum fuerit b cum idcirco est b quia a
+terminus esse negatus est ut si sit a quidem animatum b uero
+insensibile c inuitale igitur si non sit animatum statim
+consequitur ut sit insensibile inuitale autem potest esse si
+sit insensibile ut lapis potest uero non esse inuitale si sit
+insensibile ut sunt arbores sed tunc tantum posito
+insensibili consequitur ut inuitale esse necesse sit cum
+idcirco est insensibile quia non est animatum  sexta uero
+propositio tales terminos habere desiderat ut b quidem esse
+necesse sit si non fuerit a at uero c terminus si sit b uel
+esse uel non esse possit tunc tamen c non esse necesse sit cum
+sit b quando idcirco est b quia a terminus non esse propositus
+est ueluti si sit a animatum b insensibile c uitale nam
+necesse est esse insensibile si non fuerit animatum cum uero
+sit insensibile fieri quidem potest ut non uiuat ueluti lapis
+fieri autem potest ut uiuat ueluti arbor tunc tamen necesse est
+non uiuere cum sit insensibile quando idcirco est insensibile
+quia animatum non esse propositum est  septimus modus talibus
+terminis debet esse contextus ut b quidem sine a esse non
+possit c autem si non sit b et esse et non esse possit tunc
+tamen necesse sit c terminum esse si non sit b cum idcirco b
+non esse propositum est quoniam a fuerit ante denegatum sit enim
+a quidem animatum b uero sensibile c inuitale sensibile
+igitur esse non potest nisi fuerit animatum si igitur non sit
+animatum non erit sensibile si uero non sit sensibile potest
+esse inuitale uelut in lapidibus idem potest non esse uelut in
+arboribus tunc tamen sensibili denegato inuitale necesse est
+esse cum idcirco non est sensibile quia prius animatum non esse
+propositum est  octaua propositio his terminis conectenda
+est ut b terminus esse non possit si non fuerit a cum uero non
+sit b terminus c et esse et non esse possit sed tunc necesse
+sit c terminum non esse cum non fuerit b cum idcirco non est b
+quia a terminus prius esse negatus est ut si sit a quidem
+animatum b uero sensibile c uitale sensibile igitur esse non
+potest nisi fuerit animatum idem tamen sensibile si non sit et
+non esse uitale potest ut lapides et esse uitale ut arbores
+tunc tamen necesse est uitale non esse si non sit sensibile cum
+idcirco sensibile non est quia prius animatum esse negatum est
+ ex his igitur constat c terminum quoquo modo fuerit b in
+conditionalibus propositionibus quae in tota enuntiatione post
+praedicatiuas locantur posse tam loco affirmationis quam
+negationis assumi ex quibus assumptionibus fiunt complexiones
+uariae syllogismorum his igitur ita expeditis de omnibus in
+commune praecipiendum uidetur nam cum sint octo propositiones
+quae ex praedicatiua hypotheticaque nectuntur quae superius
+ascriptae sunt earum quatuor ita faciunt consequentiam si a
+terminus sit quatuor uero ita conditionem proponunt si a
+terminus non sit
+
+  fiunt uero ex his syllogismi hoc modo ex prima
+propositione si est a cum sit b est c atqui est a cum
+igitur sit b est c uel sic atqui cum sit b non est c non
+est igitur aposse autem huiusmodi esse assumptionem ex superius
+descripta propositionum natura cognoscitur ex secunda
+propositione si est a cum sit b non est c atqui est a cum
+igitur sit b non est c uel ita atqui cum sit b est c non
+est igitur a ex tertia si est a cum non sit b est c atqui
+est a cum igitur non sit b est c uel ita  atqui cum non sit
+b non est c non est igitur a  ex quarta si est a cum
+non sit b non est c atqui est a cum igitur non sit b non est
+c uel ita  atqui cum non sit b est c non est igitur a in
+his igitur quatuor propositionibus in quibus a terminus esse
+proponitur si assumptum fuerit eundem a terminum esse c
+terminus uel esse uel non esse monstratur idem uero si c
+terminus assumatur siquidem cum est non esse uel cum non est
+esse assumatur a terminus non esse monstrabitur  ex quinta
+etiam propositione ita syllogismi fiunt  si non est a cum sit
+b est c atqui non est a cum igitur sit b est c uel ita
+atqui est a cum igitur sit b non est c uel ita atqui cum
+sit b non est c est igitur a uel sic atqui cum sit b est
+c non est igitur a quod idcirco euenit ut huiusmodi propositio
+quatuor colligat syllogismos quia in his tantum si non sit
+aliquid esse aliud proponi potest in quibus contraria
+medietatibus carent in his enim uel interempto altero alterum
+ponitur uel posito altero alterum necesse est perimatur  ex
+sexta si non est a cum sit b non est c atqui non est a cum
+igitur sit b non est c uel ita atqui cum sit b est c est
+igitur a ex septima si non est a cum non sit b est c atqui
+non est a cum igitur non sit b est c uel ita atqui est a
+cum igitur non sit b non est cuel ita atqui cum non sit b
+non est c est igitur a uel ita atqui cum non sit b est c
+non est igitur a in hac quoque complexione propter eandem
+causam quatuor collectiones fiunt  ex octaua si non est a
+cum non sit b non est c atqui non est a cum igitur non sit b
+non est c uel ita atqui cum non sit b est c est igitur a
+in his quoque quatuor propositionibus si quidem a non esse
+assumatur c uel esse uel non esse concluditur si uero c cum est
+non esse uel cum non est esse assumatur a terminus semper esse
+concluditur nisi in quinto et septimo tantum modis ubi cum c
+esse assumatur a non esse monstratur omnium uero communis est
+ratio praeter quintum ac septimum modum ut si a terminus ita
+assumatur quomodo in prima enuntiatione propositus est conditio
+quae sequitur in conclusione firmetur  si uero conditio quae
+sequitur contrario modo atque in enuntiatione proposita est
+assumatur categorica propositio quae prima est interimetur in
+septimo autem uel quinto modo quaque ratione sumptum si
+alterum in utrisque partibus faciet conclusionem itaque fiunt
+sedecim uel uiginti potius syllogismi octo quidem si a
+terminus ut est propositus assumatur octo uero si c terminus
+conuerso modo atque in propositione est positus assumatur
+quatuor uero ex quinto et septimo modis utrobique facientibus
+conclusionem reliquis uero complexionibus nulla est consequentia
+necessitatis  ut autem plenior fieret intellectus ipsas
+propositiones cum suis terminis positas annotaui ut secundum
+praedictos assumptionum modo non ratione solum demonstratio
+fieret uerum etiam per exempla currentibus doctrina clarior
+elucesceret
+
+si est a homo cum sit b animatum est c animal
+
+si est a homo cum sit b animatum non est c insensibile
+
+si est a homo cum non sit b inanimatum est c sensibile
+
+si est a homo cum non sit b inanimatum non est c insensibile
+
+si non est a animatum cum sit b insensibile est c inuitale
+
+si non est a animatum cum sit b insensibile non est c uitale
+
+si non est a animatum cum non sit b sensibile est c inuitale
+
+si non est a animatum cum non sit b sensibile non est c uitale
+
+  expeditis igitur his syllogismis qui ex talibus
+propositionibus fiunt quae ex prima praedicatiua secunda
+hypothetica copulantur nunc ad eos transitum faciamus qui ex
+prima conditionali secunda uero praedicatiua nectuntur quarum
+omnium numerus proponendus est ut de quibus loquimur lector
+agnoscat
+
+si cum sit a est b est c
+
+si cum sit a est b non est c
+
+si cum sit a non est b est c
+
+si cum sit a non est b non est c
+
+si cum non sit a est b est c
+
+si cum non sit a est b non est c
+
+si cum non sit a non est b est c
+
+si cum non sit a non est b non est c
+
+ prima igitur propositi tales habere terminos debet ut a
+quidem possit esse praeter c ac b sed tunc si a fuerit c esse
+necesse sit cum a terminum b terminus subsequatur ut si sit a
+quidem animatum b homo c animal animatum namque praeter animal
+et praeter hominem esse potest tunc uero id quod animatum est
+etiam animal esse necesse est si id quod est animatum homo est
+secunda propositio talibus terminis contexenda est ut a quidem
+praeter b atque c et cum eisdem esse possit tunc tamen necesse
+sit non esse c si a posito b sequatur ut si a sit animatum b
+homo c equus  animatum quippe et ut homo uel equus sit aut
+non sit fieri potest tunc uero necesse est id quod animatum est
+non esse equum si id ipsum quod animatum est homo fuerit
+tertia propositio his terminis copulatur ut a quidem cum b et c
+uel esse uel non esse possit tunc tamen necesse sit simul esse
+cum c si posito a termino b terminus abnuatur ut si sit a
+animatum b animal c insensibile nam quod animatum est uel
+animal uel non animal uel insensibile uel non insensibile esse
+potest sed tunc necesse est id quod animatum est esse
+insensibile si animato posito animal abnuatur  quartae
+propositionis hi termini sunt ut a quidem cum b atque c esse et
+non esse possit tunc uero ab eo modis omnibus separetur si
+posito a termino b terminus abnuatur ut si sit a quidem
+animatum b animal c homo nam quod animatum est uel animal esse
+uel non esse itemque homo esse uel non esse potest tunc tamen
+necesse est ut cum sit animatum non sit homo cum posito esse
+animato animal denegatur quinta uero propositio his terminis
+conectatur ut si non sit a possit et esse et non esse b atque
+c tunc tamen cum non sit a terminum c esse necesse sit si
+posito non esse a esse b terminum consequatur ut si sit a
+quidem inuitale b homo c animal  nam si non sit inuitale
+tunc possunt homo atque animal esse uel non esse at necesse est
+esse animal negato inuitali si cum inuitale negabitur esse
+hominem subsequatur sextam uero propositionem talia debent
+membra coniungere ut si non sit a terminus b atque c uel esse
+uel non esse possint tunc uero denegato a termino c non esse
+necesse sit cum negationem a termini b termini affirmatio
+comitabitur ut si sit a inuitale b homo c equus nam quod non
+est inuitale potest esse homo uel equus uel non esse sed
+necesse est non esse equum inuitali denegato si negationem
+inuitalis hominis positio subsequatur  septimae propositionis
+hos esse terminos oportebit ut si non sit a terminus b atque
+c et esse et non esse possint sed tunc necesse sit esse c
+terminum si negationem a termini b termini negatio subsequatur
+ut si sit a animal b animatum c inuitale animal quidem si non
+sit animatum et inuitale esse uel non esse potest tunc uero
+necesse est si animal non sit esse inuitale quando si animal
+non sit non erit animatum octaua propositio est cum negato a
+termino possunt et esse et non esse b atque c termini sed tunc
+necesse est si a terminus abnuatur non esse c terminum cum
+negationem a termini negatio b termini subsequetur ut si sit a
+inuitale b animal c homo  si igitur non sit inuitale
+potest esse uel non esse animal uel homo tunc uero si non sit
+inuitale necesse est hominem non esse cum animal non fuerit his
+igitur ita expeditis illud in commune dicendum est quod
+superiores quatuor propositiones ita faciunt conditionem si
+fuerit a posteriores uero si non fuerit ex quibus omnibus
+syllogismi tali ratione nascuntur
+
+  ex prima propositione si cum sit a est b est c atqui
+cum sit a est b est igitur c uel ita atqui non est c cum
+igitur sit a non est b posse uero tales fieri conclusiones ex
+superius descriptarum propositionum natura cognoscimus poterat
+enim a terminus esse uel non esse cum b iter ex secunda si cum
+sit a est b non est c atqui cum sit a est b non est igitur
+c uel ita atqui est c cum igitur sit a non est b  ex
+tertia uero utrobique assumptis terminis collectiones fiunt ut
+si cum est a non est b est c atqui cum est a non est b est
+igitur c uel ita atqui cum sit a est b non est igitur c
+uel ita atqui non est c cum igitur sit a est b uel sic
+atqui est c cum igitur sit a non est b quae idcirco facta
+est utrobique collectio quoniam in his terminis hae
+propositiones poterant poni in quibus immediata contraria
+reperiebantur in illis enim alterius positio alterum perimebat
+et alterius interemptio ponebat alterum  ex quarta si cum
+sit a non est b non est c atqui cum sit a non est b non est
+igitur c uel ita atqui est c cum igitur sit a est b ex
+quinta si cum non sit a est b est c atqui cum non sit a est
+b est igitur c uel ita atqui non est c cum igitur non sit
+a non est b ex sexta si cum non sit a est b non est c
+atqui cum non sit a est b non est igitur c uel ita atqui
+est c cum igitur non sit a non est b  ex septima utrobique
+colligitur hoc modo si cum non sit a non est b est c atqui
+cum non sit a non est b est igitur c uel ita atqui cum non
+sit a est b non est igitur c uel sic atqui non est c cum
+igitur non sit a est b uel ita atqui est c cum igitur non
+sit a non est b hic quoque propter eandem causam in alterutra
+assumptione syllogismus fiet non esse aliquid cum aliud non sit
+in immediatis tantum contrariis dicebatur  ex octaua si cum
+non sit a non est b non est c atqui cum non sit a non est b
+non est igitur c uel ita atqui est c cum igitur non sit a
+est b in omnibus igitur superius descriptis syllogismis haec
+ratio est ut si b terminus assumatur ita ut in propositione
+est positus ita c terminum concludat ut in eadem propositione
+fuerit collocatus  at si c terminus contrario modo assumatur
+quam in propositione fuerit positus contrario modo b terminus in
+conclusione monstrabitur praeter tertium et septimum modum in
+quibus etiamsi b terminus contrario modo atque in propositione
+est positus assumatur c terminum contrario modo atque positus
+est colligit uel si c terminus ita ut in propositione est
+positus assumatur simili modo b terminum concludit ut in eadem
+propositione fuerat collocatus quare sedecim quidem uel uiginti
+fiunt syllogismi assumptis namque primis hypotheticis
+propositionibus octo octo uero si secundae praedicatiuae
+assumantur quatuor autem his adiunguntur ex tertio et septimo
+modo utrobique colligentibus ut omnes etiam in his propositionum
+complexionibus fiant sedecim uel uiginti syllogismi  quoquo
+autem modo aliter assumptiones uerteris nihil euenit
+necessarium ut autem omnis propositionum ac syllogismorum ratio
+colliquescat exempla subiecimus quibus facilius id quod
+superius docuimus declaretur
+
+si cum sit a animatum est b homo est c animal
+
+si cum est a animatum est b homo non est c equus
+
+si cum sit a animatum non est b animal est c insensibile
+
+si cum sit a animatum non est b animal non est c homo
+
+si cum non sit a inuitale est b homo est c animal
+
+si cum non sit a inuitale est b homo non est c equus
+
+si cum non sit a animal non est b animatum est c inuitale
+
+si cum non sit a inuitale non est b animal non est c homo
+
+  ac de his quidem syllogismis qui talibus propositionibus
+conectuntur quae ex hypothetica praedicatiuaque consistunt
+sufficienter est dictum nunc de his dicendum est syllogismis
+quorum propositiones ita tribus terminis continentur ut mediae
+sint earum quae ex hypothetica categoricaque texuntur et earum
+quae ex duabus hypotheticis conectuntur quas idcirco hoc loco
+proponimus quia ut superiores ita haec quoque tribus terminis
+continentur et a similibus ad similia facilior transitus fiet
+ harum uero fiunt multiplices syllogismi quorum nullus
+poterit esse perfectus cum nec per se perspicui sint et ut his
+fides debeat accomodari adiumento extrinsecus positae probationis
+indigeant est autem probatio talium syllogismorum alio
+constitutus ordine syllogismus fiunt uero ut dictum est tum
+per primam tum per secundam tum uero per tertiam figuram sunt
+autem primae figurae propositiones hae
+
+si est a est b et si est b est c
+
+si est a est b et si est b non est c
+
+si est a non est b et si non est b est c
+
+si est a non est b et si non est b non est c
+
+si non est a est b et si est b est c
+
+si non est a est b et si est b non est c
+
+si non est a non est b et si non est b est c
+
+si non est a non est b et si non est b non est c
+
+ ergo ratio colligentiae talis est ut si constituat et
+confirmet assumptio quod enuntiatio prima pronuntiat sexdecim
+necesse est fieri complexiones ex quibus octo tantum seruant
+consequentiae necessitatem reliquae uero octo nihil habere
+idoneum uidentur ad fidem rursus id quod propositio prima
+constituit euertat assumptio sic quoque sexdecim necesse est
+fieri complexiones quarum octo firma necessitas tenet octo uero
+reliquas infida saepius uarietas mutat fiunt uero hi
+syllogismi tum in prima figura tum in secunda tum uero in
+tertia omnes igitur trium figurarum modos a prima ordientes ut
+nihil subterfugiat explicemus  est enim primae figurae
+primus modus a prima ueniens propositione cum ita proponimus
+si est a est b si est b necesse est esse c tunc enim si est
+a etiam c esse necesse est cuius haec demonstratio est nam si
+est a consequitur ut sit b id est enim quod proponit prima
+conditio si sit a esse b at si b fuerit est c id est enim
+quod propositionis pars secunda pronuntiat si sit b consequi
+necessario ut sit c quibus ita concessis euenit ut cum sit a
+etiam c esse necesse sit imperfectum uero hunc dicimus
+syllogismum quia testimonio probationis indiguit probatio uero
+ea fuit per syllogismum demonstratio  ita namque firmauimus
+talis consequentiae necessitatem cum enim ita proponeretur si
+est a est b et si est b necesse est ut sit c poneretque
+assumptio id quod affirmatio constituerat esse a eamque
+assumptionem talis sequi conclusio diceretur quod necessario
+esset c neque id esset ipsius syllogismi natura et proprietate
+perspicuum addita est probatio per syllogismum hoc modo si est
+a est b at si est b est c si igitur est a necesse est ut
+sit c et in reliquis quidem eandem rationem exspectari oportere
+manifestum est  et haec quidem complexio ea est quae id
+quod primo in propositione positum fuerat assumit atque
+constituit quod si id ponendo quis quod sequebatur assumat
+nulla est necessitas syllogismi ueluti cum dicimus si est a
+est b et si est b necesse est esse c atqui est c non necesse
+est esse b uel non esse sed cum non sit necesse esse b uel non
+esse non erit necesse a esse uel non esse idem quoque tale
+firmabit exemplum si est homo animal est et si est animal
+erit corpus animatum atqui est corpus animatum non necesse
+erit esse animal quocirca ne hominem quidem  secundus uero
+modus est hic primae figurae cum ita proponimus si est a est
+b et si est b necesse est non esse c at uero est a non est
+igitur c huius demonstratio talis est nam si est a est b
+id enim prima conditio monstrabat quae est si sit a esse b cum
+uero sit b necesse est non esse c id enim consequentia
+praeferebat in qua pronuntiabatur si esset b consequi ex
+necessitate ut non esset etiam c si igitur sit a non erit c
+quod si id quod ultimum propositio constituit ponat assumptio id
+est non esse c nullus est syllogismus nam si de aliqua re
+ita proponatur si homo sit est animal et si est animal non
+est lapis at non est lapis non necesse erit aut esse aut non
+esse animal eodem modo nec hominem potest enim si lapis non
+sit esse lignum uel caetera quae neque animalia sunt nec inter
+homines numerantur
+
+  tertius uero modus est primae figurae cum id assumptio
+constituit quod propositio prima ponebat cuius ex tertia
+propositione principium est cum ita proponimus si est a non
+est b et si non est b necesse est esse c hic enim rursus si
+a terminus assumatur ita ut in prima est enuntiatione propositus
+ita dicetur atqui est a est igitur c probatio uero
+superioribus similis nam quia est a non est b et quia non est
+b est c quia igitur est a est c quod si c terminus assumatur
+nihil necessarium fiet ut si ita proponamus si homo est non
+est insensibile si non est insensibile animal est est autem
+animal non est necesse esse hominem  quartus uero modus est
+qui ex quarta propositione principium capit qui tali
+propositione formatur si sit a non est b si non est b non
+est etiam c hic enim si est a necesse est c non esse
+demonstratio uero eadem quae in prioribus modis quod si c
+assumatur nulla erit necessitas complexionis hoc modo age enim
+proponatur si est homo lapis non est si lapis non est non
+est inanimatum atqui non est inanimatum non necesse est esse
+hominem  quintus modus est ex quinta enuntiatione descendens
+cuius prima talis est propositio si non est a est b si est
+b etiam c esse necesse est atqui non est a c igitur necesse
+est esse hic quoque prius dicta conditio facit consequentiam
+necessitatis at si id quod est c assumatur nulla necessitas
+euenit sit enim propositio si non est irrationabile
+rationabile est et si rationabile est animal est et
+assumamus sed est animal non necesse erit uel esse uel non
+esse irrationabile sextus modus est ita propositus quem
+sexta propositio facit si non sit a est b et si est b non
+est c atqui non est a non est igitur c similis uero
+superioribus demonstratio at si c assumatur eodem modo nullus
+est syllogismus nam si sit propositio si animatum non est
+inanimatum est et si inanimatum est sensibile non est si
+assumatur atqui non est sensibile non necesse erit uel esse
+uel non esse animatum  septimus modus est qui ex septima
+propositione est si a non est b non est et si b non est
+necesse est esse c atqui non est a necesse est igitur esse c
+quod si c assumatur nihil fit necessarium nam si proponamus si
+animatum non est animal non esse et si animal non sit
+insensibile esse assumamusque at est insensibile non
+necesse est uel esse uel non esse animatum octauus uero modus
+est qui ita proponitur si non est a non est b et si non est
+b necesse est non esse c atqui non est a non est igitur c
+quod si c assumatur nec in complexione nec in terminis erit ulla
+necessitas  age enim ita proponamus si non est animatum
+non est animal et si non est animal necesse est non esse
+sensibile atqui non est sensibile non necesse erit non esse
+animatum ut arbores herbas et quidquid uitali tantum anima
+non etiam sensibili uegetatur in prima igitur figura ex tribus
+terminis fiunt hypotheticae sexdecim complexiones ita ut id quod
+positum est in propositione idem in assumptione quoque ponatur
+octo quidem si a terminus in propositione ponatur octo uero
+si c  quod si a terminus ponendo assumatur erunt octo
+necessaria syllogismi si uero c terminus ponendo assumatur
+quinque equidem complexiones id est quae primo secundo tertio
+quarto atque octauo respondent modo nullius necessitatis esse
+deprehenduntur tres uero complexiones quae quinto sexto
+septimoque modo accomodantur per complexionis quidem naturam
+nullam necessitatis constantiam seruant per terminorum uero
+proprietatem necessarium colligunt syllogismum ut sint omnes
+octo uel undecim syllogismi
+
+  eodem quoque modo syllogismorum complexionumque ordo
+constabit si id in assumptione quod in propositione positum
+fuerat auferatur fient quippe sexdecim complexiones quarum
+octo quidem ubi id quod sequitur aufertur integra necessitate
+perdurant octo uero in quibus id quod praecedit aufertur
+necessitatem non eadem ratione conseruant sed hae quidem
+complexiones quae primo secundo ac tertio quarto atque octauo
+modo accomodantur nihil colligunt nec per terminorum nec per
+complexionis proprietatem tres uero id est quintus sextus et
+septimus nihil quidem colligunt secundum complexionis naturam
+uidentur uero colligere secundum terminorum proprietatem ut hinc
+quoque octo uel undecim sint syllogismi  horum uero omnium
+subdantur exempla primus igitur modus hic est si est a est b
+et si est b etiam c esse necesse est at non est c igitur a
+non est quod si assumamus  at non est a nihil euenit
+necessarium sit enim propositio haec si est homo animal est
+et si animal est animatum esse necesse est atqui non est homo
+necesse non erit ut non sit animatum  secundus modus est
+si est a est b et si est b non esse c necesse est atqui est
+c igitur a non erit  quod si assumamus ita atqui non est a
+non necesse erit esse c uel non esse nam si sit propositio
+talis si est homo animal est et si animal est lapis non
+est si assumamus atqui non est homo non necesse erit
+lapidem uel esse uel non esse tertius modus si est a non est
+b et si non est b necesse est esse c atqui non est c necesse
+est igitur non esse a  quod si a terminum tollat assumptio
+nihil euenit necessarium age enim sit propositio si homo est
+non est inanimatus et si inanimatus non est animatum esse
+necesse est atqui non est homo non necesse est uel esse uel
+non esse animatum quartus si est a non est b et si non est
+b necesse est non esse c at est c igitur a non erit quod si
+assumamus non esse a nulla complexionis necessitas inuenitur
+nam si sit propositio si homo est non est irrationabile si
+irrationabile non est inanimatum eum non esse necesse est atqui
+non est homo non necesse est eum uel esse inanimatum uel non
+esse  quintus si a non est b est et si b est c esse
+necesse est atqui non est c igitur a esse necesse est quod si
+a terminus assumatur non fiet syllogismus sit enim propositio
+si irrationabile non est rationabile est et si rationabile
+est animal est atqui irrationabile est non necesse erit esse
+uel non esse animal sextus si non est a est b et si est b
+necesse est non esse c atqui est c igitur a esse necesse est
+ quod si a terminum sumam nulla necessitas inuenitur sit
+enim propositio talis si animatum non sit inanimatum est et
+si inanimatum est sensibile non est atqui animatum est non
+erit necesse uel esse uel non esse sensibile septimus si a non
+sit b non est et si b non est c esse necesse est atqui c non
+est igitur a esse necesse est quod si a terminum sumpserimus
+complexio nullam faciet necessitatem sit enim proposititio
+talis si non est animal non est rationabile si rationabile
+non est irrationabile est et si assumamus atqui animal est
+non necesse est uel esse irrationabile uel non esse  octauus
+modus est qui hac propositione formatur si a non est nec b
+est et si b non est c non esse necesse est atqui est c igitur
+a esse necesse est quod si a terminum sumpserimus non fiet
+ulla necessitas sit enim propositio si non est animal non est
+homo et si non est homo necesse est non esse risibile atqui
+est animal non necesse erit uel esse uel non esse risibile ac
+de prima quidem figura satis dictum est sequenti uero uolumine
+de secunda tractabitur
+
+ liber tertius  
+
+  conditionalium propositionum quae tribus terminis
+constant secunda figura est quotiens cum aliquid dicitur uel
+esse uel non esse consequitur ut duo quaedam uel esse uel non
+esse dicantur uariantur autem in ipsis propositionibus uel etiam
+in conclusionibus secundum assumptionis ordinem multis modis
+quod ut facilius innotescat prius cunctae propositiones ordine
+digerantur in quibus illud est praedicendum quod saepe
+aequimodae propositiones ponuntur saepe uero non aequimodis
+quidem nullus est syllogismus aequimoda enim propositio est si
+ita dicamus si a est b est et si a est c non est
+inaequimoda uero secundae figurae propositio est in his
+syllogismis hypotheticis quorum enuntiationes tribus terminis
+componuntur ueluti cum ita proponimus si est a est b si
+autem non est a est c  huius propositionis tale
+intellegatur exemplum si animal est animatum est si animal
+non est insensibile est hic igitur animal quod est a non est
+uno modo utrisque propositum sed ad b quidem affirmatiue ad c
+autem negatiue coniungitur et id uocatur non aequimode
+praedicari quod si in utrisque a esse uel non esse poneretur
+aequimoda praedicatio diceretur disponantur igitur ut dictum
+est omnes non aequimodae propositiones hoc modo
+
+si est a est b si non est a est c
+
+si est a est b si non est a non est c
+
+si est a non est b si non est a est c
+
+si est a non est b si non est a non est c
+
+ nunc igitur a quidem esse propositum est cum b non esse uero
+cum c rursus a non esse ponamus cum b esse uero cum c
+
+si non est a est b si est a est c
+
+si non est a est b si est a non est c
+
+si non est a non est b si est a est c
+
+si non est a non est b si est a non est c
+
+si igitur non sit aequimoda praedicatio assumpto quidem b fiunt
+sexdecim complexiones quarum tantum octo sunt syllogismi
+rursus si assumatur c sic quoque sexdecim complexiones fiunt
+sed in octo tantum syllogismorum deprehenditur firma necessitas
+sit igitur secundae figurae primus modus hic ex prima ueniens
+propositione si est a est b si autem non est a est c 
+dico quoniam si non est b est c quoniam enim si est a est b
+secundum ordinem consequentiae si non est b non erit a atqui si
+non esset a esset c si igitur non sit b erit c quod si idem
+b esse ponatur nihil euenit necessarium age enim sit b non
+necesse est esse uel non esse a nihil igitur necessarium
+sequitur ut sit uel non sit c ut si sit a animal b animatum c
+insensibile nam si est animal est animatum si uero non est
+animal insensibile est atqui si sit animatum non necesse est
+esse animal uel non esse non igitur necesse est esse
+insensibile uel non esse  quod si c terminus assumatur
+siquidem non esse ponatur erit necessario b si uero esse
+nullus est syllogismus nam si non est c est a at si est a est
+b si igitur non est c est b quod si est c non necesse est
+esse a aut fortasse necesse sit non esse haec enim propositio
+id est si non est a est c in talibus tantum euenit in
+quibus alterum eorum esse necesse sit quod si est c non erit a
+si non est a nihil ad b ueluti si est insensibile non erit
+animal at si non sit animal nihil animatum uel esse uel non
+esse necesse erit  ex secunda rursus propositione fit
+syllogismus cum ita proponimus si est a est b si non est a
+non est c dico quia si non est b non est c propositum
+quippe est si est a est b ordo uero consequentiae est si
+non est b non esse a quod si non est a non est c si igitur
+non est b non est c quod si fuerit b non necesse est esse c
+sit enim a animal b animatum c rationabile et proponatur si
+animal est animatum est si animal non est rationabile non est
+atqui est animatum non necesse est esse animal quo fit ut ne
+rationabile quidem  quod si c terminum dicat assumptio si
+quidem c terminus affirmatus fuerit erit b quod si idem c
+terminus abnuatur nullus est syllogismus nam quoniam si est a
+erit b si non est a non erit c si est c erit a at cum est a
+est b si est igitur c erit b quod si non sit c nihil sit
+necessarium nam in hac propositione quae dicit si animal est
+animatum est si animal non est rationabile non est assumamus
+atqui non est rationabile non necesse erit esse uel non esse
+animal quocirca ne animatum quidem
+
+  item ex tertia propositione talis est syllogismus si est
+a non est b si non est a est c dico quia si est b est c
+nam quoniam ita propositum est si est a non esse b necesse
+est consequi ut si sit b non sit a at si non sit a erit c si
+igitur sit b erit c quod si non sit b nihil est necessarium
+si enim sit a animal b inanimatum c insensibile in hac
+propositione quae dicit si est animal non est inanimatum si
+non est animal est insensibile si assumamus non esse
+inanimatum non necesse erit esse animal uel non esse quare ne
+insensibile quidem si uero a c termino fiat assumptio si quidem
+non sit c non erit b si uero sit nulla erit necessitas
+conclusionis  nam quoniam ita propositum est ut si sit a
+non sit b si uero non sit a sit c ea est consequentia ut si
+non sit c sit a in his enim tantum terminis dici potest qui
+medietate priuati sunt sit a non est b si igitur non sit c
+non erit b quod si sit c nullus est syllogismus nam in hac
+propositione quae dicit si est animal non est inanimatum si
+uero non est animal insensibile est assumat aliquis esse
+insensibile sequitur quidem ut non sit animal sed non
+consequitur ut uel sit uel non sit inanimatum  ex quarta
+propositione est syllogismus ita si est a non est b si non est
+a non est c dico quoniam si est b non est c nam quoniam
+ita propositum est si est a non est b ea rerum consequentia
+est ut si sit b non sit a atqui cum non sit a positum fuerat
+non esse c si igitur sit b non est c quod si b non esse
+assumatur nullus est syllogismus age enim sit a quidem animal
+b inanimatum c rationabile et sit haec propositio si est
+animal non est inanimatum si non est animal non est
+rationabile assumamus igitur non esse inanimatum non necesse
+erit esse animal quocirca nec rationabile  rursus si c
+terminus assumatur si quidem esse ponatur necesse erit non esse
+b at si non est c nullus est syllogismus nam quoniam
+propositum est si a sit non esse b si a non sit non esse c
+necesse est ut cum sit c sit etiam a at si sit a non sit b
+si igitur sit c non erit b quod si c non esse ponatur nullus
+est syllogismus ueluti in hac propositione si est animal non
+est inanimatum si non est animal non est rationabile si quis
+igitur assumat non esse rationabile non necesse erit esse
+animal quocirca ne inanimatum quidem uel esse uel non esse 
+atque in his quidem quatuor propositionibus ita a terminus
+positus est ut ad b quidem esse diceretur ad c uero non esse
+quod si ordo mutetur rursus quatuor erunt alii syllogismi si b
+terminus assumatur quatuor etiam alii si c ex utraque autem
+parte quaternae complexiones erunt quae nullos faciant
+syllogismos sit enim quinta propositio si non est a est b si
+est a est c dico quia si non est b erit c assumatur enim
+atqui non est b erit igitur a hic enim consequentiae ratus
+ordo constabat sed cum est a est c si igitur non est b erit
+c  quod si b esse ponatur nihil sit necessarium si enim est
+b non erit a quod si a non est nihil ad c quocirca nullus
+est syllogismus non esse autem a si b sit ea propositio
+monstrat per quam dicimus si a non est est b haec enim
+immediatis tantum contrariis conuenit age enim sit a quidem
+animal b uero insensibile c animatum et proponatur si animal
+non est insensibile est si animal est animatum est et
+ponatur esse insensibile non necesse est esse uel non esse
+animal quocirca ne animatum quidem esse uel non esse necesse
+est  quod si c terminus assumatur si quidem negatiue faciet
+syllogismum affermatiue uero nullo modo nam si non est c non
+est a quod si non est a est b si igitur c non est b est quod
+si sit c non necesse est esse uel non esse aquo fit ut ne b
+quidem esse aut non esse necesse sit nam si est animatum non
+necesse est esse uel non esse animal cum uero animal non sit
+non necesse est esse uel non esse insensibile propositio uero
+eadem quae superius
+
+  rursus ex sexta propositione fit syllogismus hoc modo si
+non est a est b si est a non est c dico quia si non est b
+non erit c si enim non est b est a at si est a non est c
+si igitur non est b non erit c quod si b terminum ponat
+assumptio nulla est necessitas conclusionis si enim est b non
+est a id enim ex superioribus manifestum est at si non est a
+nihil ad c tunc enim c non erat si esset a exemplum uero hoc
+est ut si sit a animal b insensibile c inanimatum si igitur
+sit propositio talis si non est animal est insensibile si est
+animal non est inanimatum atqui est insensibile  non est
+igitur animal sed non consequitur ut sit uel non sit inanimatum
+ quod si c terminum sumpseris si quidem affirmes facies
+syllogismum nam si est c non erit a quod si a non sit erit b
+si igitur fuerit erit b at si negaueris nihil est
+necessarium si enim assumas atqui non est c non necesse erit
+esse uel non esse a quocirca ne b quidem nam si inanimatum
+negaueris non necesse est esse uel non esse animal quocirca ne
+insensibile quidem esse uel non esse ex septima propositione
+conclusio est cum ita proponimus si non est a non est b si
+est a est c dico quia si est b erit c nam quoniam ita
+propositum est si non esset a non esse b si sit b erit a
+atqui si sit a erit c si igitur sit b erit c quod si b
+terminum neget assumptio nulla est in conclusione necessitas
+nam si non sit b nihil erit necessarium esse uel non esse a
+quocirca nec quidem uelut in his terminis si enim sit a
+animatum b animal c uiuere si sic enuntiemus si non est
+animatum non est animal si est animatum uiuit si igitur
+assumamus  atqui non est animal non necesse est esse uel non
+esse animatum quocirca nec uiuere quod si assumamus c terminum
+si quidem negemus erit syllogismi perfecta necessitas si uero
+affirmemus nulla conclusio est nam si non est c non erit a si
+non est a non erit b si igitur non sit c non est b  quod
+si affirmetur nihil est necessarium siue enim necesse est esse
+siue non necesse est esse a nihil ad b ut in superioribus
+terminis poterit ostendi si enim uiuit et si necesse est esse
+animatum non necesse est tantum esse animal quod si non est
+necesse esse animatum non necesse est esse uel non esse animal
+ut uero necesse sit non esse animatum fieri non potest ex
+octaua enuntiatione conclusio est cum ita proponitur si non
+est a non est b si est a non est c dico quoniam si est b
+non est c nam si est b est a quod si est a non est c si
+igitur est b non erit c  quod si b terminum neget assumptio
+nihil est necessarium si enim non sit b non necesse erit a uel
+esse uel non esse quo fit ut ne c quidem uelut in his
+terminis si sit a animatum b animal c inanimatum si igitur
+proponamus si non est animatum non est animal si est
+animatum non est inanimatum et assumamus sed non est
+animal non necesse est uel esse uel non esse animatum quocirca
+ne inanimatum quidem at si c terminus assumatur si quidem cum
+affirmatione ponatur erit necessitas syllogismi nam si est c
+non est a quod si non est a non est b si igitur est c non est
+b at si c terminum neget assumptio nihil est necessarium nam
+si non est c non necesse erit esse uel non esse a quo fit ut ne
+b quidem  nam si non est inanimatum fortasse quidem necesse
+sit esse animatum sed non necesse est esse animal inuenientur
+autem termini ut non sit necesse esse a ueluti si c ponamus
+nigrum a album negato enim nigro non consequitur ut affirmetur
+album et secundae quidem figurae inaequimodas complexiones omnes
+ut arbitror explicuimus si uero aequimodae sint nullus
+omnino fit syllogismus aequimodae uero fiunt hoc modo
+quotiescumque enim a terminus ad b et ad c simul uel esse uel non
+esse ponitur quoquomodo b atque c termini uarientur harum
+igitur quae aequimodae complexiones esse dicuntur nulla est
+collectibilis  sunt autem omnes aequimodae complexiones hae
+
+si est a est b si est a est c
+
+si est a est b si est a non est c
+
+si est a non est b si est a est c
+
+si est a non est b si est a non est c
+
+si non est a est b si non est a est c
+
+si non est a est b si non est a non est c
+
+si non est a non est b si non est a est c
+
+si non est a non est b si non est a non est c
+
+  quarum imbecillam conclusionem atque omni carentem
+necessitate ex assumptionibus quoquo modo factis inueniemus nec
+non secundum superius descriptos modos etiam terminos facillime
+reperire poterimus per quos demonstratur nullam in talibus
+complexionibus inueniri posse constantiam ac de secunda quidem
+figura quanti sint quotque modis fiant syllogismi diligenter
+ostendimus fiunt autem si inaequimodae quidem complexiones
+fuerint b termino assumpto syllogismi octo totidemque si c
+terminus assumatur sunt igitur secundae figurae sedecim
+syllogismi totidem uero b atque c termino non ita ut oportet
+assumptis complexiones fiunt quibus nihil admodum colligatur
+ nunc igitur de tertia figura dicendum est in qua quidem
+totidem complexiones fiunt et totidem syllogismi sed ita ut non
+aequimodae propositiones ponantur quod si aequimodae fuerint
+nullus omnino ut in secunda figura dictum est fiet syllogismus
+exponamus igitur omnes figurae tertiae inaequimodas
+propositiones
+
+si est b est a si est c non est a
+
+si est b est a si non est c non est a
+
+si non est b est a si est c non est a
+
+si non est b est a si non est c non est a
+
+et nunc quidem a cum b esse cum c uero non esse propositum est
+rursus uero a quidem cum b non esse cum c uero esse proponatur
+
+si est b non est a si est c est a
+
+si est b non est a si non est c est a
+
+si non est b non est a si est c est a
+
+si non est b non est a si non est c est a
+
+ tertiae igitur figurae primus modus huiusmodi est si est b
+est a si est c non est a qui quidem diuersus est a secundae
+figurae primo modo illic enim si a esset uel non esset b et c
+esse dicebantur nunc uero si b uel c fuerint a esse uel non
+esse proponitur aequimodae autem propositiones non sunt quae in
+alia parte esse in alia non esse constituunt uelut in superius
+comprehensa nam si b est a est si autem c est a non est
+quibus ita positis dico quoniam si est b c non esse necesse
+est si enim est b est a quod si est a non est c si igitur
+est b non est c quod si b terminus abnuatur nullus est
+syllogismus si enim b non sit non necesse erit esse uel non
+esse a nec c igitur necesse erit esse uel non esse uelut in hoc
+exemplo  si sit b animal a animatum c mortuum et
+proponatur si animal est animatum est si mortuum est
+animatum non est atqui non est animal non necesse est esse uel
+non esse animatum quae enim non sunt animalia possunt esse
+animata ut arbores possunt esse non animata ut lapides
+quocirca si animal non fuerit ne mortuum quidem esse uel non
+esse necesse est plura enim non sunt animalia quae mortua non
+sint ut lapides ea enim mortua dicuntur quae aliquando
+uixerunt ab assumptione uero c termini affirmatio faciet
+syllogismum nam si c est b non erit si enim c est non est a
+at si non sit a non erit b si igitur c est b non erit 
+negatio uero nihil explicat necessitatis nam si non est c non
+necesse est esse uel non esse a quo fit ut ne b quidem nam si
+non sit mortuum non necesse est esse animatum uel non esse
+quaedam enim quae non sunt mortua animata sunt ut arbores
+quaedam uero cum mortua non sint non sunt animata ut lapides
+quo fit ut ne animal quidem esse uel non esse necesse sit si
+mortuum destruatur ex secunda uero propositione hic modus est
+colligendus si est b est a si non est c non est a dico
+quia si est b erit c nam si est b est a quod si est a est
+c  ita enim conuertitur talis propositio  si igitur est b est
+c
+
+ quod si b terminus negetur nulla est necessitas syllogismi
+nam si non est b non necesse est esse uel non esse a quocirca
+ne ad c quidem ulla necessitas perueniet ut in terminis patet
+nam si sit b animal a animatum c corporeum et proponatur si
+est animal est animatum si non est corporeum non est
+animatum et assumatur atqui non est animal non necesse est
+esse uel non esse corporeum c uero terminus si negetur erit
+necessitas syllogismi nam si non est c non est a quod si non
+est a non est b ita enim conuerti potest si igitur non est c
+non erit b si affirmetur c nulla est necessitas nam si est
+corporeum non necesse est animatum esse uel non esse quocirca
+nec animal quidem esse uel non esse necesse est  tertia
+propositio talem recipit conclusionem si non est b est a si
+est c non est a dico quia si non est b non erit c si enim
+non sit b est a quod si sit a non erat c ita enim poterat
+conuerti ea pars propositionis quae si esset c terminus a
+terminum non esse dicebat fit igitur ut si non sit b non sit
+c quod si affirmetur esse b terminum nulla est necessitas
+conclusionis nam si sit b necesse est quidem non esse a sed
+non necesse est esse c ut in his terminis si sit b animatum a
+inanimatum c animal si quis igitur sic proponat si non est
+animatum inanimatum est si est animal non est inanimatum si
+igitur ponamus esse animatum sequitur quidem ut non sit
+inanimatum sed non necesse est ut sit animal  c uero
+terminus si affirmetur fiet necessaria conclusio hoc modo nam
+si est c non est a si non est a est b id enim sequebatur eam
+propositionem quae si non esset b terminus a terminum esse
+dicebat si igitur sit c est b quod si idem c terminus
+abnuatur nullus est syllogismus nam si non sit c non necesse
+est esse uel non esse a quo fit ut ne b quidem nam si non est
+animal non necesse est esse uel non esse inanimatum quocirca ne
+animatum quidem
+
+  ex quarta propositione talis est syllogismus si non est
+b est a si non est c non est a dico quia si non est b est
+c nam si non est b est a si uero a fuerit necesse est esse c
+id enim consequitur eam propositionis partem quae ait si non
+est c non est a si igitur non sit b est c at si b terminus
+affirmetur nullus est syllogismus sequitur namque ut non sit a
+sed non sequitur ut sit uel non sit c uelut in his terminis
+nam si sit b quidem insensibile a animal c animatum et
+proponatur si sit insensibile non est animal sed non necesse
+est esse uel non esse animatum  c uero terminus si negetur
+fiet protinus syllogismus nam si non est c non est a si non
+est a erit b id enim consequitur eam propositionis partem quae
+dicit si non est b est a si igitur non sit c erit b quod
+si sit c non est necesse esse uel non esse a quo fit ut ne b
+quidem nam si est animatum non necesse est esse animal uel non
+esse quo fit ut ne insensibile quidem esse uel non esse necesse
+sit et hactenus quidem quatuor modos ita disposuimus ut ad b
+terminum quoquo se modo haberet a terminus esse poneretur ad c
+uero non esse nunc ita statuamus ut a terminus ad b terminum
+non esse dicatur ad c uero esse ordine scilicet immutato 
+omnes uero non esse aequimodas propositiones illud ostendit quod
+a quidem si affirmatiue est ad b ad c negatiue proponitur aut
+si negatiue ad b affirmatiuam ad c retinet enuntiationem quinta
+igitur propositio talem facit syllogismum cum talis est
+propositio si est b non est a si est c est a dico quia si
+est b non est c nam si est b non est a si uero non sit a
+non est c id enim talem propositionem consequebatur quae si
+esset c terminus a quoque esse dicebat si est igitur b non
+est c at si negetur b nullus est syllogismus si enim non sit
+b non necesse est esse a quo fit ut ne ad c quidem necessitas
+ulla perueniat  et in terminis idem patet nam si sit b
+quidem mortuum a animatum c animal et sit ita propositio si
+est mortuum non est animatum si animal est animatum est et
+assumamus non esse mortuum non necesse est esse uel non esse
+animatum nam et quae adhuc animata sunt et quae numquam
+fuerunt non sunt mortua quocirca non sequitur ut sit uel non
+sit animal quod enim mortuum non est potest et esse animal ut
+canis uiuens et non esse ut lapis at si c terminus affirmetur
+erit perfecta conclusio non esse b nam si sit c est a si uero
+sit a non erit b id enim consequitur superius positum
+propositionis modum si igitur sit c non erit b at si
+negetur c neque ad a neque ad b necessitas ulla perducitur
+uelut in his terminis  nam si non est animal neque animatum
+neque mortuum uel esse uel non esse necesse est sextae
+propositionis haec conclusio est si est b non est a si non
+est c est a dico quia si est b erit c nam si est b non
+est a si non sit a erit c talis enim in hac parte
+propositionis est consequentia si igitur sit b erit c quod si
+b terminus abnuatur nihil necessarium fiet nam si non sit b
+nec a nec c terminos uel ad esse uel ad non esse sequitur ulla
+necessitas ut in terminis patet nam si sit b mortuum a
+animatum c inanimatum si non sit mortuum non necesse est esse
+uel non esse animatum quocirca ne inanimatum quidem  at si c
+terminus assumatur si quidem in negatione sit positus fiet
+rata conclusio non esse b terminum nam quoniam non est c est a
+at si sit a non est b si igitur non sit c non erit b quod si
+affirmetur c terminus nihil est necessarium neque enim si sit
+c quamuis a non esse necesse sit ad b terminum necessitas ulla
+perueniet ut etiam in terminis patet nam si sit inanimatum
+necesse est non esse animatum sed non necesse est esse mortuum
+septimae propositionis talis est syllogismus enuntietur enim
+si non est b non est a si est c est a dico quia si non est
+b non est c si enim non sit b non erit a quod si a non
+fuerit non erit c id enim sequebatur eam propositionem qua
+dicebatur si esset c terminus a quoque consequi ut esset si
+igitur non sit b non erit c  quod si affirmetur b nihil est
+necessarium neque enim si sit b uel a uel c aut esse aut non
+esse necesse est ut in terminis patet nam si sit b animatum a
+animal c sensibile et sit propositio si animatum non est non
+est animal si sensibile est animal est si assumatur esse
+animatum neque animal necesse est esse neque sensibile at si
+per c terminum fiat assumptio si quidem affirmabitur erit firma
+conclusio si negetur nullus est syllogismus nam si est c est
+a si sit a erit b id enim consequebatur eam propositionem
+quae ait si non sit b non esse a si igitur sit c erit b
+at si idem c terminus abnuatur nihil est necessarium nam si non
+sit c neque a neque b terminum necessitas ulla constringit
+uelut si non sit sensibile non sit forsitan animal sed non
+necesse est esse animatum  reperientur uero termini quibus ne a
+quidem non esse necesse sit
+
+  octauus modus est in quo ita proponitur si non est b
+non est a si non est c est a dico quia si non est b est c
+si enim non sit b non erit a quod si non sit a erit c id
+enim consequebatur eam partem propositionis quae dicebat si non
+est c est a si igitur non sit b erit c quod si b terminus
+affirmetur nihil est necessarium nam si sit b neque esse neque
+non esse necesse est a terminum quo fit ne c quidem id uero
+tali liquet exemplo si sit b animatum a animal c insensibile
+et proponatur si non sit animatum non est animal si non sit
+insensibile est animal  si igitur in assumptione affirmemus
+b terminum ac dicamus atqui est animatum non necesse est
+esse uel non esse animal uel insensibile quocirca nullus est
+syllogismus at si c terminus abnuatur fiet protinus
+syllogismus nam si non est c est a si uero est a erit b si
+igitur non sit c erit b quod si c terminus affirmetur nihil
+est necessarium nam et si a terminum non esse necesse est
+quantum ad b terminum nihil necessarium cadit id uero tali
+demonstratur exemplo si sit insensibile non est animal quod
+si animal non est non necesse est esse uel non esse animatum in
+non aequimodis igitur propositionibus siue b siue c terminus
+assumatur octo necesse est ex utraque parte fieri syllogismos
+reliquae uero ex utraque parte octonae complexiones necessitate
+priuatae sunt  at si sint aequimodae nullus omnino est
+syllogismus aequimodae uero dicuntur quotiens a terminus ad
+utrosque uel esse uel non esse proponitur omnes autem aequimodae
+propositiones sunt huiusmodi
+
+si est b est a si est c est a
+
+si est b est a si non est c est a
+
+si non est b est a si est c est a
+
+si non est b est a si non est c est a
+
+si est b non est a si est c non est a
+
+si est b non est a si non est c non est a
+
+si non est b non est a si est c non est a
+
+si non est b non est a si non est c non est a
+
+ in quibus et per consequentiam propositionum superius
+designatam et per exempla currentes possumus lucide et
+constanter agnoscere nullam omnino in syllogismis fieri
+necessitatem quocirca cum tribus terminis texitur propositio
+ex prima quidem figura fiunt syllogismi sedecim ex secunda
+syllogismi sedecim ex tertia etiam totidem colliguntur omnes ex
+tribus terminis syllogismi quadraginta octo restat nunc ut de
+his syllogismis dicamus qui duabus hypotheticis continentur
+quorum quidem similis consequentiae modus est ut in his
+propositionibus quae ex duabus categoricis ac simplicibus
+efficiebantur  in omnibus enim si quidem uelimus astruere
+primam totius propositionis assumemus partem si uero in
+conclusione aliquid destruendum est secunda negabitur siue
+autem prima denegetur siue posterior affirmetur nulla fit
+omnino necessitas nisi in quinta septima tertia decima et
+quinta decima propositione in quibus non complexionis natura
+sed terminorum proprietas consequentiam facit sicut in his
+syllogismis fieri docuimus qui in his propositionibus constant
+quae duabus simplicibus continentur horum autem omnium qui ex
+duabus hypotheticis constant propositiones apposui quarum
+differentias cum lector agnouerit ad earum exempla necesse est
+reuertatur quae ex simplicibus et categoricis iunctae sunt 
+sunt autem omnes propositionum differentiae quae ex duabus
+hypotheticis copulantur huius modi
+
+si cum est a est b cum sit c est d
+
+si cum est a est b cum sit c non est d
+
+si cum est a est b cum non sit c est d
+
+si cum est a est b cum non sit c non est d
+
+si cum sit a non est b cum sit c est d
+
+si cum sit a non est b cum sit c non est d
+
+si cum sit a non est b cum non sit c est d
+
+si cum sit a non est b cum non sit c non est d
+
+si cum non sit a est b cum sit c est d
+
+si cum non sit a est b cum sit c non est d
+
+si cum non sit a est b cum non sit c est d
+
+si cum non sit a est b cum non sit c non est d
+
+si cum non sit a non est b cum sit c est d
+
+si cum non sit a non est b cum sit c non est d
+
+si cum non sit a non est b cum non sit c est d
+
+si cum non sit a non est b cum non sit c non est d
+
+ in his quoque propositionibus illud inspiciendum est quod
+cum sedecim sint octo quidem ita uariantur ut tamen in omnibus
+a terminus esse ponatur octo uero ita ut idem a terminus non
+esse dicatur non uero quoquo modo positae fuerint habebunt uim
+conditionalium propositionum ex duabus hypotheticis constantium
+nam si quis sic dicat  si cum homo est animal est cum sit
+animatum corpus est non fecerit eam propositionem quae ex
+duabus conditionalibus constet neque enim idcirco quod animatum
+est corpus est quia qui homo est animal est nec conditio
+sequitur conditionem sed si eas separes per seque pronunties
+utraque habet in terminorum consequentia necessitatem nam et qui
+homo est animal est et quod animatum est corpus est et per se
+istae propositiones uerae sunt nec conditione iunguntur
+
+  ut igitur singularum natura clarescat de unaquaque est
+disserendum prima igitur propositio talis esse debet ut si sit
+a positum b terminus non continuo subsequatur itemque si c
+ponatur non necesse sit d terminum consequi sed posito quidem
+a termino c terminum posito uero b terminum d esse necesse
+sit tunc enim eueniet ut si posito a fuerit b necesse sit c
+posito subsequi d ut si sint termini a homo b medicus c
+animatum d artifex posito enim homine non necesse est ut
+medicus sit et cum sit animatum non necesse est ut sit artifex
+at si homo sit necesse est ut sit animatum et si medicus sit
+necesse est ut artifex sit hoc itaque posito eueniet ut si cum
+homo sit medicus est cum sit animatum sit artifex 
+secunda propositio ita esse debet ut a atque b itemque c atque
+d praeter se esse possint sed a praeter c esse non possit b
+autem atque d simul esse non possint tunc enim eueniet ut si
+posito a termino b fuerit consecutum posito c non esse d
+necesse sit ut si sit a homo b niger c animatum d albus 
+homo namque praeter nigrum et animatum praeter album uel esse
+uel non esse potest homo uero praeter animatum nigrum autem cum
+albo esse non potest euenitque ut si cum sit homo niger sit
+cum sit animatus non sit albus item tertiae propositionis tales
+terminos esse oportebit ut a praeter b esse possit c uero uel
+cum a uel cum d simul esse non possit  quocirca euenit ut si
+a posito fuerit b negato c termino d esse necesse sit ut si
+sit a quidem animatum b medicus c inanimatum d artifex
+animatum enim praeter medicum esse potest inanimatum uero neque
+cum animato neque cum artifice iungi potest itaque si cum
+animatum est medicus est cum inanimatum non sit artifex est
+quarta propositio his terminis contexenda est ut a quidem cum b
+termino c autem cum d uel esse uel non esse possit neque uero a
+cum c neque b cum d ulto modo esse possibile sit tunc enim
+euenit ut si a posito b subsequatur c negato negetur etiam d
+ut si sit a homo b niger c inanimatum d album homo quidem
+praeter nigrum inanimatum uero praeter album esse et non esse
+potest neque tamen homo cum inanimato neque nigrum cum albo
+esse possibile est  si tamen cum homo sit niger est
+sequitur ut cum non sit inanimatum non sit album quintae
+propositionis haec membra sunt ut a praeter b et c praeter d
+esse uel non esse possit sed a praeter c esse non possit b
+atque d numquam simul esse possint ita ut si alterum non sit
+alterum esse necesse sit tunc enim eueniet ut si a posito b
+negetur c posito d sequatur ut si sit a quidem homo b aeger c
+animatum d sanus homo quidem praeter aegritudinem animatum
+uero praeter sanitatem et esse et non esse potest sed si homo
+sit animatum esse necesse est itaque fiet ut si cum homo sit
+non sit aeger cum sit animatus sanus sit  sexta propositio
+hos terminos habere desiderat ut a praeter b et c praeter d et
+esse et non esse possit idem uero a praeter c et d praeter b
+esse non possit tunc enim eueniet ut si a posito non est b
+posito c non sit d ut si sit a homo b artifex c animatum d
+medicus homo quidem praeter artificium animatum uero praeter
+medicinam et esse et non esse potest neque uero homo praeter
+animatum neque medicus praeter artificium esse potest quo fit
+ut si cum homo est artifex non est cum sit animatum non sit
+medicus  septimae propositionis hi termini sunt ut a quidem
+praeter b esse et non esse possit c autem neque cum d neque cum
+a esse possit b etiam cum c simul esse et non esse non possit
+ita namque eueniet ut si posito a esse b denegetur negato c
+termino d sequatur ut si a quidem sit animatum b sanum c
+inanimatum d aegrum animatum quidem praeter sanitatem et esse
+et non esse potest inanimatum uero neque cum animato neque cum
+aegro conuenire potest quo fit ut si cum animatum est sanum
+est cum non sit inanimatum aegrum sit  item octaua
+propositio his terminis copulanda est ut a quidem praeter b
+terminum et esse et non esse possit c autem cum d non esse
+possit sed a cum c et d praeter b esse non possit hoc enim
+pacto eueniet ut si a posito b denegetur denegato c termino d
+terminus non sit ut si sit a animatum b artifexc inanimatum d
+medicus animatum enim praeter artificium et esse et non esse
+potest inanimatum uero neque cum animato neque cum medico
+conuenit medicus uero praeter artificium esse non potest unde
+euenit ut si cum animatum est non sit artifex cum non sit
+inanimatum non sit medicus
+
+  nona propositio fiet si a quidem atque b simul esse non
+possint c uero possit esse praeter d cum a uero esse non
+possit tunc enim eueniet ut si a denegato b esse consequitur
+posito d sequatur ut si sit a quidem inanimatum b medicus c
+animatum d artifex inanimatum quippe medicus esse non potest
+animatum uero potest non esse artifex inanimatum uero atque
+animatum simul esse non possunt quo fit ut si quod non est
+inanimatum medicus sit cum sit animatum sit artifex decimam
+propositionem tales termini copulabunt ut a quidem praeter b at
+uero c praeter d esse possit sed a cum c et b cum d esse non
+possit  ita enim proueniet ut si negato a esse b
+consequatur posito c termino d non esse necesse sit ut si sit a
+inanimatum b nigrum c animatum d album inanimatum quippe
+praeter nigrum et animatum praeter album esse et non esse
+possunt sed inanimatum cum animato et nigrum cum albo simul
+esse non possunt sed si negatum fuerit inanimatum et consecutum
+fuerit nigrum posito animato album esse negabitur item undecima
+propositio ea sit ut neque a cum b neque c cum d simul esse
+possit a uero sine c et b sine d esse non possit ita enim si
+cum a sit negatum b sequitur cum c negabitur d esse necesse
+est ut si sit a inanimatum b medicus c inuitale d artifex
+inanimatum quidem medicus esse non potest quocirca ne inuitale
+quidem artifex sed quod inanimatum est non potest non esse
+inuitale itemque qui medicus est non potest non esse artifex
+ si igitur inanimatum negetur et medicum esse consequatur cum
+negabitur inuitale artifex esse conseguitur duodecima
+propositio est quam talibus terminis constare oportebit ut a
+quidem praeter b at uero c praeter d uel esse uel non esse
+possit a uero sine c et b cum d esse non possint ita enim
+cadet ut si a negato b sequitur c negato d etiam denegetur ut
+si fuerit a inanimatumb album c inuitale d nigrum inanimatum
+quidem praeter album inuitale autem praeter nigrum uel esse uel
+non esse potest si tamen inanimatum non sit et sit album cum
+inuitale non sit non erit nigrum  tertia decima propositio
+his terminis conectenda est ut a quidem praeter b at uero c
+praeter d esse possit a uero atque c et b atque d ita simul
+esse non possint ut si alterum eorum non fuerit alterum esse
+necesse sit ita namque fiet si cum a negatum sit b negetur cum
+c affirmatum sit d affirmetur ut si sit a irrationabile b
+aegrum c rationabile d sanum irrationabile namque praeter
+aegrum et rationabile praeter sanitatem esse potest
+irrationabile uero atque rationabile et aegrum atque sanum simul
+esse non possunt si tamen alterum eorum non fuerit alterum
+esse necesse est itaque fit ut si irrationabili denegato aegrum
+denegetur rationabili posito sanum ponatur  quarta decima
+propositio his texenda membris est ut a quidem praeter b et c
+praeter d esse possint sed a atque c simul esse non possint ita
+ut cum alterum non fuerit alterum esse necesse sit d uero
+praeter b esse non possit fit igitur ut si cum sit a denegatum
+b denegetur cum sit c non sit d ut si sit a inanimatum b
+artifex c animatum d medicus inanimatum quidem praeter
+artificem animatum uero praeter medicum esse potest inanimatum
+uero cum animato non conuenit et medicus ab artifice nullo modo
+separatur fit igitur ut si cum non est inanimatum non sit
+artifex cum sit animatum non sit medicus  quinta decima
+propositio hos terminos habere debet ut aquidem cum c at uero b
+cum d esse non possit b uero atque d talia sint ut altero
+eorum negato alterum eorum esse necesse sit ita namque fiet ut
+si cum sit a denegatum b negetur cum negabitur c affirmetur d
+ut si sit a quidem irrationabile b sanum c inanimatum d
+aegrum irrationabile quidem si non sit non est inanimatum
+sanum etiam atque aegrum simul esse non possunt et qui sanum
+negauerit aegrum necesse est affirmet itemque e diuerso est
+igitur ut si negato irrationabili negetur sanum negato
+inanimato aegrum ponatur  sexta decima propositio est quae
+his terminis constat ut a quidem praeter c at uero d praeter b
+esse non possit a uero cum b et c cum d esse nullo modo queant
+euenit igitur ut si a quidem negato negetur b denegato c
+terminus d abnuatur ut si sit a inanimatum b artifex c
+inuitale d medicus inanimatum igitur praeter inuitale et
+medicus praeter artificem esse non potest inanimatum uero cum
+artifice et inuitale cum medico esse non poterit si igitur
+negato inanimato negetur artifex negato inuitali negatur
+medicus
+
+  atque haec quidem ratio propositionum quarum superius
+exempla descripsimus idcirco intellegatur assumpta ut earum
+natura claresceret non quo aliter inter se termini esse non
+possint nam ut superius dictum est non sufficit quolibet modo
+iungere terminos ut fiant hypotheticae propositiones ex duabus
+conditionalibus coniugatae neque enim si quis dicat  si cum
+homo est animal est cum dies est lucet talem fecerit
+propositionem quae ex duabus conditionalibus constet idcirco
+quia prior conditio non est secundae causa conditionis hoc
+igitur superius positarum propositionum ratio demonstrat
+quemadmodum fit ut conditionem conditio consequatur quae cum ita
+sint de earum dicendum est syllogismis  fit igitur ex prima
+propositione syllogismus hoc modo si cum est a est b cum sit
+c est d atqui cum sit a est b cum igitur sit c erit d uel
+ita atqui cum sit c non est d cum igitur sit a non est b
+posse uero hanc esse assumptionem superius descripta
+propositionum natura demonstrat item ex secunda propositione
+si cum est a est b cum sit c non est d atqui cum sit a est
+b cum igitur sit c non est d uel ita atqui cum sit c est
+d cum igitur sit a non est b ex tertia si cum sit a est b
+cum non sit c est d atqui cum sit a est b cum igitur non sit
+c est d uel ita atqui cum non sit c non est d cum igitur
+sit a non est b  item ex quarta si cum sit a est b cum
+non sit c non est d sed cum sit a est b cum igitur non sit c
+non est d uel ita atqui cum non sit c est d cum igitur sit
+a non est b ex quinta propositione fiunt quatuor
+collectiones ita namque termini proponuntur ut utrobique fiat
+rata conclusio hoc modo si cum est a non est b cum sit c est
+d atqui cum sit a non est b cum igitur sit c est d uel
+ita atqui cum sit a est b cum igitur sit c non est d uel
+ita atqui cum sit c non est d cum igitur sit a est b uel
+ita atqui cum sit c est d cum igitur sit a non est b ex
+sexta si cum est a non est b cum sit c non est d atqui cum
+sit a non est b cum igitur sit c non est d uel ita atqui
+cum sit c est d cum igitur sit a est b  ex septima itera
+fiunt quatuor syllogismi hoc modo si cum est a non est b cum
+non sit c est d atqui cum est a non est b cum igitur non sit
+c est d uel ita atqui cum sit a est b cum igitur non sit
+c non est d  uel itaatqui cum non sit c non est d cum
+igitur sit a est b uel ita atqui cum non sit c est d cum
+igitur sit a non est b ex octaua propositione si cum est a
+non est b cum non sit c non est d atqui cum sit a non est b
+cum igitur non sit c non est d uel ita atqui cum non sit c
+est d cum igitur sit a est b  hactenus quidem ex his
+propositionibus quae a esse proponebant atque ita caeteros
+terminos affirmando negandoque uariabant ostendimus qui fierent
+syllogismi nunc ex his propositionibus quinam syllogismi fiant
+dicendum est quae ita caeteros terminos uariant ut a non esse
+proponant ex nona enim propositione ita fit syllogismus si cum
+non est a est b cum sit c est d atqui cum non sit a est b
+cum igitur sit c est d uel ita atqui cum sit c non est d
+cum igitur non sit a non est b item ex decima si cum non est
+a est b cum sit c non est d atqui cum non est a est b cum
+igitur sit c non est d  uel ita  atqui cum sit c est d cum
+igitur non sit a non est b  ex undecima si cum non est
+a est b cum non sit c est d atqui cum non est a est b cum
+igitur non sit c est d uel ita atqui cum non sit c non est
+d cum igitur non sit a non est b ex duodecima si cum non
+est a est b cum non sit c non est d atqui cum non sit a est
+b cum igitur non sit c non est d uel ita atqui cum non sit
+c est d cum igitur non sit a non est b item ex tertia
+decima quae quatuor colligit syllogismos hoc modo si cum non
+est a non est b cum sit c est d atqui cum non sit a non est
+b cum igitur sit c non est d uel ita atqui cum non sit a
+est b cum igitur sit c non est d uel ita atqui cum sit c
+non est d cum igitur non sit a est b uel ita atqui cum sit
+c est d cum igitur non sit a non est b  item ex quarta
+decima si cum non est a non est b cum sit c non est d atqui
+cum non est a non est b cum igitur sit c non est d uel ita
+atqui cum sit c est d cum igitur non sit a est b quinta
+decima rursus quatuor colligit syllogismos hoc modo  si cum
+non est a non est b cum non sit c est d atqui cum non sit a
+non est b cum igitur non sit c est d uel ita atqui cum non
+est a est b cum igitur non sit c non est d uel ita atqui
+cum non sit c non est d cum igitur non sit a est b uel ita
+atqui cum non sit c est d cum igitur non sit a non est b ex
+sexta decima propositione si cum non est a non est b cum non
+sit c non est d atqui cum non sit a non est b cum igitur non
+sit c non est d uel ita atqui cum non sit c est d cum
+igitur non sit a est b
+
+  ex quibus omnibus quadraginta conclusiones fiunt sedecim
+quidem assumpta prima conditione ita ut in prima propositione
+est posita sedecim uero assumpta secunda conditione contrario
+modo atque in propositione est collocata octo uero ex quinta
+septima tertia decima et quinta decima propositionibus fiunt
+assumptis primis quidem conditionibus contrario modo atque in
+propositione proferebantur secundis uero conditionibus eodem
+modo assumptis ut in propositione fuerant collocatae  ut
+igitur omnium propositionum conclusionumque ratio clarescat
+omnes huiusmodi enuntiationes cum propositis apposuimus exemplis
+
+si cum est a homo est b medicus cum sit c animatum est d
+artifex
+
+si cum est a homo est b niger cum sit c animatum non est d
+albus
+
+si cum est a animatum est b medicus cum non sit c inanimatum
+est d artifex
+
+si cum est a homo est b niger cum non sit c inanimatum non
+est d albus
+
+si cum est a homo non est b niger cum sit c animatum est d
+sanus
+
+si cum est a homo non est b artifex cum sit c animatum non est
+d medicus
+
+si cum est a animatum non est b sanum cum non sit c inanimatum
+est d aegrum si cum est a animatum non est b artifex cuna non
+sit inanimatum non est d medicus
+
+si cum non est a inanimatum est b medicus cum sit c animatum
+est d artifex
+
+si cum non est a inanimatum est b niger cum sit c animatum non
+est d albus
+
+si cum non est a inanimatum est b medicus cum non sit c
+inuitale est d artifex
+
+si cum non est a inanimatum est b albus cum non sit c inuitale
+non est d nigrum
+
+si cum non est a irrationale non est b aegrum cum sit c
+rationale est d sanum
+
+si cum non est a inanimatum non est b artifex cum sit c
+animatum non est d medicus
+
+si cum non est a irrationale non est b sanum cum non sit c
+inanimatum est d aegrum
+
+si cum non est a inanimatum non est b artifex cum non sit c
+inuitale non est d medicus
+
+ ac de his quidem qui per conexionem fiunt haec dicta sunt hi
+uero qui in disiunctione sunt positi illis uidentur adiuncti
+eorumque modos formasque suscipiunt quos superius in conexione
+positos ex his propositionibus fieri diximus quae duabus
+simplicibus iungerentur si igitur in disiunctione propositarum
+propositionum ad eas similitudinem demonstrauerim quae in
+conexione positae ex simplicibus copulatae sunt quot modi
+qualesque conclusiones sunt in unaquaque illarum quae per
+conexionem fiunt propositionum tot etiam in his esse necesse est
+quae per disiunctionem pronuntiatae eamdem uim conexioni habere
+monstrantur quatuor ergo superius differentias per conexionem
+enuntiatarum propositionum esse diximus si ex simplicibus
+propositionibus copularentur hoc modo  si est a est b si
+non est a non est b si est a non est b si non est a est
+b  per disiunctionem quoque propositiones quatuor
+differentias tenent hoc modo aut a est aut b est aut a non
+est aut b non est aut a est aut b non est aut a non est
+aut b est quarum quidem ea quae prima est et proponit aut a
+esse aut b in his tantum dici potest in quibus alterum eorum
+esse necesse est uelut in contrariis medietate carentibus
+similisque est ei propositioni quae dicit si a non est b est
+quae enim proponit aut a est aut b est id intellegit neque
+simul utraque esse posse et si unum non fuerit consequi ut
+sit alterum itaque si non sit a erit b sed haec una est earum
+propositionum quas in his quae per conexionem fiunt superius
+numerauimus  quicumque igitur syllogismi in ea propositione
+fiunt quae est si a non est b est hi etiam in ea faciendi
+sunt quae per disiunctionem proponitur cum dicimus aut a est
+aut b est fiunt autem in superiore quatuor modis quamlibet
+enim partem propositionis assumpseris siue praecedentem siue
+etiam consequentem siue negatiuo modo siue affirmatiuo faciet
+syllogismum nam si haec propositio sit si non est a est b
+siue non sit a erit b siue sit a non erit b siue non sit b
+erit a siue sit b non erit a  in propositione quoque
+disiunctiua idem est nam cum dicitur aut a est aut b est
+siquidem a fuerit b non erit quod si a non fuerit erit b et
+si b non sit erit a si b fuerit non erit a id quoque tali
+declaratur exemplo nam si sit propositio aut aeger est aut
+sanus quidquid horum in assumptione assumptum fuerit uel
+negatum altera pars uel affirmabitur uel negabitur hoc modo
+nam si sanus est non est aeger si non est sanus aeger est si
+aeger est non est sanus si non est aeger sanus est  item
+ea propositio disiunctiua quae proponit aut non est a aut non
+est b fit quidem de his quae quolibet modo simul esse non
+possunt etiamsi non alterum eorum necesse sit esse similisque
+est ei propositioni conexae per quam ita proponatur si est a
+non est b quae enim sic enuntiat aut non est a aut non est
+b id nimirum sentit quod si a sit b esse non possit id ita
+probabitur cum enim proponitur hoc modo aut non est a aut non
+est b tum si assumatur esse a non erit b quocirca ei
+propositioni conexae similis est quae ita enuntiat si sit a non
+esse b in hac uero propositione duae tantum complexiones
+syllogismos creabant nam si esset a non erat b et si esset b
+non erat a siue autem non esset a non necesse erat esse uel non
+esse b siue non esset b non necesse erat esse uel non esse a
+
+  quocirca et in disiunctiua propositione totidem
+syllogismos esse necesse est totidem uero incollectibiles
+complexiones nam cum ita proponitur aut non est a aut non est
+b ita dicitur si sit a non erit b et si sit b non erit
+a siue autem non sit a non necesse erit esse uel non esse b
+siue non sit b non necesse erit esse uel non esse a ueluti in
+his apparet exemplis  si enim quis dicat aut non est album
+aut non est nigrum si igitur assumat atqui est album non
+erit nigrum uel rursus atqui est nigrum non erit album siue
+autem album non esse assumpserit non necesse erit esse uel non
+esse nigrum siue nigrum non esse assumpserit ut sit uel non sit
+album nullam faciet necessitatem item ea propositio per quam
+ita proponitur aut est a aut non est b dicitur quidem de
+sibimet adhaerentibus proponiturque in his propositionibus quae
+ad minora de maioribus tendunt similisque est ei propositioni
+conexae quae enuntiat si non est a non est b  nam qui
+dicit aut est a aut non est b si assumat atqui non est a
+modis omnibus non erit b si igitur non sit a non erit b id
+enim haec disiunctio praemittebat in hac uero siquidem a
+negaretur uel confirmaretur b fiebat aliquis syllogismus siue
+autem a affirmaretur siue b negaretur nulla erat in conclusione
+necessitas idem prouenit in disiunctis nam cum proponitur
+aut est a aut non est b siquidem non sit a non erit b si
+uero sit b erit a quod si sit a uel non sit b nihil est
+necessarium  id uero in his terminis approbatur si quis ita
+proponat aut animal est aut non est homo si igitur animal
+non sit non est homo si homo sit animal est siue autem animal
+sit non necesse est esse hominem siue homo non sit animal non
+necesse est interire ea uero propositio quae dicitaut non est
+a aut est b in his quae siti adhaerent proponi potest et a
+minoribus ad maiora contendit sed est similis ei propositioni
+conexae quae dicit si est a est b nam cum ita quis enuntiat
+siquidem assumat esse a statim consequitur ut sit b sed in hac
+propositione siquidem affirmaretur esse a sequebatur ut esset
+b  quod si negaretur b sequebatur ut non esset a siue autem
+negaretur a siue affirmaretur b nihil necessarium uidebatur
+accidere et in ea igitur propositione disiuncta quae dicit aut
+non est a aut est b siquidem fuerit a erit b si non fuerit
+b non erit a siue autem non sit a siue sit b nulla est
+necessitas syllogismi ut in hoc declaratur exemplo aut non est
+homo aut animal est si igitur assumamus atqui est homo
+erit animal si negemus esse animal non erit homo si autem
+hominem negemus uel animal affirmemus nihil necessarium cadit
+ quocirca ex his quae superius dicta sunt declaratur quot
+disiunctarum propositionum syllogismi sint uel quibus ab his
+quae conexae sunt differentiis segregentur quae enim conexae
+sunt quandam in eo quod est esse uel non esse consequentiam
+monstrant quae uero secundum disiunctionem proponuntur ita sunt
+ut sibimet consentire non possint inuenias quoque per
+conexionem propositiones quae id intellegi uelint ut a se
+nequeant separari ut cum ita proponimus si est a est b id
+nimirum haec propositio intellegit quod si esse potuerit a
+statim consequatur ut sit etiam b  nulla uero earum quae in
+disiunctione sunt ita proponitur ut simul esse uideantur cum
+enim dicimus aut a est aut b est aut easdem propositiones
+quolibet modo alio uariamus id et coniunctio quae disiunctiua
+ponitur sentit simul eas esse non posse et cum late earum pateat
+differentia idcirco nunc de eisdem pauca subiunximus quoniam
+totidem syllogismos fieri dicebamus in his propositionibus quae
+per disiunctionem fierent quot etiam fuerant in conexis et
+quoniam de omnibus qui quoquo modo fieri possunt hypotheticis
+syllogismis sufficienter dictum est hic operis longitudinem
+terminemus
+
